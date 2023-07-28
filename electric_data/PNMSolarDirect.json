@@ -1,0 +1,90 @@
+[
+    {
+        "YearNum": 2022,
+        "MonthNum": 4,
+        "TOTAL_KILOWATT": 273574,
+        "TOTAL_AMOUNT_DUE": 3513.65,
+        "CUSTOMER_NUMBER": 1180683801983222,
+        "NAME": "Pnm Solar Direct"
+    },
+    {
+        "YearNum": 2022,
+        "MonthNum": 5,
+        "TOTAL_KILOWATT": 7064149,
+        "TOTAL_AMOUNT_DUE": 55863.51,
+        "CUSTOMER_NUMBER": 1180683801983222,
+        "NAME": "Pnm Solar Direct"
+    },
+    {
+        "YearNum": 2022,
+        "MonthNum": 6,
+        "TOTAL_KILOWATT": 6792343,
+        "TOTAL_AMOUNT_DUE": 105460.72,
+        "CUSTOMER_NUMBER": 1180683801983222,
+        "NAME": "Pnm Solar Direct"
+    },
+    {
+        "YearNum": 2022,
+        "MonthNum": 7,
+        "TOTAL_KILOWATT": 6681591,
+        "TOTAL_AMOUNT_DUE": 149122.23,
+        "CUSTOMER_NUMBER": 1180683801983222,
+        "NAME": "Pnm Solar Direct"
+    },
+    {
+        "YearNum": 2022,
+        "MonthNum": 8,
+        "TOTAL_KILOWATT": 6462339,
+        "TOTAL_AMOUNT_DUE": 142684.45,
+        "CUSTOMER_NUMBER": 1180683801983222,
+        "NAME": "Pnm Solar Direct"
+    },
+    {
+        "YearNum": 2022,
+        "MonthNum": 9,
+        "TOTAL_KILOWATT": 6038465,
+        "TOTAL_AMOUNT_DUE": 133196.56,
+        "CUSTOMER_NUMBER": 1180683801983222,
+        "NAME": "Pnm Solar Direct"
+    },
+    {
+        "YearNum": 2022,
+        "MonthNum": 10,
+        "TOTAL_KILOWATT": 5132432,
+        "TOTAL_AMOUNT_DUE": 162907.69,
+        "CUSTOMER_NUMBER": 1180683801983222,
+        "NAME": "Pnm Solar Direct"
+    },
+    {
+        "YearNum": 2022,
+        "MonthNum": 11,
+        "TOTAL_KILOWATT": 4376135,
+        "TOTAL_AMOUNT_DUE": 142957.64,
+        "CUSTOMER_NUMBER": 1180683801983222,
+        "NAME": "Pnm Solar Direct"
+    },
+    {
+        "YearNum": 2022,
+        "MonthNum": 12,
+        "TOTAL_KILOWATT": 3133372,
+        "TOTAL_AMOUNT_DUE": 102449.67,
+        "CUSTOMER_NUMBER": 1180683801983222,
+        "NAME": "Pnm Solar Direct"
+    },
+    {
+        "YearNum": 2023,
+        "MonthNum": 1,
+        "TOTAL_KILOWATT": 3736975,
+        "TOTAL_AMOUNT_DUE": 113483.3,
+        "CUSTOMER_NUMBER": 1180683801983222,
+        "NAME": "Pnm Solar Direct"
+    },
+    {
+        "YearNum": 2023,
+        "MonthNum": 2,
+        "TOTAL_KILOWATT": 4587202,
+        "TOTAL_AMOUNT_DUE": 142720.33,
+        "CUSTOMER_NUMBER": 1180683801983222,
+        "NAME": "Pnm Solar Direct"
+    }
+]

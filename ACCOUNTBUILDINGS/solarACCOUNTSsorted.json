@@ -1,0 +1,446 @@
+[
+  {
+    "AccountNumber": "1152686481159041190",
+    "Name": "Emergency Consolidation Center",
+    "DistrictNum": 9,
+    "Group": "AFR",
+    "Membership": [
+      "Solar Site",
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "1152707091159663190",
+    "Name": "Alamosa Community Center",
+    "DistrictNum": 3,
+    "Group": "Family & Community Services",
+    "Membership": [
+      "Battery Site",
+      "Solar Site",
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "1154524401185523190",
+    "Name": "Foothills Area Command",
+    "DistrictNum": 9,
+    "Group": "APD",
+    "Membership": [
+      "Solar Site"
+    ]
+  },
+  {
+    "AccountNumber": "1154722301199860190",
+    "Name": "Metro Forensics Science Center",
+    "DistrictNum": 2,
+    "Group": "APD",
+    "Membership": [
+      "Battery Site",
+      "Solar Site",
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "1155887351242554190",
+    "Name": "Daytona Administration - Operations",
+    "DistrictNum": 1,
+    "Group": "Transit",
+    "Membership": [
+      "Battery Site",
+      "Solar Site",
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "1156246761225678190",
+    "Name": "Taylor Ranch Community Center",
+    "DistrictNum": 1,
+    "Group": "Family & Community Services",
+    "Membership": [
+      "Solar Site",
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "1156337071255741190",
+    "Name": "Fire Station 21",
+    "DistrictNum": 5,
+    "Group": "AFR",
+    "Membership": [
+      "Solar Site",
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "1156347071255999190",
+    "Name": "Fire Station 5",
+    "DistrictNum": 6,
+    "Group": "AFR",
+    "Membership": [
+      "Solar Site",
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "1156632070381240190",
+    "Name": "Cerro Colorado Landfill",
+    "DistrictNum": 6,
+    "Group": "Solid Waste",
+    "Membership": [
+      "Solar Site"
+    ]
+  },
+  {
+    "AccountNumber": "1158257551329539190",
+    "Name": "Northwest Area Command",
+    "DistrictNum": 5,
+    "Group": "APD",
+    "Membership": [
+      "Solar Site"
+    ]
+  },
+  {
+    "AccountNumber": "1158576811338280",
+    "Name": "Cerro Colorado Landfill",
+    "DistrictNum": 6,
+    "Group": "Solid Waste",
+    "Membership": [
+      "Solar Site"
+    ]
+  },
+  {
+    "AccountNumber": "1158576811338280190",
+    "Name": "Cerro Colorado Landfill",
+    "DistrictNum": 6,
+    "Group": "Solid Waste",
+    "Membership": [
+      "Solar Site"
+    ]
+  },
+  {
+    "AccountNumber": "1158874170170108190",
+    "Name": "Balloon Fiesta Park",
+    "DistrictNum": 4,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Solar Site",
+      "Ev Charging Station",
+      "Cultural Center"
+    ]
+  },
+  {
+    "AccountNumber": "1159501631345305190",
+    "Name": "North Domingo Baca Multi Generational Center",
+    "DistrictNum": 4,
+    "Group": "Senior Affairs",
+    "Membership": [
+      "Solar Site",
+      "Ev Charging Station"
+    ]
+  },
+  {
+    "AccountNumber": "1159595451372313190",
+    "Name": "Casa Kitchen",
+    "DistrictNum": 2,
+    "Group": "Senior Affairs",
+    "Membership": [
+      "Solar Site"
+    ]
+  },
+  {
+    "AccountNumber": "1160132831396361190",
+    "Name": "Fire Station 2",
+    "DistrictNum": 6,
+    "Group": "AFR",
+    "Membership": [
+      "Solar Site"
+    ]
+  },
+  {
+    "AccountNumber": "1160132841396360190",
+    "Name": "Fire Station 7",
+    "DistrictNum": 2,
+    "Group": "AFR",
+    "Membership": [
+      "Solar Site"
+    ]
+  },
+  {
+    "AccountNumber": "1160321161406019190",
+    "Name": "Cerro Colorado Landfill",
+    "DistrictNum": 6,
+    "Group": "Solid Waste",
+    "Membership": [
+      "Solar Site"
+    ]
+  },
+  {
+    "AccountNumber": "1160366270380231190",
+    "Name": "Fire Station 22",
+    "DistrictNum": 8,
+    "Group": "AFR",
+    "Membership": [
+      "Solar Site"
+    ]
+  },
+  {
+    "AccountNumber": "1160751781422280190",
+    "Name": "Montano Transit Center",
+    "DistrictNum": 2,
+    "Group": "Transit",
+    "Membership": [
+      "Solar Site"
+    ]
+  },
+  {
+    "AccountNumber": "1161036921416257190",
+    "Name": "Central Unser Library",
+    "DistrictNum": 1,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Solar Site",
+      "Ev Charging Station",
+      "Library"
+    ]
+  },
+  {
+    "AccountNumber": "1173199301576664100",
+    "Name": "Dmd Lighting",
+    "DistrictNum": 2,
+    "Group": "Misc. Lighting"
+  },
+  {
+    "AccountNumber": "1176725811716642190",
+    "Name": "Los Altos Park",
+    "DistrictNum": 7,
+    "Group": "Parks & Recreation",
+    "Membership": [
+      "Solar Site",
+      "Park"
+    ]
+  },
+  {
+    "AccountNumber": "1180683801983222",
+    "Name": "Pnm Solar Direct",
+    "Membership": [
+      "Solar Site"
+    ]
+  },
+  {
+    "AccountNumber": "319255020379916190",
+    "Name": "Barelas Senior Center",
+    "DistrictNum": 2,
+    "Group": "Senior Affairs",
+    "Membership": [
+      "Solar Site",
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "319301010379948190",
+    "Name": "Ladera Golf Course",
+    "DistrictNum": 1,
+    "Group": "Parks & Recreation",
+    "Membership": [
+      "Solar Site",
+      "Park"
+    ]
+  },
+  {
+    "AccountNumber": "319301011193550190",
+    "Name": "Ladera Golf Course",
+    "DistrictNum": 1,
+    "Group": "Parks & Recreation",
+    "Membership": [
+      "Solar Site",
+      "Park"
+    ]
+  },
+  {
+    "AccountNumber": "319380000379999190",
+    "Name": "Fire Station 11",
+    "DistrictNum": 6,
+    "Group": "AFR",
+    "Membership": [
+      "Solar Site"
+    ]
+  },
+  {
+    "AccountNumber": "319419010380024190",
+    "Name": "Albuquerque Museum",
+    "DistrictNum": 2,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Battery Site",
+      "Solar Site",
+      "Ev Charging Station",
+      "Museum"
+    ]
+  },
+  {
+    "AccountNumber": "319439010380038190",
+    "Name": "Pino Yards",
+    "DistrictNum": 4,
+    "Group": "DMD",
+    "Membership": [
+      "Solar Site",
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "319548010380105190",
+    "Name": "Zoo",
+    "DistrictNum": 2,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Battery Site",
+      "Solar Site",
+      "BioPark",
+      "Ev Charging Station",
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "319548010380105500",
+    "Name": "Zoo",
+    "DistrictNum": 2,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Battery Site",
+      "Solar Site",
+      "BioPark",
+      "Ev Charging Station",
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "319932000380339190",
+    "Name": "Fire Station 18",
+    "DistrictNum": 1,
+    "Group": "AFR",
+    "Membership": [
+      "Solar Site"
+    ]
+  },
+  {
+    "AccountNumber": "321100000380986190",
+    "Name": "Abq International Sunport",
+    "DistrictNum": 6,
+    "Group": "Aviation",
+    "Membership": [
+      "Ev Charging Station",
+      "Solar Site"
+    ]
+  },
+  {
+    "AccountNumber": "321136000381006190",
+    "Name": "Ladera Golf Course",
+    "DistrictNum": 1,
+    "Group": "Parks & Recreation",
+    "Membership": [
+      "Solar Site",
+      "Park"
+    ]
+  },
+  {
+    "AccountNumber": "321290010381094190",
+    "Name": "Abq International Sunport",
+    "DistrictNum": 6,
+    "Group": "Aviation",
+    "Membership": [
+      "Ev Charging Station",
+      "Solar Site"
+    ]
+  },
+  {
+    "AccountNumber": "321312020381109190",
+    "Name": "Abq International Sunport",
+    "DistrictNum": 6,
+    "Group": "Aviation",
+    "Membership": [
+      "Ev Charging Station",
+      "Solar Site"
+    ]
+  },
+  {
+    "AccountNumber": "321315010381111190",
+    "Name": "Abq International Sunport",
+    "DistrictNum": 6,
+    "Group": "Aviation",
+    "Membership": [
+      "Ev Charging Station",
+      "Solar Site"
+    ]
+  },
+  {
+    "AccountNumber": "321402020381164190",
+    "Name": "Los Volcanes Senior Center",
+    "DistrictNum": 1,
+    "Group": "Senior Affairs",
+    "Membership": [
+      "Solar Site"
+    ]
+  },
+  {
+    "AccountNumber": "321579010381264190",
+    "Name": "Cerro Colorado Landfill",
+    "DistrictNum": 6,
+    "Group": "Solid Waste",
+    "Membership": [
+      "Solar Site"
+    ]
+  },
+  {
+    "AccountNumber": "321812010381393190",
+    "Name": "Fire Station 8",
+    "DistrictNum": 9,
+    "Group": "AFR",
+    "Membership": [
+      "Solar Site"
+    ]
+  },
+  {
+    "AccountNumber": "322077010381537190",
+    "Name": "Police Training",
+    "DistrictNum": 2,
+    "Group": "APD",
+    "Membership": [
+      "Solar Site",
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "322226030381624190",
+    "Name": "Los Griegos Health And Social Service Center",
+    "DistrictNum": 2,
+    "Group": "Family & Community Services",
+    "Membership": [
+      "Battery Site",
+      "Solar Site",
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "322696010381869190",
+    "Name": "Aquarium And Botanical Garden",
+    "DistrictNum": 2,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Battery Site",
+      "Ev Charging Station",
+      "Solar Site",
+      "Esco",
+      "BioPark"
+    ]
+  },
+  {
+    "AccountNumber": "323068010382067190",
+    "Name": "Cherry Hills Library",
+    "DistrictNum": 4,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Solar Site",
+      "Library"
+    ]
+  }
+]

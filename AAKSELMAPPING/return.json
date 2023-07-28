@@ -1,0 +1,79 @@
+{
+  "data": [
+    {
+      "id": 683,
+      "serial_number": "2216UUG006237",
+      "dev_eui": "8c4b149500c46919"
+    },
+    {
+      "id": 26,
+      "serial_number": "2006DFA004359",
+      "dev_eui": "4b15bc8d14ced6d9"
+    },
+    {
+      "id": 30,
+      "serial_number": "2006DFA004356",
+      "dev_eui": "7527cc4a122aa258"
+    },
+    {
+      "id": 681,
+      "serial_number": "2216UUG006258",
+      "dev_eui": "8c4b149806fc4eb2"
+    },
+    {
+      "id": 676,
+      "serial_number": "2204UHA000182",
+      "dev_eui": "e0e2e64d0b1c2e83"
+    },
+    {
+      "id": 684,
+      "serial_number": "2207UHA000050",
+      "dev_eui": "e0e2e64d8ac08282"
+    },
+    {
+      "id": 686,
+      "serial_number": "2207UHA000018",
+      "dev_eui": "e0e2e64cbac01079"
+    },
+    {
+      "id": 37,
+      "serial_number": "2006DFA003232",
+      "dev_eui": "7502145f49bdcc90"
+    },
+    {
+      "id": 682,
+      "serial_number": "2216UUG006256",
+      "dev_eui": "8c4b149806c08735"
+    },
+    {
+      "id": 29,
+      "serial_number": "2006DFA004238",
+      "dev_eui": "64b72cf2b11c6d0b"
+    },
+    {
+      "id": 28,
+      "serial_number": "2006DFA003271",
+      "dev_eui": "74fe04c47b1ab0b3"
+    },
+    {
+      "id": 27,
+      "serial_number": "2006DFA003265",
+      "dev_eui": "75024c5671280220"
+    },
+    {
+      "id": 25,
+      "serial_number": "2006DFA004342",
+      "dev_eui": "751924ca38ee0022"
+    },
+    {
+      "id": 35,
+      "serial_number": "2006DFA003256",
+      "dev_eui": "64b440be35d5e7cf"
+    },
+    {
+      "id": 674,
+      "serial_number": "2208UHW000116",
+      "dev_eui": "083af20d423c8c1e"
+    }
+  ]
+}

@@ -1,0 +1,2558 @@
+ [
+      {
+        "Facility Name": "Fire Station 6",
+        "BRAIN Facility Group": "AFR"
+      },
+      {
+        "Facility Name": "Fire Station 15",
+        "BRAIN Facility Group": "AFR"
+      },
+      {
+        "Facility Name": "Fire Station 16",
+        "BRAIN Facility Group": "AFR"
+      },
+      {
+        "Facility Name": "Fire Station 4",
+        "BRAIN Facility Group": "AFR"
+      },
+      {
+        "Facility Name": "Fire Station 12",
+        "BRAIN Facility Group": "AFR"
+      },
+      {
+        "Facility Name": "Fire Station 9 (Old)",
+        "BRAIN Facility Group": "AFR"
+      },
+      {
+        "Facility Name": "Fire Station 9 (New)",
+        "BRAIN Facility Group": "AFR"
+      },
+      {
+        "Facility Name": "Fire Station 10",
+        "BRAIN Facility Group": "AFR"
+      },
+      {
+        "Facility Name": "Fire Station 17",
+        "BRAIN Facility Group": "AFR"
+      },
+      {
+        "Facility Name": "Fire Station 2",
+        "BRAIN Facility Group": "AFR"
+      },
+      {
+        "Facility Name": "Fire Station 11",
+        "BRAIN Facility Group": "AFR"
+      },
+      {
+        "Facility Name": "CIP Shop ",
+        "BRAIN Facility Group": "AFR"
+      },
+      {
+        "Facility Name": "Maintenance Shop",
+        "BRAIN Facility Group": "AFR"
+      },
+      {
+        "Facility Name": "Fire Station 3",
+        "BRAIN Facility Group": "AFR"
+      },
+      {
+        "Facility Name": "Fire Station 18",
+        "BRAIN Facility Group": "AFR"
+      },
+      {
+        "Facility Name": "Fire Station 1 and Fire Marshall Office",
+        "BRAIN Facility Group": "AFR"
+      },
+      {
+        "Facility Name": "Fire Station 13 and Fire Arson",
+        "BRAIN Facility Group": "AFR"
+      },
+      {
+        "Facility Name": "Fire Academy",
+        "BRAIN Facility Group": "AFR"
+      },
+      {
+        "Facility Name": "Street Lights",
+        "BRAIN Facility Group": "Street Lights"
+      },
+      {
+        "Facility Name": "Fire Station 8",
+        "BRAIN Facility Group": "AFR"
+      },
+      {
+        "Facility Name": "Fire and Arson",
+        "BRAIN Facility Group": "AFR"
+      },
+      {
+        "Facility Name": "Fire Station 19",
+        "BRAIN Facility Group": "AFR"
+      },
+      {
+        "Facility Name": "Emergency Consolidation Center",
+        "BRAIN Facility Group": "AFR"
+      },
+      {
+        "Facility Name": "Fire Station 20",
+        "BRAIN Facility Group": "AFR"
+      },
+      {
+        "Facility Name": "Fire Station 14",
+        "BRAIN Facility Group": "AFR"
+      },
+      {
+        "Facility Name": "Fire Station 21",
+        "BRAIN Facility Group": "AFR"
+      },
+      {
+        "Facility Name": "Fire Station 5",
+        "BRAIN Facility Group": "AFR"
+      },
+      {
+        "Facility Name": "Air Quality",
+        "BRAIN Facility Group": "AFR"
+      },
+      {
+        "Facility Name": "Fire Station 7",
+        "BRAIN Facility Group": "AFR"
+      },
+      {
+        "Facility Name": "Fire Station 22",
+        "BRAIN Facility Group": "AFR"
+      },
+      {
+        "Facility Name": "4th Street Yards",
+        "BRAIN Facility Group": "DMD"
+      },
+      {
+        "Facility Name": "North Valley Ambient Air Monitoring Station",
+        "BRAIN Facility Group": "Air Quality & Environmental Health"
+      },
+      {
+        "Facility Name": "Holly Ambient Air Monitoring Station",
+        "BRAIN Facility Group": "Air Quality & Environmental Health"
+      },
+      {
+        "Facility Name": "Mesilla Ambient Air Monitoring Station",
+        "BRAIN Facility Group": "Air Quality & Environmental Health"
+      },
+      {
+        "Facility Name": "Coors Ambient Air Monitoring Station",
+        "BRAIN Facility Group": "Air Quality & Environmental Health"
+      },
+      {
+        "Facility Name": "Del Norte Ambient Air Monitoring Station",
+        "BRAIN Facility Group": "Air Quality & Environmental Health"
+      },
+      {
+        "Facility Name": "Wilson Pool",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Montano Ambient Air Monitoring Station",
+        "BRAIN Facility Group": "Air Quality & Environmental Health"
+      },
+      {
+        "Facility Name": "Uptown Monitoring Station",
+        "BRAIN Facility Group": "Air Quality & Environmental Health"
+      },
+      {
+        "Facility Name": "South Valley Ambient Air Monitoring Station",
+        "BRAIN Facility Group": "Air Quality & Environmental Health"
+      },
+      {
+        "Facility Name": "Jefferson Ambient Air Monitoring Station",
+        "BRAIN Facility Group": "Air Quality & Environmental Health"
+      },
+      {
+        "Facility Name": "Foothills Ambient Air Monitoring Station",
+        "BRAIN Facility Group": "Air Quality & Environmental Health"
+      },
+      {
+        "Facility Name": "Animal Welfare Eastside Shelter",
+        "BRAIN Facility Group": "Animal Welfare"
+      },
+      {
+        "Facility Name": "APD New Systems",
+        "BRAIN Facility Group": "APD"
+      },
+      {
+        "Facility Name": "Radio Transmitter",
+        "BRAIN Facility Group": "APD"
+      },
+      {
+        "Facility Name": "Police Pistol",
+        "BRAIN Facility Group": "APD"
+      },
+      {
+        "Facility Name": "APD Main",
+        "BRAIN Facility Group": "APD"
+      },
+      {
+        "Facility Name": "APD Communication Tower",
+        "BRAIN Facility Group": "APD"
+      },
+      {
+        "Facility Name": "Northeast Area Command",
+        "BRAIN Facility Group": "APD"
+      },
+      {
+        "Facility Name": "City County Building",
+        "BRAIN Facility Group": "APD"
+      },
+      {
+        "Facility Name": "Law Enforcement Center",
+        "BRAIN Facility Group": "APD"
+      },
+      {
+        "Facility Name": "Shooting Range Park",
+        "BRAIN Facility Group": "APD"
+      },
+      {
+        "Facility Name": "Southeast Area Command",
+        "BRAIN Facility Group": "APD"
+      },
+      {
+        "Facility Name": "Valley Area Command",
+        "BRAIN Facility Group": "APD"
+      },
+      {
+        "Facility Name": "Triangle Substation",
+        "BRAIN Facility Group": "APD"
+      },
+      {
+        "Facility Name": "APD Generator Room",
+        "BRAIN Facility Group": "APD"
+      },
+      {
+        "Facility Name": "APD Radio Tower",
+        "BRAIN Facility Group": "APD"
+      },
+      {
+        "Facility Name": "Old Town Community Substation",
+        "BRAIN Facility Group": "APD"
+      },
+      {
+        "Facility Name": "South Broadway Community Substation",
+        "BRAIN Facility Group": "APD"
+      },
+      {
+        "Facility Name": "Foothills Area Command",
+        "BRAIN Facility Group": "APD"
+      },
+      {
+        "Facility Name": "Metro Forensics Science Center",
+        "BRAIN Facility Group": "APD"
+      },
+      {
+        "Facility Name": "James Dwyer Memorial Substation",
+        "BRAIN Facility Group": "APD"
+      },
+      {
+        "Facility Name": "Southwest Area Command",
+        "BRAIN Facility Group": "APD"
+      },
+      {
+        "Facility Name": "APD Portable Classroom",
+        "BRAIN Facility Group": "APD"
+      },
+      {
+        "Facility Name": "Northwest Area Command",
+        "BRAIN Facility Group": "APD"
+      },
+      {
+        "Facility Name": "Old Westside Jail",
+        "BRAIN Facility Group": "APD"
+      },
+      {
+        "Facility Name": "Aquarium and Botanical Garden",
+        "BRAIN Facility Group": "Cultural Services"
+      },
+      {
+        "Facility Name": "APD SID",
+        "BRAIN Facility Group": "APD"
+      },
+      {
+        "Facility Name": "Regional Transportation Management Center",
+        "BRAIN Facility Group": "DMD"
+      },
+      {
+        "Facility Name": "APD Special Investigations",
+        "BRAIN Facility Group": "APD"
+      },
+      {
+        "Facility Name": "APD Air Support",
+        "BRAIN Facility Group": "APD"
+      },
+      {
+        "Facility Name": "ABQ International Sunport",
+        "BRAIN Facility Group": "Aviation"
+      },
+      {
+        "Facility Name": "Double Eagle II Airport",
+        "BRAIN Facility Group": "Aviation"
+      },
+      {
+        "Facility Name": "Rental Car Center",
+        "BRAIN Facility Group": "Aviation"
+      },
+      {
+        "Facility Name": "SAMS Academy",
+        "BRAIN Facility Group": "Aviation"
+      },
+      {
+        "Facility Name": "Parking Lot Lights",
+        "BRAIN Facility Group": "Aviation"
+      },
+      {
+        "Facility Name": "John Marshall Health and Social Service Center",
+        "BRAIN Facility Group": "Family & Community Services"
+      },
+      {
+        "Facility Name": "East Central Health and Social Service Center",
+        "BRAIN Facility Group": "Family & Community Services"
+      },
+      {
+        "Facility Name": "Whittier Community Center",
+        "BRAIN Facility Group": "Family & Community Services"
+      },
+      {
+        "Facility Name": "Snow Park Community Center",
+        "BRAIN Facility Group": "Family & Community Services"
+      },
+      {
+        "Facility Name": "Heights Community Center",
+        "BRAIN Facility Group": "Family & Community Services"
+      },
+      {
+        "Facility Name": "Dennis Chavez Community Center",
+        "BRAIN Facility Group": "Family & Community Services"
+      },
+      {
+        "Facility Name": "Thomas Bell Community Center",
+        "BRAIN Facility Group": "Family & Community Services"
+      },
+      {
+        "Facility Name": "Holiday Park Community Center",
+        "BRAIN Facility Group": "Family & Community Services"
+      },
+      {
+        "Facility Name": "Jeanne Bellamah Community Center",
+        "BRAIN Facility Group": "Family & Community Services"
+      },
+      {
+        "Facility Name": "Wells Park Community Center",
+        "BRAIN Facility Group": "Family & Community Services"
+      },
+      {
+        "Facility Name": "Isshin Ryu Club",
+        "BRAIN Facility Group": "Family & Community Services"
+      },
+      {
+        "Facility Name": "Jack Candelaria Community Center",
+        "BRAIN Facility Group": "Family & Community Services"
+      },
+      {
+        "Facility Name": "Westgate Community Center",
+        "BRAIN Facility Group": "Family & Community Services"
+      },
+      {
+        "Facility Name": "Loma Linda Community Center",
+        "BRAIN Facility Group": "Family & Community Services"
+      },
+      {
+        "Facility Name": "Santa Barbara Apartments",
+        "BRAIN Facility Group": "Family & Community Services"
+      },
+      {
+        "Facility Name": "Singing Arrow Community Center",
+        "BRAIN Facility Group": "Family & Community Services"
+      },
+      {
+        "Facility Name": "Los Griegos Health and Social Service Center",
+        "BRAIN Facility Group": "Family & Community Services"
+      },
+      {
+        "Facility Name": "Cesar Chavez Community Center",
+        "BRAIN Facility Group": "Family & Community Services"
+      },
+      {
+        "Facility Name": "North Valley Community Center",
+        "BRAIN Facility Group": "Family & Community Services"
+      },
+      {
+        "Facility Name": "McKinley Community Center",
+        "BRAIN Facility Group": "Family & Community Services"
+      },
+      {
+        "Facility Name": "Alamosa Community Center",
+        "BRAIN Facility Group": "Family & Community Services"
+      },
+      {
+        "Facility Name": "Barelas Community Center",
+        "BRAIN Facility Group": "Family & Community Services"
+      },
+      {
+        "Facility Name": "Los Duranes Community Center",
+        "BRAIN Facility Group": "Family & Community Services"
+      },
+      {
+        "Facility Name": "Taylor Ranch Community Center",
+        "BRAIN Facility Group": "Family & Community Services"
+      },
+      {
+        "Facility Name": "Herman Sanchez Community Center",
+        "BRAIN Facility Group": "Family & Community Services"
+      },
+      {
+        "Facility Name": "West Mesa Community Center",
+        "BRAIN Facility Group": "Family & Community Services"
+      },
+      {
+        "Facility Name": "Balloon Fiesta Park",
+        "BRAIN Facility Group": "Cultural Services"
+      },
+      {
+        "Facility Name": "Zoo",
+        "BRAIN Facility Group": "Cultural Services"
+      },
+      {
+        "Facility Name": "Museum Warehouse",
+        "BRAIN Facility Group": "Cultural Services"
+      },
+      {
+        "Facility Name": "Kimo Theatre",
+        "BRAIN Facility Group": "Cultural Services"
+      },
+      {
+        "Facility Name": "Tony Hillerman Library",
+        "BRAIN Facility Group": "Cultural Services"
+      },
+      {
+        "Facility Name": "Ernie Pyle Library",
+        "BRAIN Facility Group": "Cultural Services"
+      },
+      {
+        "Facility Name": "Albuquerque Museum",
+        "BRAIN Facility Group": "Cultural Services"
+      },
+      {
+        "Facility Name": "San Pedro Library",
+        "BRAIN Facility Group": "Cultural Services"
+      },
+      {
+        "Facility Name": "Main Library",
+        "BRAIN Facility Group": "Cultural Services"
+      },
+      {
+        "Facility Name": "Special Collections Library",
+        "BRAIN Facility Group": "Cultural Services"
+      },
+      {
+        "Facility Name": "Juan Tabo Library",
+        "BRAIN Facility Group": "Cultural Services"
+      },
+      {
+        "Facility Name": "South Valley Library",
+        "BRAIN Facility Group": "Cultural Services"
+      },
+      {
+        "Facility Name": "Los Griegos Library",
+        "BRAIN Facility Group": "Cultural Services"
+      },
+      {
+        "Facility Name": "South Broadway Cultural Center",
+        "BRAIN Facility Group": "Cultural Services"
+      },
+      {
+        "Facility Name": "North Valley Library",
+        "BRAIN Facility Group": "Cultural Services"
+      },
+      {
+        "Facility Name": "East Mountain Library",
+        "BRAIN Facility Group": "Cultural Services"
+      },
+      {
+        "Facility Name": "Cherry Hills Library",
+        "BRAIN Facility Group": "Cultural Services"
+      },
+      {
+        "Facility Name": "Westgate Library",
+        "BRAIN Facility Group": "Cultural Services"
+      },
+      {
+        "Facility Name": "Old Town",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Balloon Museum",
+        "BRAIN Facility Group": "Cultural Services"
+      },
+      {
+        "Facility Name": "Lomas - Tramway Library",
+        "BRAIN Facility Group": "Cultural Services"
+      },
+      {
+        "Facility Name": "Casa San Ysidro",
+        "BRAIN Facility Group": "Cultural Services"
+      },
+      {
+        "Facility Name": "Erna Fergusson Library",
+        "BRAIN Facility Group": "Cultural Services"
+      },
+      {
+        "Facility Name": "Taylor Ranch Library",
+        "BRAIN Facility Group": "Cultural Services"
+      },
+      {
+        "Facility Name": "Tingley Beach",
+        "BRAIN Facility Group": "Cultural Services"
+      },
+      {
+        "Facility Name": "Tingley Beach Train Station",
+        "BRAIN Facility Group": "Cultural Services"
+      },
+      {
+        "Facility Name": "Central Unser Library",
+        "BRAIN Facility Group": "Cultural Services"
+      },
+      {
+        "Facility Name": "International District Library",
+        "BRAIN Facility Group": "Cultural Services"
+      },
+      {
+        "Facility Name": "Public Access Television Studio ",
+        "BRAIN Facility Group": "Cultural Services"
+      },
+      {
+        "Facility Name": "Pino Yards",
+        "BRAIN Facility Group": "DMD"
+      },
+      {
+        "Facility Name": "Fleet - Small Shop",
+        "BRAIN Facility Group": "DMD"
+      },
+      {
+        "Facility Name": "Unmatched Account",
+        "BRAIN Facility Group": "Unmatched Accounts"
+      },
+      {
+        "Facility Name": "Mitchell Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "City Hall",
+        "BRAIN Facility Group": "DMD"
+      },
+      {
+        "Facility Name": "Street Maintenance",
+        "BRAIN Facility Group": "DMD"
+      },
+      {
+        "Facility Name": "Storm Drainage",
+        "BRAIN Facility Group": "Storm Lift Stations"
+      },
+      {
+        "Facility Name": "Parks and Recreation Department",
+        "BRAIN Facility Group": "DMD"
+      },
+      {
+        "Facility Name": "Medians",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Traffic Signal",
+        "BRAIN Facility Group": "Traffic"
+      },
+      {
+        "Facility Name": "Wellesley Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Manzano Mesa Multi Generational Center",
+        "BRAIN Facility Group": "Senior Affairs"
+      },
+      {
+        "Facility Name": "Coronado Park Community Center",
+        "BRAIN Facility Group": "DMD"
+      },
+      {
+        "Facility Name": "Streetlight - TESCO",
+        "BRAIN Facility Group": "DMD"
+      },
+      {
+        "Facility Name": "Gibson Health Hub",
+        "BRAIN Facility Group": "DMD"
+      },
+      {
+        "Facility Name": "Plaza Del Sol",
+        "BRAIN Facility Group": "Downtown Office Buildings"
+      },
+      {
+        "Facility Name": "Convention Center",
+        "BRAIN Facility Group": "Downtown Office Buildings"
+      },
+      {
+        "Facility Name": "Civic Plaza",
+        "BRAIN Facility Group": "Downtown Office Buildings"
+      },
+      {
+        "Facility Name": "NM Business Resource Center",
+        "BRAIN Facility Group": "Downtown Office Buildings"
+      },
+      {
+        "Facility Name": "Arno Garage and Commercial Office-Retail",
+        "BRAIN Facility Group": "Downtown Office Buildings"
+      },
+      {
+        "Facility Name": "Montessa Park",
+        "BRAIN Facility Group": "Air Quality & Environmental Health"
+      },
+      {
+        "Facility Name": "Environmental Health",
+        "BRAIN Facility Group": "Air Quality & Environmental Health"
+      },
+      {
+        "Facility Name": "Playgrounds",
+        "BRAIN Facility Group": "Family & Community Services"
+      },
+      {
+        "Facility Name": "Trumbull Community Center",
+        "BRAIN Facility Group": "Family & Community Services"
+      },
+      {
+        "Facility Name": "Hawthorne Child Development Center",
+        "BRAIN Facility Group": "Family & Community Services"
+      },
+      {
+        "Facility Name": "Barelas Child Center",
+        "BRAIN Facility Group": "Family & Community Services"
+      },
+      {
+        "Facility Name": "Carlos Rey Child Development Center",
+        "BRAIN Facility Group": "Family & Community Services"
+      },
+      {
+        "Facility Name": "Child Development Center",
+        "BRAIN Facility Group": "Family & Community Services"
+      },
+      {
+        "Facility Name": "Child Development Administration Offices",
+        "BRAIN Facility Group": "Family & Community Services"
+      },
+      {
+        "Facility Name": "Esperanza Bicycle Safety Education Center ",
+        "BRAIN Facility Group": "Cultural Services"
+      },
+      {
+        "Facility Name": "Warehouse 508",
+        "BRAIN Facility Group": "Family & Community Services"
+      },
+      {
+        "Facility Name": "DFCS Facility Maintenance",
+        "BRAIN Facility Group": "Family & Community Services"
+      },
+      {
+        "Facility Name": "West Side Facility",
+        "BRAIN Facility Group": "Family & Community Services"
+      },
+      {
+        "Facility Name": "Central Arch",
+        "BRAIN Facility Group": "Misc. Lighting"
+      },
+      {
+        "Facility Name": "Central Banner",
+        "BRAIN Facility Group": "APD"
+      },
+      {
+        "Facility Name": "Irrigation Lights",
+        "BRAIN Facility Group": "Misc. Lighting"
+      },
+      {
+        "Facility Name": "Décor Lights",
+        "BRAIN Facility Group": "Misc. Lighting"
+      },
+      {
+        "Facility Name": "Underpass Lights",
+        "BRAIN Facility Group": "Misc. Lighting"
+      },
+      {
+        "Facility Name": "Walkway Lights",
+        "BRAIN Facility Group": "Misc. Lighting"
+      },
+      {
+        "Facility Name": "Overpass Lights",
+        "BRAIN Facility Group": "Misc. Lighting"
+      },
+      {
+        "Facility Name": "Lighting",
+        "BRAIN Facility Group": "Misc. Lighting"
+      },
+      {
+        "Facility Name": "High Mast Lighting",
+        "BRAIN Facility Group": "Misc. Lighting"
+      },
+      {
+        "Facility Name": "Lights Outside City Limits",
+        "BRAIN Facility Group": "Misc. Lighting"
+      },
+      {
+        "Facility Name": "DMD Lighting",
+        "BRAIN Facility Group": "Misc. Lighting"
+      },
+      {
+        "Facility Name": "Parking Garage 4th and Lead",
+        "BRAIN Facility Group": "Parking Structures"
+      },
+      {
+        "Facility Name": "Underground Parking",
+        "BRAIN Facility Group": "Downtown Office Buildings"
+      },
+      {
+        "Facility Name": "Parking Garage 5th and Copper",
+        "BRAIN Facility Group": "Parking Structures"
+      },
+      {
+        "Facility Name": "Old Town Parking",
+        "BRAIN Facility Group": "Parking Structures"
+      },
+      {
+        "Facility Name": "Parking Garage Convention Center",
+        "BRAIN Facility Group": "Parking Structures"
+      },
+      {
+        "Facility Name": "Parking Garage Gold Street",
+        "BRAIN Facility Group": "Parking Structures"
+      },
+      {
+        "Facility Name": "Parking Garage Acropolis",
+        "BRAIN Facility Group": "Parking Structures"
+      },
+      {
+        "Facility Name": "Parking Garage One Central",
+        "BRAIN Facility Group": "Parking Structures"
+      },
+      {
+        "Facility Name": "Andalucia Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Irrigation",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Petroglyph Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Los Altos Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Mary Fox Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Montgomery Pool",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Sandia Pool",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Carolino Canyon Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Columbus Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "USS Bullhead Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Hawthorne Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Ladera Golf Course",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Parks and Recreation",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Arroyo del Oso Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "East San Jose Pool",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Valley Pool",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Sierra Vista Complex",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Martineztown Ball Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Elena Gallegos Picnic",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Highland Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Garfield Middle School Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Los Altos Golf Course",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Aspen - Los Tomases Satellite",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Tom Bolack Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Puerto del Sol Golf Course",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Jerry Cline Complex",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Barelas Ball Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Odelia Ball Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Guadalupe Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Pump Station",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Arroyo del Oso Golf Course",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Pat Hurley Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Sprinklers",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Streetscape",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Phil Chacon Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Mariposa Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Founder's Plaza",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Morningside Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "West Bluff Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Los Altos Ballpark",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Trumbull Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Aztec Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "NM Veterans Memorial Center",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Soccer Field",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Crestview Heights",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Frederick Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "West Mesa Aquatic Center",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Riverview Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Bataan Memorial Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Open Space Visitors Center",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Los Tomases Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Open Space - Elena Gallegos",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Sunrise Terrace Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Parkway Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Hannet Park Lighting",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Kirtland Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Open Space - Horseman",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Candelaria Farms",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Chantilly Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Shining Springs River",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "High Desert Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Rio Grande Pool",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Wade Circle Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Sister Cities park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Alameda Little League",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Route 66 Gateway",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Vineyard Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Open Space",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "DMD",
+        "BRAIN Facility Group": "Solid Waste"
+      },
+      {
+        "Facility Name": "Sunport Pool",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Tiguex Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Highland Pool",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Sequoia Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Tower Skate Park",
+        "BRAIN Facility Group": "Solid Waste"
+      },
+      {
+        "Facility Name": "Open Space - Shooting Range",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Salacido Del Sol Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Heritage Hills Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Rio Grande Triangle Dog Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Paseo de Estrella Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "BMX Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "North Quadrant Skate Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Stardust Keys Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Eldorado Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Tingley Field",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Mountain View Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Sundoro Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Cedar Ridge Pond Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Ventana Ranch Community Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Open Space - Mann House",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Ouray Dog Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Eisenhower Pool",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Black Arroyo Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Sandia Vista Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Petroglyphs Estates Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Santa Barbara Martineztown Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Kimo Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Mountain West Golfscapes",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Bear Canyon Bridge",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "4 H Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Silver Tree Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Ridgeview Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Academy Hills Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Forrest Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Coronado Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Balloon RV Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Shawn McWethy Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Parks Satellite",
+        "BRAIN Facility Group": "DMD"
+      },
+      {
+        "Facility Name": "Juan Tabo Hills Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Barelas Senior Center",
+        "BRAIN Facility Group": "Senior Affairs"
+      },
+      {
+        "Facility Name": "North Valley Senior Center",
+        "BRAIN Facility Group": "Senior Affairs"
+      },
+      {
+        "Facility Name": "Highland Senior Center",
+        "BRAIN Facility Group": "Senior Affairs"
+      },
+      {
+        "Facility Name": "Palo Duro Senior Center",
+        "BRAIN Facility Group": "Senior Affairs"
+      },
+      {
+        "Facility Name": "Bear Canyon Senior Center",
+        "BRAIN Facility Group": "Senior Affairs"
+      },
+      {
+        "Facility Name": "Los Volcanes Senior Center",
+        "BRAIN Facility Group": "Senior Affairs"
+      },
+      {
+        "Facility Name": "North Domingo Baca Multi Generational Center",
+        "BRAIN Facility Group": "Senior Affairs"
+      },
+      {
+        "Facility Name": "Casa Kitchen",
+        "BRAIN Facility Group": "Senior Affairs"
+      },
+      {
+        "Facility Name": "Senior Affairs Home Services Office",
+        "BRAIN Facility Group": "Senior Affairs"
+      },
+      {
+        "Facility Name": "South Valley Respite Center",
+        "BRAIN Facility Group": "Senior Affairs"
+      },
+      {
+        "Facility Name": "Daytona Administration - Operations",
+        "BRAIN Facility Group": "Transit"
+      },
+      {
+        "Facility Name": "Cerro Colorado Landfill",
+        "BRAIN Facility Group": "Solid Waste"
+      },
+      {
+        "Facility Name": "Montano Transit Center",
+        "BRAIN Facility Group": "Transit"
+      },
+      {
+        "Facility Name": "Bright View Solid Waste",
+        "BRAIN Facility Group": "Solid Waste"
+      },
+      {
+        "Facility Name": "Solid Waste Administration",
+        "BRAIN Facility Group": "Solid Waste"
+      },
+      {
+        "Facility Name": "Montessa Well",
+        "BRAIN Facility Group": "Solid Waste"
+      },
+      {
+        "Facility Name": "Vehicle Pollution",
+        "BRAIN Facility Group": "Solid Waste"
+      },
+      {
+        "Facility Name": "Bag Distribution Center",
+        "BRAIN Facility Group": "Solid Waste"
+      },
+      {
+        "Facility Name": "Don Reservoir Convenience",
+        "BRAIN Facility Group": "Solid Waste"
+      },
+      {
+        "Facility Name": "Eagle Rock Convenience Center",
+        "BRAIN Facility Group": "Solid Waste"
+      },
+      {
+        "Facility Name": "Solid Waste Building",
+        "BRAIN Facility Group": "Solid Waste"
+      },
+      {
+        "Facility Name": "Solid Waste Building - Hanover",
+        "BRAIN Facility Group": "Solid Waste"
+      },
+      {
+        "Facility Name": "Controller and Backflow",
+        "BRAIN Facility Group": "Solid Waste"
+      },
+      {
+        "Facility Name": "Sanitary Lift Station #5",
+        "BRAIN Facility Group": "Solid Waste"
+      },
+      {
+        "Facility Name": "La Luz de Amistad Park",
+        "BRAIN Facility Group": "Solid Waste"
+      },
+      {
+        "Facility Name": "Domingo Baca Park",
+        "BRAIN Facility Group": "Solid Waste"
+      },
+      {
+        "Facility Name": "Clean Water Division",
+        "BRAIN Facility Group": "Solid Waste"
+      },
+      {
+        "Facility Name": "Landscaping",
+        "BRAIN Facility Group": "Solid Waste"
+      },
+      {
+        "Facility Name": "Clean City",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Vacant",
+        "BRAIN Facility Group": "Solid Waste"
+      },
+      {
+        "Facility Name": "Isotopes Ball Park",
+        "BRAIN Facility Group": "Sports"
+      },
+      {
+        "Facility Name": "Regional Sports Complex",
+        "BRAIN Facility Group": "Sports"
+      },
+      {
+        "Facility Name": "Storm Lift Station #36",
+        "BRAIN Facility Group": "Storm Lift Stations"
+      },
+      {
+        "Facility Name": "Storm Lift Station #35",
+        "BRAIN Facility Group": "Storm Lift Stations"
+      },
+      {
+        "Facility Name": "Storm Lift Station #32",
+        "BRAIN Facility Group": "Storm Lift Stations"
+      },
+      {
+        "Facility Name": "Storm Lift Station #37",
+        "BRAIN Facility Group": "Storm Lift Stations"
+      },
+      {
+        "Facility Name": "Storm Lift Station #40",
+        "BRAIN Facility Group": "Storm Lift Stations"
+      },
+      {
+        "Facility Name": "Storm Lift Station #30",
+        "BRAIN Facility Group": "Storm Lift Stations"
+      },
+      {
+        "Facility Name": "Storm Lift Station #41",
+        "BRAIN Facility Group": "Storm Lift Stations"
+      },
+      {
+        "Facility Name": "Storm Lift Station #43",
+        "BRAIN Facility Group": "Storm Lift Stations"
+      },
+      {
+        "Facility Name": "Storm Lift Station #33",
+        "BRAIN Facility Group": "Storm Lift Stations"
+      },
+      {
+        "Facility Name": "Test Facility",
+        "BRAIN Facility Group": "Storm Lift Stations"
+      },
+      {
+        "Facility Name": "Test Facility Canal",
+        "BRAIN Facility Group": "Storm Lift Stations"
+      },
+      {
+        "Facility Name": "Storm Lift Station #45",
+        "BRAIN Facility Group": "Storm Lift Stations"
+      },
+      {
+        "Facility Name": "Storm Lift Station #47",
+        "BRAIN Facility Group": "Storm Lift Stations"
+      },
+      {
+        "Facility Name": "Storm Lift Station #44",
+        "BRAIN Facility Group": "Storm Lift Stations"
+      },
+      {
+        "Facility Name": "Storm Lift Station #34",
+        "BRAIN Facility Group": "Storm Lift Stations"
+      },
+      {
+        "Facility Name": "Drainage Arroyo",
+        "BRAIN Facility Group": "Storm Lift Stations"
+      },
+      {
+        "Facility Name": "Master Computer Building",
+        "BRAIN Facility Group": "Traffic"
+      },
+      {
+        "Facility Name": "Street Satellite 2",
+        "BRAIN Facility Group": "Transit"
+      },
+      {
+        "Facility Name": "Testing Labs",
+        "BRAIN Facility Group": "Transit"
+      },
+      {
+        "Facility Name": "Yale Transit Administration",
+        "BRAIN Facility Group": "Transit"
+      },
+      {
+        "Facility Name": "Capital Implementation",
+        "BRAIN Facility Group": "Transit"
+      },
+      {
+        "Facility Name": "Alvarado Transportation Center",
+        "BRAIN Facility Group": "Transit"
+      },
+      {
+        "Facility Name": "Park & Ride",
+        "BRAIN Facility Group": "Transit"
+      },
+      {
+        "Facility Name": "West Central Rt 66",
+        "BRAIN Facility Group": "Transit"
+      },
+      {
+        "Facility Name": "Rapid Ride Shelter",
+        "BRAIN Facility Group": "Transit"
+      },
+      {
+        "Facility Name": "Uptown Transit Center",
+        "BRAIN Facility Group": "Transit"
+      },
+      {
+        "Facility Name": "Central And Unser Transit Center",
+        "BRAIN Facility Group": "Transit"
+      },
+      {
+        "Facility Name": "Rapid Ride Shelter - Possible",
+        "BRAIN Facility Group": "Transit"
+      },
+      {
+        "Facility Name": "ART",
+        "BRAIN Facility Group": "Transit"
+      },
+      {
+        "Facility Name": "Bus Sign",
+        "BRAIN Facility Group": "Transit"
+      },
+      {
+        "Facility Name": "APD Transfer",
+        "BRAIN Facility Group": "Transit"
+      },
+      {
+        "Facility Name": "Northwest Transit Center",
+        "BRAIN Facility Group": "Transit"
+      },
+      {
+        "Facility Name": "Transit",
+        "BRAIN Facility Group": "Transit"
+      },
+      {
+        "Facility Name": "INACTIVE"
+      },
+      {
+        "Facility Name": "Therapeutics",
+        "BRAIN Facility Group": "Unmatched Accounts"
+      },
+      {
+        "Facility Name": "Tucson Apartments",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "LALF Import",
+        "BRAIN Facility Group": "Unmatched Accounts"
+      },
+      {
+        "Facility Name": "Environmental Services",
+        "BRAIN Facility Group": "Unmatched Accounts"
+      },
+      {
+        "Facility Name": "Railway Yards",
+        "BRAIN Facility Group": "Unmatched Accounts"
+      },
+      {
+        "Facility Name": "Fire Fleet",
+        "BRAIN Facility Group": "AFR"
+      },
+      {
+        "Facility Name": "Boys and Girls Clubs of Central New Mexico",
+        "BRAIN Facility Group": "Parks and Recreation"
+      },
+      {
+        "Facility Name": "East San Jose Park",
+        "BRAIN Facility Group": "Parks and Recreation"
+      },
+      {
+        "Facility Name": "Fire Rescue Fleet Maintenance",
+        "BRAIN Facility Group": "AFR"
+      },
+      {
+        "Facility Name": "Animal Welfare Westside Shelter",
+        "BRAIN Facility Group": "Animal Welfare"
+      },
+      {
+        "Facility Name": "Lee Welsh",
+        "BRAIN Facility Group": "Family & Community Services"
+      },
+      {
+        "Facility Name": "Police Training",
+        "BRAIN Facility Group": "APD"
+      },
+      {
+        "Facility Name": "Montessa Detention",
+        "BRAIN Facility Group": "Air Quality & Environmental Health"
+      },
+      {
+        "Facility Name": "Eclipse Aerospace",
+        "BRAIN Facility Group": "Aviation"
+      },
+      {
+        "Facility Name": "Family and Community Services",
+        "BRAIN Facility Group": "Downtown Office Buildings"
+      },
+      {
+        "Facility Name": "Mesa Verde Community Center",
+        "BRAIN Facility Group": "Family & Community Services"
+      },
+      {
+        "Facility Name": "Community Center Fleet Management",
+        "BRAIN Facility Group": "Family & Community Services"
+      },
+      {
+        "Facility Name": "Joan Jones Community Center",
+        "BRAIN Facility Group": "Family & Community Services"
+      },
+      {
+        "Facility Name": "Esperanza Library",
+        "BRAIN Facility Group": "Cultural Services"
+      },
+      {
+        "Facility Name": "Wyoming Library",
+        "BRAIN Facility Group": "Cultural Services"
+      },
+      {
+        "Facility Name": "Greenhouse",
+        "BRAIN Facility Group": "Cultural Services"
+      },
+      {
+        "Facility Name": "Former Esperanza Library",
+        "BRAIN Facility Group": "Cultural Services"
+      },
+      {
+        "Facility Name": "Embudo Towers",
+        "BRAIN Facility Group": "Unmatched Accounts"
+      },
+      {
+        "Facility Name": "Utility Franchise Office",
+        "BRAIN Facility Group": "Unmatched Accounts"
+      },
+      {
+        "Facility Name": "Wainwright Manor",
+        "BRAIN Facility Group": "Unmatched Accounts"
+      },
+      {
+        "Facility Name": "Natural Gas Station",
+        "BRAIN Facility Group": "DMD"
+      },
+      {
+        "Facility Name": "DMD Maintenance",
+        "BRAIN Facility Group": "DMD"
+      },
+      {
+        "Facility Name": "Creative ALB Space",
+        "BRAIN Facility Group": "Parking Structures"
+      },
+      {
+        "Facility Name": "Indian School Road",
+        "BRAIN Facility Group": "Family & Community Services"
+      },
+      {
+        "Facility Name": "South Broadway Pool",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Department of Senior Affairs Transportation and Nutrition",
+        "BRAIN Facility Group": "Senior Affairs"
+      },
+      {
+        "Facility Name": "Eagle Rock Convenience Center West",
+        "BRAIN Facility Group": "Solid Waste"
+      },
+      {
+        "Facility Name": "Transit NE Corner",
+        "BRAIN Facility Group": "Transit"
+      },
+      {
+        "Facility Name": "Transit Back Bus Garage",
+        "BRAIN Facility Group": "Transit"
+      },
+      {
+        "Facility Name": "Tranist Street Cleaning",
+        "BRAIN Facility Group": "Transit"
+      },
+      {
+        "Facility Name": "Transit Fueling Sun Tran",
+        "BRAIN Facility Group": "Transit"
+      },
+      {
+        "Facility Name": "Transit Refueling",
+        "BRAIN Facility Group": "Transit"
+      },
+      {
+        "Facility Name": "Animal Welfare",
+        "BRAIN Facility Group": "Animal Welfare"
+      },
+      {
+        "Facility Name": "Old APD",
+        "BRAIN Facility Group": "APD"
+      },
+      {
+        "Facility Name": "Aero Charter and Transport",
+        "BRAIN Facility Group": "Aviation"
+      },
+      {
+        "Facility Name": "Albuqerque International Sunport",
+        "BRAIN Facility Group": "Aviation"
+      },
+      {
+        "Facility Name": "Clark Carr Loop Parking",
+        "BRAIN Facility Group": "Aviation"
+      },
+      {
+        "Facility Name": "Sunport/Girard Parking",
+        "BRAIN Facility Group": "Aviation"
+      },
+      {
+        "Facility Name": "Aquarium and Botanical Gardens",
+        "BRAIN Facility Group": "Cultural Services"
+      },
+      {
+        "Facility Name": "Erna Ferguson Library",
+        "BRAIN Facility Group": "Cultural Services"
+      },
+      {
+        "Facility Name": "Special Events",
+        "BRAIN Facility Group": "Cultural Services"
+      },
+      {
+        "Facility Name": "Family and Community Annex",
+        "BRAIN Facility Group": "DMD"
+      },
+      {
+        "Facility Name": "FEMD",
+        "BRAIN Facility Group": "DMD"
+      },
+      {
+        "Facility Name": "RTMC",
+        "BRAIN Facility Group": "DMD"
+      },
+      {
+        "Facility Name": "Westside Satellite Center",
+        "BRAIN Facility Group": "DMD"
+      },
+      {
+        "Facility Name": "Bernalillo County Courthouse",
+        "BRAIN Facility Group": "Downtown Office Buildings"
+      },
+      {
+        "Facility Name": "Parking Garage Planning Department",
+        "BRAIN Facility Group": "Downtown Office Buildings"
+      },
+      {
+        "Facility Name": "Carlos Rey Elementary School Park",
+        "BRAIN Facility Group": "Family & Community Services"
+      },
+      {
+        "Facility Name": "Hawthorne Elementary",
+        "BRAIN Facility Group": "Family & Community Services"
+      },
+      {
+        "Facility Name": "Heights Park",
+        "BRAIN Facility Group": "Family & Community Services"
+      },
+      {
+        "Facility Name": "Pat Hurley Community Center",
+        "BRAIN Facility Group": "Family & Community Services"
+      },
+      {
+        "Facility Name": "Fire Hydrant",
+        "BRAIN Facility Group": "Fire Hydrants"
+      },
+      {
+        "Facility Name": "Parking Garage 3rd",
+        "BRAIN Facility Group": "Parking Structures"
+      },
+      {
+        "Facility Name": "Parking Lot Tijeras",
+        "BRAIN Facility Group": "Parking Structures"
+      },
+      {
+        "Facility Name": "Alamosa Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Altura Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Alvarado Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Alvarado Urban Farm",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Anderson Heights Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Arroyo Del Oso Elementary School Field",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Avalon Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Balduini Park/Lobo Little League",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Bandelier Elementary School Field",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Barelas Walkway",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Barstow Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Bel Air Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Bellrose Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Bernardo Trails Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Beyer Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Bianchetti Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Briar Ridge Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Burton Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Calle De Vida Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Cardwell Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Casa Grande Linear Park - Candelaria",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Casa Grande Linear Park - Comanche",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Casa Grande Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Chelwood Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "City View Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Cochiti Elementary School Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Conchas Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Country Hills Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Country Meadows Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Crestview Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Cutler Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Daniel Webster Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Del Sol Twin Park - North",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Del Sol Twin Park - South",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Desert Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Desert Ridge Middle School Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Desert Ridge Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Desert Springs Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Duke City BMX",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Dulcinea Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Eagle Ranch Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "East Atrisco Kimbar Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Eastdale Little League",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Ed Leslie Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Eddie Garcia Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "El Oso Grande Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "El Rancho Del Atrisco Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "El Rancho Grande Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Embudo Hills Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Ernie Taylor Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Eunice Kalloch Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Four Hills Village Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Fred Calkins Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Garden Club",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Goodrich Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Grant Middle School Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Graves Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Grecian Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Greenway Project",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Grisham Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Hahn Park - Roadrunner Little League",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Harry E Kinney Plaza",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Hazeldine Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Hermosa Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Highland High School Soccer Field",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Hoffman Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Huning Castle Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Hunters Run Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Hyder Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "I-40 Trail",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Inez Elementary Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Inez Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Jack and Jill Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Jade Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Jeanne Bellamah Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "John Adams Middle School Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "John Baca Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Katherine Nicole Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Kennedy Middle School Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Kit Carson Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Kiva Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Krough Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "La Canada Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "La Mesa Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "La Paloma Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "La Palomita Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Lafayette Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Landscape",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Las Marcadas Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Lasseter Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Laurel Circle Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Laurelwood Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Lauren C. Bolles Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Lavaland Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "LBJ Middle School Field",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Loma Del Norte Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Loma Del Rey Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Los Duranes Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Los Poblanos Greenhouse",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Louisiana Walkway",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Lowell Elementary School Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Luecking North Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Luecking South Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Lynnewood Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Madison Middle School Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Manzano Mesa Park and Little League",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Matheson Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Matthew Meadows Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "McCollum Elementary School Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "McDuffie Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "McKinley Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Mesa Verde Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Mesa View Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Metro Court",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Mile High Little League",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Monastery Gardens Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Montano West Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Montgomery Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Netherwood Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "New Futures Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "NON-COA ACCOUNT",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Nor Este Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "North Domingo Baca Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Novella Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Onate Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Osuna Elementary School Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Oxnard Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Paradise Meadows Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Paradise Skies Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Park Hill Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Parkland Green Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Parks Design",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Parkwest Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Petroglyph Estates Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Piedra Lisa Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Pinon Pointe Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Planters",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Presidio Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Prospectors Ridge Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Pulte Homes - Seattle Slew",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Quigley Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Quintessence Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Rancho de Palomas Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Rancho Encantado Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Recreational Trail",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Redlands Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Richland Hills Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Ridgecrest Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Ridgeview Village Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Rinconada Point Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Rio Grande Community Farm",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Rio Grande Nursery",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Robinson Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Roosevelt Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Ross Enchanted Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Ross Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Rotary Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Roundabout",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "RV Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Salida Del Sol Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Santa Fe Village Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Sasser Park Green",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Seville Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Sid Cutter Pilots Pavilion",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Singing Arrow Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Snow Heights Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Snow Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Snow Park & Shelter",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Soldiers & Sailors Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Sombra del Monte Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "South Broadway Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "South San Jose Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Spruce Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Stardust Skies Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Storm Lift Station",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Summer Hills Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Summit Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Sunrine Terrace Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Sunset Canyon Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Supper Rock Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Tapia Meadows",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Terrazas Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Thunderbird Ll",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Tingley Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Tom Copper Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Tower Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Trail",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Tramway Linear Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Tres Placitas Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Triangle Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Truman Middle School Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Tuscany Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Universe Sports Complex",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Urban Forest Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Vail Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Valley Gardens",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Valley Haven Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Valley Neighborhood Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Valley Yard Satellite",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Vietnam Veterans Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Villela Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Vista del Norte Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Vista Nueva Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Vista Verde Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Wade Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Walkway",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "West Mesa League",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "West Old Town Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Westgate Community Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Westgate Heights Little League",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Wildflower Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Wilson Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Workers Memorial Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Xeriscape Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Zia Elementary School Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Zuni Park",
+        "BRAIN Facility Group": "Parks & Recreation"
+      },
+      {
+        "Facility Name": "Aliso Green (Park)",
+        "BRAIN Facility Group": "Sports"
+      },
+      {
+        "Facility Name": "El Rancho Park",
+        "BRAIN Facility Group": "Sports"
+      },
+      {
+        "Facility Name": "Taylor Park",
+        "BRAIN Facility Group": "Sports"
+      },
+      {
+        "Facility Name": "Cultural Services",
+        "BRAIN Facility Group": "Unmatched Accounts"
+      },
+      {
+        "Facility Name": "Gibson Medical Center",
+        "BRAIN Facility Group": "Unmatched Accounts"
+      },
+      {
+        "Facility Name": "San Carlos Cemetary",
+        "BRAIN Facility Group": "Unmatched Accounts"
+      },
+      {
+        "Facility Name": "Unmatched Accounts",
+        "BRAIN Facility Group": "Unmatched Accounts"
+      }
+    ]
+  

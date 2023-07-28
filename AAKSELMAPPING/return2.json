@@ -1,0 +1,3958 @@
+{
+  "data": [
+    {
+      "id": 161,
+      "serial_number": "2008DFA006711",
+      "dev_eui": "a67740be12b7899d",
+      "Latitude": 35.098652
+    },
+    {
+      "id": 276,
+      "serial_number": "2008DFA006736",
+      "dev_eui": "db9198edb323fe18",
+      "Latitude": 35.080132
+    },
+    {
+      "id": 479,
+      "serial_number": "2008DFA006713",
+      "dev_eui": "a670bcc6f8f16050",
+      "Latitude": 35.098112
+    },
+    {
+      "id": 240,
+      "serial_number": "2008DFA006802",
+      "dev_eui": "a790789add2eda4c",
+      "Latitude": 35.08078
+    },
+    {
+      "id": 673,
+      "serial_number": "2008DFA001421",
+      "dev_eui": "63d91cbfb3859a7d",
+      "Latitude": 35.088892
+    },
+    {
+      "id": 732,
+      "serial_number": "2102DFA007638",
+      "dev_eui": "7e03cc373e8d54ab",
+      "Latitude": 35.070192
+    },
+    {
+      "id": 666,
+      "serial_number": "2008DFA001411",
+      "dev_eui": "7b8cb05c6ecc0bc6",
+      "Latitude": 35.088052
+    },
+    {
+      "id": 634,
+      "serial_number": "2006DFA004482",
+      "dev_eui": "649d902027d26e0e",
+      "Latitude": 35.086912
+    },
+    {
+      "id": 657,
+      "serial_number": "2008DFA001364",
+      "dev_eui": "c8ad4c8fb54441dd",
+      "Latitude": 35.08734
+    },
+    {
+      "id": 520,
+      "serial_number": "2008DFA006948",
+      "dev_eui": "db5ee81e40ee9cd2",
+      "Latitude": 35.077192
+    },
+    {
+      "id": 178,
+      "serial_number": "2008DFA006668",
+      "dev_eui": "a67b5cb18a8f7bc2",
+      "Latitude": 35.097968
+    },
+    {
+      "id": 653,
+      "serial_number": "2008DFA001323",
+      "dev_eui": "c8b59c22f6ab9f59",
+      "Latitude": 35.089228
+    },
+    {
+      "id": 638,
+      "serial_number": "2006DFA004496",
+      "dev_eui": "649e94230dfee8da",
+      "Latitude": 35.088552
+    },
+    {
+      "id": 652,
+      "serial_number": "2008DFA001317",
+      "dev_eui": "c8ac607f68748d1b",
+      "Latitude": 35.0888
+    },
+    {
+      "id": 665,
+      "serial_number": "2008DFA001393",
+      "dev_eui": "63daecec5cf44900",
+      "Latitude": 35.088232
+    },
+    {
+      "id": 358,
+      "serial_number": "2008DFA006653",
+      "dev_eui": "1a30b083d147661e",
+      "Latitude": 35.084128
+    },
+    {
+      "id": 630,
+      "serial_number": "2006DFA004465",
+      "dev_eui": "649df80facf09ad4",
+      "Latitude": 35.08684
+    },
+    {
+      "id": 49,
+      "serial_number": "2008DFA003468",
+      "dev_eui": "688cd4426df1461d",
+      "Latitude": 35.077332
+    },
+    {
+      "id": 205,
+      "serial_number": "2008DFA006776",
+      "dev_eui": "a78ce0e6ada825f9",
+      "Latitude": 35.09756
+    },
+    {
+      "id": 55,
+      "serial_number": "2008DFA003482",
+      "dev_eui": "63dd4c18d38858be",
+      "Latitude": 35.076592
+    },
+    {
+      "id": 497,
+      "serial_number": "2008DFA003944",
+      "dev_eui": "63e13003a86b2554",
+      "Latitude": 35.08928
+    },
+    {
+      "id": 56,
+      "serial_number": "2008DFA004019",
+      "dev_eui": "dcd81c0d6779f044",
+      "Latitude": 35.08516
+    },
+    {
+      "id": 79,
+      "serial_number": "2008DFA006464",
+      "dev_eui": "dbd760b2be99b002",
+      "Latitude": 35.081132
+    },
+    {
+      "id": 41,
+      "serial_number": "2008DFA003473",
+      "dev_eui": "6876e8b0d585b98d",
+      "Latitude": 35.07814
+    },
+    {
+      "id": 31,
+      "serial_number": "2008DFA003379",
+      "dev_eui": "a62df4164d107d4a",
+      "Latitude": 35.07308
+    },
+    {
+      "id": 11,
+      "serial_number": "2008DFA003390",
+      "dev_eui": "a62de4c31c203880",
+      "Latitude": 35.076212
+    },
+    {
+      "id": 13,
+      "serial_number": "2008DFA003454",
+      "dev_eui": "63e148f7fef15205",
+      "Latitude": 35.079288
+    },
+    {
+      "id": 639,
+      "serial_number": "2006DFA004497",
+      "dev_eui": "649f5045388035f9",
+      "Latitude": 35.088232
+    },
+    {
+      "id": 9,
+      "serial_number": "2008DFA003394",
+      "dev_eui": "63de606e5fdca60e",
+      "Latitude": 35.07426
+    },
+    {
+      "id": 44,
+      "serial_number": "2008DFA003470",
+      "dev_eui": "687c7017a3a8e892",
+      "Latitude": 35.0794
+    },
+    {
+      "id": 50,
+      "serial_number": "2008DFA003485",
+      "dev_eui": "63dd74aeda96cb4d",
+      "Latitude": 35.079732
+    },
+    {
+      "id": 662,
+      "serial_number": "2008DFA001382",
+      "dev_eui": "63da40e3261c9648",
+      "Latitude": 35.08808
+    },
+    {
+      "id": 664,
+      "serial_number": "2008DFA001391",
+      "dev_eui": "7b74f80a1e582535",
+      "Latitude": 35.088472
+    },
+    {
+      "id": 334,
+      "serial_number": "2008DFA006772",
+      "dev_eui": "a7904002f0951371",
+      "Latitude": 35.096872
+    },
+    {
+      "id": 659,
+      "serial_number": "2008DFA001378",
+      "dev_eui": "63db3031a5a7b6d1",
+      "Latitude": 35.088132
+    },
+    {
+      "id": 292,
+      "serial_number": "2008DFA003970",
+      "dev_eui": "3f57103766c1d047",
+      "Latitude": 35.0943
+    },
+    {
+      "id": 14,
+      "serial_number": "2008DFA003387",
+      "dev_eui": "a63014f608cd5b28",
+      "Latitude": 35.079868
+    },
+    {
+      "id": 222,
+      "serial_number": "2008DFA004002",
+      "dev_eui": "3dd06485d3be6311",
+      "Latitude": 35.086948
+    },
+    {
+      "id": 219,
+      "serial_number": "2008DFA004000",
+      "dev_eui": "687df0d2d34a3e42",
+      "Latitude": 35.091012
+    },
+    {
+      "id": 20,
+      "serial_number": "2008DFA003371",
+      "dev_eui": "a77de8ed81272ae9",
+      "Latitude": 35.078268
+    },
+    {
+      "id": 76,
+      "serial_number": "2008DFA006489",
+      "dev_eui": "db8604c5a869b819",
+      "Latitude": 35.08252
+    },
+    {
+      "id": 323,
+      "serial_number": "2008DFA003979",
+      "dev_eui": "a6309089d2daf084",
+      "Latitude": 35.087408
+    },
+    {
+      "id": 723,
+      "serial_number": "2007DFA003055",
+      "dev_eui": "654bc84e813398f7",
+      "Latitude": 35.101908
+    },
+    {
+      "id": 38,
+      "serial_number": "2008DFA003477",
+      "dev_eui": "7b88104f9a79ec48",
+      "Latitude": 35.076888
+    },
+    {
+      "id": 279,
+      "serial_number": "2008DFA004010",
+      "dev_eui": "a77dc8f4fe608224",
+      "Latitude": 35.08582
+    },
+    {
+      "id": 704,
+      "serial_number": "2007DFA003026",
+      "dev_eui": "687314e6b6d23a9c",
+      "Latitude": 35.101892
+    },
+    {
+      "id": 57,
+      "serial_number": "2008DFA004017",
+      "dev_eui": "db67101996ac9923",
+      "Latitude": 35.08478
+    },
+    {
+      "id": 758,
+      "serial_number": "2012DFA009214",
+      "dev_eui": "a6dc046f9377a42b",
+      "Latitude": 35.10192
+    },
+    {
+      "id": 258,
+      "serial_number": "2008DFA004039",
+      "dev_eui": "a648a8606b660ae2",
+      "Latitude": 35.08732
+    },
+    {
+      "id": 267,
+      "serial_number": "2008DFA004030",
+      "dev_eui": "dd309cc4b636b435",
+      "Latitude": 35.090772
+    },
+    {
+      "id": 633,
+      "serial_number": "2006DFA004470",
+      "dev_eui": "6828ecc96c10ef50",
+      "Latitude": 35.08852
+    },
+    {
+      "id": 269,
+      "serial_number": "2008DFA006747",
+      "dev_eui": "1a1aac77346d1e88",
+      "Latitude": 35.0719
+    },
+    {
+      "id": 301,
+      "serial_number": "2008DFA004027",
+      "dev_eui": "a63bc88b853b486f",
+      "Latitude": 35.08898
+    },
+    {
+      "id": 465,
+      "serial_number": "2008DFA006396",
+      "dev_eui": "dba92cbbef4629c6",
+      "Latitude": 35.095488
+    },
+    {
+      "id": 487,
+      "serial_number": "2008DFA006707",
+      "dev_eui": "a790f83ddacc9796",
+      "Latitude": 35.095872
+    },
+    {
+      "id": 661,
+      "serial_number": "2008DFA001381",
+      "dev_eui": "646d3c992f5531d1",
+      "Latitude": 35.08818
+    },
+    {
+      "id": 340,
+      "serial_number": "2008DFA004033",
+      "dev_eui": "a6451c6cbbd94ba2",
+      "Latitude": 35.07454
+    },
+    {
+      "id": 632,
+      "serial_number": "2006DFA004469",
+      "dev_eui": "649d2c3802ab18ac",
+      "Latitude": 35.088328
+    },
+    {
+      "id": 644,
+      "serial_number": "2006DFA004502",
+      "dev_eui": "7527a0f3b27129bc",
+      "Latitude": 35.08658
+    },
+    {
+      "id": 23,
+      "serial_number": "2008DFA003505",
+      "dev_eui": "63d97cf88d893804",
+      "Latitude": 35.100972
+    },
+    {
+      "id": 232,
+      "serial_number": "2008DFA004008",
+      "dev_eui": "7b4e64fd756686f8",
+      "Latitude": 35.084032
+    },
+    {
+      "id": 469,
+      "serial_number": "2008DFA003890",
+      "dev_eui": "3dd618baee7bc569",
+      "Latitude": 35.084172
+    },
+    {
+      "id": 582,
+      "serial_number": "2010DFA006039",
+      "dev_eui": "6ad23c8a054177c6",
+      "Latitude": 35.076772
+    },
+    {
+      "id": 284,
+      "serial_number": "2008DFA003999",
+      "dev_eui": "687da4a707b3961a",
+      "Latitude": 35.074972
+    },
+    {
+      "id": 287,
+      "serial_number": "2008DFA003992",
+      "dev_eui": "687face10096f1cf",
+      "Latitude": 35.07532
+    },
+    {
+      "id": 627,
+      "serial_number": "2006DFA004453",
+      "dev_eui": "649f80dcb4c6407a",
+      "Latitude": 35.086508
+    },
+    {
+      "id": 326,
+      "serial_number": "2008DFA003961",
+      "dev_eui": "687c805cef5ac39b",
+      "Latitude": 35.0842
+    },
+    {
+      "id": 539,
+      "serial_number": "2008DFA006978",
+      "dev_eui": "a645dcf6b91c51c1",
+      "Latitude": 35.081268
+    },
+    {
+      "id": 282,
+      "serial_number": "2008DFA004021",
+      "dev_eui": "a63724c2c62a0150",
+      "Latitude": 35.084208
+    },
+    {
+      "id": 235,
+      "serial_number": "2008DFA006484",
+      "dev_eui": "dba91c2447c95d85",
+      "Latitude": 35.075052
+    },
+    {
+      "id": 462,
+      "serial_number": "2008DFA006551",
+      "dev_eui": "a676c40cc9aa4537",
+      "Latitude": 35.09512
+    },
+    {
+      "id": 130,
+      "serial_number": "2008DFA003864",
+      "dev_eui": "a638fc0a86597eb2",
+      "Latitude": 35.084868
+    },
+    {
+      "id": 132,
+      "serial_number": "2008DFA003859",
+      "dev_eui": "63d8906720998d03",
+      "Latitude": 35.084788
+    },
+    {
+      "id": 651,
+      "serial_number": "2008DFA001224",
+      "dev_eui": "db6afc189b400423",
+      "Latitude": 35.08818
+    },
+    {
+      "id": 573,
+      "serial_number": "2010DFA006026",
+      "dev_eui": "6b1388801c52764a",
+      "Latitude": 35.076628
+    },
+    {
+      "id": 127,
+      "serial_number": "2008DFA003853",
+      "dev_eui": "687d58507bde08e9",
+      "Latitude": 35.0849
+    },
+    {
+      "id": 43,
+      "serial_number": "2008DFA003471",
+      "dev_eui": "63df40198cf2357e",
+      "Latitude": 35.08472
+    },
+    {
+      "id": 468,
+      "serial_number": "2008DFA006729",
+      "dev_eui": "3f485478483cb7ed",
+      "Latitude": 35.094768
+    },
+    {
+      "id": 193,
+      "serial_number": "2008DFA006373",
+      "dev_eui": "dc8da8873a02d57c",
+      "Latitude": 35.09776
+    },
+    {
+      "id": 587,
+      "serial_number": "2008DFA003954",
+      "dev_eui": "63dda84769d3f129",
+      "Latitude": 35.09068
+    },
+    {
+      "id": 294,
+      "serial_number": "2008DFA003969",
+      "dev_eui": "dc3a880b8b9f6569",
+      "Latitude": 35.08502
+    },
+    {
+      "id": 210,
+      "serial_number": "2008DFA003922",
+      "dev_eui": "6884c0d80000dbcd",
+      "Latitude": 35.08502
+    },
+    {
+      "id": 598,
+      "serial_number": "2008DFA003941",
+      "dev_eui": "63e0c058d191cecf",
+      "Latitude": 35.091948
+    },
+    {
+      "id": 113,
+      "serial_number": "2008DFA003894",
+      "dev_eui": "a64df8b35145aa88",
+      "Latitude": 35.091308
+    },
+    {
+      "id": 645,
+      "serial_number": "2006DFA004503",
+      "dev_eui": "649d8c638a8a3696",
+      "Latitude": 35.12396
+    },
+    {
+      "id": 154,
+      "serial_number": "2008DFA003900",
+      "dev_eui": "3df8f0ab248aa617",
+      "Latitude": 35.09088
+    },
+    {
+      "id": 601,
+      "serial_number": "2010DFA006059",
+      "dev_eui": "6a6878883eec5185",
+      "Latitude": 35.07682
+    },
+    {
+      "id": 203,
+      "serial_number": "2008DFA006792",
+      "dev_eui": "dc5b901aad39cd94",
+      "Latitude": 35.08122
+    },
+    {
+      "id": 151,
+      "serial_number": "2008DFA003786",
+      "dev_eui": "7b883cb3cfde598d",
+      "Latitude": 35.09142
+    },
+    {
+      "id": 221,
+      "serial_number": "2008DFA006726",
+      "dev_eui": "7b92f470f10150ea",
+      "Latitude": 35.0802
+    },
+    {
+      "id": 561,
+      "serial_number": "2008DFA003978",
+      "dev_eui": "db88b4abd956c760",
+      "Latitude": 35.090172
+    },
+    {
+      "id": 642,
+      "serial_number": "2006DFA004500",
+      "dev_eui": "649d703e2acfe07b",
+      "Latitude": 35.08848
+    },
+    {
+      "id": 533,
+      "serial_number": "2008DFA003980",
+      "dev_eui": "6def2ccb2081ff17",
+      "Latitude": 35.089588
+    },
+    {
+      "id": 589,
+      "serial_number": "2008DFA003957",
+      "dev_eui": "63dd286e80b2d031",
+      "Latitude": 35.091788
+    },
+    {
+      "id": 470,
+      "serial_number": "2008DFA006725",
+      "dev_eui": "5b19a0c240f27d68",
+      "Latitude": 35.0985
+    },
+    {
+      "id": 655,
+      "serial_number": "2008DFA001359",
+      "dev_eui": "6ddcb0516b04a0f5",
+      "Latitude": 35.088188
+    },
+    {
+      "id": 191,
+      "serial_number": "2008DFA003892",
+      "dev_eui": "64dd8089b4c466f2",
+      "Latitude": 35.0847
+    },
+    {
+      "id": 441,
+      "serial_number": "2008DFA003823",
+      "dev_eui": "7b8a6c7744c560fa",
+      "Latitude": 35.08484
+    },
+    {
+      "id": 529,
+      "serial_number": "2008DFA003983",
+      "dev_eui": "63dd5c32177bd28d",
+      "Latitude": 35.089612
+    },
+    {
+      "id": 591,
+      "serial_number": "2008DFA006972",
+      "dev_eui": "a672a08080454ce7",
+      "Latitude": 35.08082
+    },
+    {
+      "id": 195,
+      "serial_number": "2008DFA006204",
+      "dev_eui": "a63364078275c3a9",
+      "Latitude": 35.09562
+    },
+    {
+      "id": 200,
+      "serial_number": "2008DFA006724",
+      "dev_eui": "19f2fce3c7bc895b",
+      "Latitude": 35.098172
+    },
+    {
+      "id": 315,
+      "serial_number": "2008DFA003996",
+      "dev_eui": "a62d6409082cd002",
+      "Latitude": 35.08682
+    },
+    {
+      "id": 139,
+      "serial_number": "2008DFA003817",
+      "dev_eui": "687d409200cb10bc",
+      "Latitude": 35.09104
+    },
+    {
+      "id": 268,
+      "serial_number": "2008DFA003912",
+      "dev_eui": "7b8c785a41e9a75e",
+      "Latitude": 35.085108
+    },
+    {
+      "id": 537,
+      "serial_number": "2008DFA006449",
+      "dev_eui": "a67188aec0df2e6d",
+      "Latitude": 35.07592
+    },
+    {
+      "id": 505,
+      "serial_number": "2008DFA003940",
+      "dev_eui": "63e1400c87a54325",
+      "Latitude": 35.09146
+    },
+    {
+      "id": 94,
+      "serial_number": "2008DFA006677",
+      "dev_eui": "a630c8f5ee37c0ac",
+      "Latitude": 35.0832
+    },
+    {
+      "id": 530,
+      "serial_number": "2008DFA006741",
+      "dev_eui": "db41b8574b37a7d8",
+      "Latitude": 35.081168
+    },
+    {
+      "id": 513,
+      "serial_number": "2008DFA006816",
+      "dev_eui": "a645d0fa980ec760",
+      "Latitude": 35.081108
+    },
+    {
+      "id": 382,
+      "serial_number": "2008DFA003520",
+      "dev_eui": "7b8a68bea3f05dcf",
+      "Latitude": 35.09102
+    },
+    {
+      "id": 456,
+      "serial_number": "2008DFA003902",
+      "dev_eui": "63e17446b909bd2e",
+      "Latitude": 35.08478
+    },
+    {
+      "id": 608,
+      "serial_number": "2008DFA003921",
+      "dev_eui": "6dee648e063509e3",
+      "Latitude": 35.091672
+    },
+    {
+      "id": 182,
+      "serial_number": "2008DFA003930",
+      "dev_eui": "63e14c17d2b0a7b7",
+      "Latitude": 35.085072
+    },
+    {
+      "id": 553,
+      "serial_number": "2008DFA003977",
+      "dev_eui": "a77d304cff39d411",
+      "Latitude": 35.09042
+    },
+    {
+      "id": 90,
+      "serial_number": "2008DFA003510",
+      "dev_eui": "63de306659238ab7",
+      "Latitude": 35.08976
+    },
+    {
+      "id": 498,
+      "serial_number": "2008DFA003966",
+      "dev_eui": "a77dc05d4fbf675c",
+      "Latitude": 35.08606
+    },
+    {
+      "id": 640,
+      "serial_number": "2006DFA004498",
+      "dev_eui": "4b15e043102f34e1",
+      "Latitude": 35.08656
+    },
+    {
+      "id": 324,
+      "serial_number": "2008DFA003514",
+      "dev_eui": "6876e04f1ec02a9b",
+      "Latitude": 35.08724
+    },
+    {
+      "id": 559,
+      "serial_number": "2008DFA003973",
+      "dev_eui": "a77bec21b3a8c2e1",
+      "Latitude": 35.089248
+    },
+    {
+      "id": 372,
+      "serial_number": "2008DFA006482",
+      "dev_eui": "dbf4c4b260db6fb5",
+      "Latitude": 35.08368
+    },
+    {
+      "id": 434,
+      "serial_number": "2008DFA003857",
+      "dev_eui": "7b8cbc0a289667df",
+      "Latitude": 35.088348
+    },
+    {
+      "id": 346,
+      "serial_number": "2008DFA003460",
+      "dev_eui": "689318fbba9047ee",
+      "Latitude": 35.090128
+    },
+    {
+      "id": 551,
+      "serial_number": "2008DFA003981",
+      "dev_eui": "63e044d532dd7e38",
+      "Latitude": 35.08906
+    },
+    {
+      "id": 2,
+      "serial_number": "2008DFA006958",
+      "dev_eui": "dba20ceedbf67d91",
+      "Latitude": 35.069988
+    },
+    {
+      "id": 271,
+      "serial_number": "2008DFA003914",
+      "dev_eui": "6538287c294a4f31",
+      "Latitude": 35.085128
+    },
+    {
+      "id": 290,
+      "serial_number": "2008DFA003848",
+      "dev_eui": "687cdc0f978e3b20",
+      "Latitude": 35.08478
+    },
+    {
+      "id": 93,
+      "serial_number": "2008DFA003527",
+      "dev_eui": "7b87e8219565b50a",
+      "Latitude": 35.089552
+    },
+    {
+      "id": 81,
+      "serial_number": "2008DFA003536",
+      "dev_eui": "7b8c7cf9045cc9f1",
+      "Latitude": 35.0857
+    },
+    {
+      "id": 583,
+      "serial_number": "2010DFA006035",
+      "dev_eui": "6ad1504c9a0622a4",
+      "Latitude": 35.0763
+    },
+    {
+      "id": 374,
+      "serial_number": "2008DFA003535",
+      "dev_eui": "7b8c849d34aaaa0d",
+      "Latitude": 35.085572
+    },
+    {
+      "id": 125,
+      "serial_number": "2008DFA003868",
+      "dev_eui": "dbc8fc93382f942d",
+      "Latitude": 35.09144
+    },
+    {
+      "id": 352,
+      "serial_number": "2008DFA006638",
+      "dev_eui": "1a178cd42b1be33f",
+      "Latitude": 35.08058
+    },
+    {
+      "id": 707,
+      "serial_number": "2007DFA003033",
+      "dev_eui": "7b949c00b6e48cb8",
+      "Latitude": 35.098032
+    },
+    {
+      "id": 30,
+      "serial_number": "2008DFA003370",
+      "dev_eui": "a63300dc4e288da1",
+      "Latitude": 35.101008
+    },
+    {
+      "id": 565,
+      "serial_number": "2010DFA006051",
+      "dev_eui": "6a652c53e86b4283",
+      "Latitude": 35.075612
+    },
+    {
+      "id": 628,
+      "serial_number": "2006DFA004454",
+      "dev_eui": "64a11c23bedc79c4",
+      "Latitude": 35.086428
+    },
+    {
+      "id": 172,
+      "serial_number": "2008DFA006696",
+      "dev_eui": "6873c00bad532924",
+      "Latitude": 35.097468
+    },
+    {
+      "id": 718,
+      "serial_number": "2007DFA003057",
+      "dev_eui": "7b94d0b81fec829b",
+      "Latitude": 35.097728
+    },
+    {
+      "id": 110,
+      "serial_number": "2008DFA003897",
+      "dev_eui": "d9ab74fd900acf8b",
+      "Latitude": 35.09128
+    },
+    {
+      "id": 379,
+      "serial_number": "2008DFA003518",
+      "dev_eui": "63e0c48f6166a3b7",
+      "Latitude": 35.090568
+    },
+    {
+      "id": 238,
+      "serial_number": "2008DFA006807",
+      "dev_eui": "a632788a9899c1cc",
+      "Latitude": 35.08072
+    },
+    {
+      "id": 734,
+      "serial_number": "2102DFA007618",
+      "dev_eui": "7e073ce85e4c9056",
+      "Latitude": 35.074712
+    },
+    {
+      "id": 226,
+      "serial_number": "2008DFA006698",
+      "dev_eui": "a78e7431d31574ba",
+      "Latitude": 35.081108
+    },
+    {
+      "id": 410,
+      "serial_number": "2008DFA003785",
+      "dev_eui": "688668747e64a1bb",
+      "Latitude": 35.08708
+    },
+    {
+      "id": 166,
+      "serial_number": "2008DFA006680",
+      "dev_eui": "6de734e161c93bb9",
+      "Latitude": 35.095952
+    },
+    {
+      "id": 524,
+      "serial_number": "2008DFA003989",
+      "dev_eui": "687f0843f321dcff",
+      "Latitude": 35.0891
+    },
+    {
+      "id": 133,
+      "serial_number": "2008DFA003862",
+      "dev_eui": "63e0104d717786b4",
+      "Latitude": 35.088748
+    },
+    {
+      "id": 415,
+      "serial_number": "2008DFA003895",
+      "dev_eui": "5b2398b0ae0d13d5",
+      "Latitude": 35.091332
+    },
+    {
+      "id": 596,
+      "serial_number": "2010DFA006068",
+      "dev_eui": "6ad19810f8913484",
+      "Latitude": 35.07578
+    },
+    {
+      "id": 641,
+      "serial_number": "2006DFA004499",
+      "dev_eui": "649d881b3c8ba0b3",
+      "Latitude": 35.08902
+    },
+    {
+      "id": 496,
+      "serial_number": "2008DFA003968",
+      "dev_eui": "dc7d407667ca9c41",
+      "Latitude": 35.087908
+    },
+    {
+      "id": 59,
+      "serial_number": "2008DFA003511",
+      "dev_eui": "7b8b2487cc89f587",
+      "Latitude": 35.090328
+    },
+    {
+      "id": 317,
+      "serial_number": "2008DFA006801",
+      "dev_eui": "3e9a68d6265aefa7",
+      "Latitude": 35.08124
+    },
+    {
+      "id": 594,
+      "serial_number": "2008DFA003945",
+      "dev_eui": "687d18e153fec663",
+      "Latitude": 35.091548
+    },
+    {
+      "id": 347,
+      "serial_number": "2008DFA003503",
+      "dev_eui": "63d9a006faf855f7",
+      "Latitude": 35.090788
+    },
+    {
+      "id": 756,
+      "serial_number": "2012DFA009213",
+      "dev_eui": "a71a9cc861fde8b9",
+      "Latitude": 35.10394
+    },
+    {
+      "id": 64,
+      "serial_number": "2008DFA006647",
+      "dev_eui": "a63d084cc8a5298d",
+      "Latitude": 35.080428
+    },
+    {
+      "id": 742,
+      "serial_number": "2102DFA007583",
+      "dev_eui": "7f4b5c86bba15bc1",
+      "Latitude": 35.07688
+    },
+    {
+      "id": 217,
+      "serial_number": "2008DFA006760",
+      "dev_eui": "dd31e446d6441291",
+      "Latitude": 35.0812
+    },
+    {
+      "id": 760,
+      "serial_number": "2012DFA008135",
+      "dev_eui": "a739907002cb86d6",
+      "Latitude": 35.0741
+    },
+    {
+      "id": 717,
+      "serial_number": "2007DFA003056",
+      "dev_eui": "68b0a869cad5aed8",
+      "Latitude": 35.09898
+    },
+    {
+      "id": 701,
+      "serial_number": "2007DFA003018",
+      "dev_eui": "68b04c66b6679a88",
+      "Latitude": 35.098672
+    },
+    {
+      "id": 715,
+      "serial_number": "2007DFA003054",
+      "dev_eui": "68715cfd5e119378",
+      "Latitude": 35.09768
+    },
+    {
+      "id": 733,
+      "serial_number": "2102DFA007640",
+      "dev_eui": "cc5bbcc77eb0c734",
+      "Latitude": 35.08568
+    },
+    {
+      "id": 735,
+      "serial_number": "2102DFA007617",
+      "dev_eui": "cc555890d0cac874",
+      "Latitude": 35.07106
+    },
+    {
+      "id": 744,
+      "serial_number": "2102DFA007564",
+      "dev_eui": "7a35346f06cc8cb7",
+      "Latitude": 35.073232
+    },
+    {
+      "id": 749,
+      "serial_number": "2102DFA007538",
+      "dev_eui": "7a35181086b8eba9",
+      "Latitude": 35.07628
+    },
+    {
+      "id": 32,
+      "serial_number": "2008DFA003504",
+      "dev_eui": "63d96cf1546c8f1a",
+      "Latitude": 35.10096
+    },
+    {
+      "id": 688,
+      "serial_number": "2007DFA002862",
+      "dev_eui": "63bcfc8bbafbeae2",
+      "Latitude": 35.09894
+    },
+    {
+      "id": 700,
+      "serial_number": "2007DFA003010",
+      "dev_eui": "654b68bd24e42c65",
+      "Latitude": 35.09882
+    },
+    {
+      "id": 737,
+      "serial_number": "2102DFA007605",
+      "dev_eui": "7bc448b6adecec45",
+      "Latitude": 35.072528
+    },
+    {
+      "id": 690,
+      "serial_number": "2007DFA003028",
+      "dev_eui": "a892b0dfd77081a8",
+      "Latitude": 35.097948
+    },
+    {
+      "id": 710,
+      "serial_number": "2007DFA003037",
+      "dev_eui": "654f80cf1a81a45e",
+      "Latitude": 35.09782
+    },
+    {
+      "id": 693,
+      "serial_number": "2007DFA003020",
+      "dev_eui": "654a40bec1dcff54",
+      "Latitude": 35.09682
+    },
+    {
+      "id": 570,
+      "serial_number": "2008DFA003963",
+      "dev_eui": "63dcb01e1fc041eb",
+      "Latitude": 35.08674
+    },
+    {
+      "id": 236,
+      "serial_number": "2008DFA006624",
+      "dev_eui": "686eec5cc8cf59e4",
+      "Latitude": 35.08898
+    },
+    {
+      "id": 564,
+      "serial_number": "2008DFA003967",
+      "dev_eui": "a632e0db2791f299",
+      "Latitude": 35.089712
+    },
+    {
+      "id": 389,
+      "serial_number": "2008DFA003509",
+      "dev_eui": "687c64bf64732e88",
+      "Latitude": 35.08944
+    },
+    {
+      "id": 359,
+      "serial_number": "2008DFA003550",
+      "dev_eui": "687cf0c44da6927a",
+      "Latitude": 35.091228
+    },
+    {
+      "id": 22,
+      "serial_number": "2008DFA002862",
+      "dev_eui": "63d8f89ee91be182",
+      "Latitude": 35.0847
+    },
+    {
+      "id": 698,
+      "serial_number": "2007DFA002929",
+      "dev_eui": "654b3c9cc8bc2cab",
+      "Latitude": 35.09758
+    },
+    {
+      "id": 576,
+      "serial_number": "2010DFA006017",
+      "dev_eui": "6a685c1841fc2b36",
+      "Latitude": 35.0755
+    },
+    {
+      "id": 517,
+      "serial_number": "2010DFA006034",
+      "dev_eui": "6ad0dcac8ccb159e",
+      "Latitude": 35.07638
+    },
+    {
+      "id": 563,
+      "serial_number": "2008DFA003971",
+      "dev_eui": "63e1246ca10fd816",
+      "Latitude": 35.09
+    },
+    {
+      "id": 730,
+      "serial_number": "2102DFA007630",
+      "dev_eui": "b4e12c8f37235929",
+      "Latitude": 35.080328
+    },
+    {
+      "id": 555,
+      "serial_number": "2010DFA006066",
+      "dev_eui": "6ad194f748cd10aa",
+      "Latitude": 35.075132
+    },
+    {
+      "id": 371,
+      "serial_number": "2008DFA003540",
+      "dev_eui": "687c60f636a81549",
+      "Latitude": 35.08568
+    },
+    {
+      "id": 386,
+      "serial_number": "2008DFA006682",
+      "dev_eui": "3f00e8b15b9b38fc",
+      "Latitude": 35.08044
+    },
+    {
+      "id": 635,
+      "serial_number": "2006DFA004491",
+      "dev_eui": "649e40cd77ceeff2",
+      "Latitude": 35.087828
+    },
+    {
+      "id": 518,
+      "serial_number": "2008DFA006950",
+      "dev_eui": "dc20ace76fb6bfe9",
+      "Latitude": 35.080908
+    },
+    {
+      "id": 376,
+      "serial_number": "2008DFA003533",
+      "dev_eui": "689074bf05c835e9",
+      "Latitude": 35.08578
+    },
+    {
+      "id": 61,
+      "serial_number": "2008DFA003515",
+      "dev_eui": "63de6c63695a9cba",
+      "Latitude": 35.09012
+    },
+    {
+      "id": 366,
+      "serial_number": "2008DFA003542",
+      "dev_eui": "688cfcd495a2caac",
+      "Latitude": 35.085848
+    },
+    {
+      "id": 585,
+      "serial_number": "2010DFA006037",
+      "dev_eui": "6ad0948afb3fe0d8",
+      "Latitude": 35.07566
+    },
+    {
+      "id": 412,
+      "serial_number": "2008DFA003898",
+      "dev_eui": "6884e07ae09e9412",
+      "Latitude": 35.09084
+    },
+    {
+      "id": 321,
+      "serial_number": "2008DFA003512",
+      "dev_eui": "7b87d41e2a780718",
+      "Latitude": 35.087
+    },
+    {
+      "id": 514,
+      "serial_number": "2010DFA006032",
+      "dev_eui": "6a66ac1f494bcb5e",
+      "Latitude": 35.07656
+    },
+    {
+      "id": 124,
+      "serial_number": "2008DFA003847",
+      "dev_eui": "68804826a68bdfc4",
+      "Latitude": 35.08674
+    },
+    {
+      "id": 92,
+      "serial_number": "2008DFA003508",
+      "dev_eui": "687c58af5d4a24ba",
+      "Latitude": 35.08944
+    },
+    {
+      "id": 297,
+      "serial_number": "2008DFA004029",
+      "dev_eui": "a638c0afcad665d2",
+      "Latitude": 35.0741
+    },
+    {
+      "id": 605,
+      "serial_number": "2008DFA003935",
+      "dev_eui": "5b1fd4f5032a0c1b",
+      "Latitude": 35.089852
+    },
+    {
+      "id": 519,
+      "serial_number": "2008DFA003995",
+      "dev_eui": "687df82b6a888066",
+      "Latitude": 35.0907
+    },
+    {
+      "id": 351,
+      "serial_number": "2008DFA003501",
+      "dev_eui": "688ce062a7f2efde",
+      "Latitude": 35.08778
+    },
+    {
+      "id": 392,
+      "serial_number": "2008DFA003507",
+      "dev_eui": "7b87fc89ec669fc2",
+      "Latitude": 35.085512
+    },
+    {
+      "id": 629,
+      "serial_number": "2006DFA004455",
+      "dev_eui": "64a15c9ad6d08a73",
+      "Latitude": 35.08682
+    },
+    {
+      "id": 353,
+      "serial_number": "2008DFA003488",
+      "dev_eui": "687c0439b58fb983",
+      "Latitude": 35.08652
+    },
+    {
+      "id": 586,
+      "serial_number": "2010DFA005997",
+      "dev_eui": "68cf9cddfb09230b",
+      "Latitude": 35.07636
+    },
+    {
+      "id": 380,
+      "serial_number": "2008DFA003531",
+      "dev_eui": "687c90483771de07",
+      "Latitude": 35.086608
+    },
+    {
+      "id": 558,
+      "serial_number": "2010DFA006057",
+      "dev_eui": "6a6830b046ea16f0",
+      "Latitude": 35.07266
+    },
+    {
+      "id": 531,
+      "serial_number": "2008DFA003947",
+      "dev_eui": "63e00c3edd06daaf",
+      "Latitude": 35.09016
+    },
+    {
+      "id": 88,
+      "serial_number": "2008DFA003529",
+      "dev_eui": "687c4c9b28070121",
+      "Latitude": 35.0864
+    },
+    {
+      "id": 70,
+      "serial_number": "2008DFA003545",
+      "dev_eui": "687e90b26d614d79",
+      "Latitude": 35.0869
+    },
+    {
+      "id": 543,
+      "serial_number": "2010DFA006022",
+      "dev_eui": "6a65a0a5a7d88470",
+      "Latitude": 35.077808
+    },
+    {
+      "id": 80,
+      "serial_number": "2008DFA003517",
+      "dev_eui": "6890f0022b5faaf3",
+      "Latitude": 35.090372
+    },
+    {
+      "id": 398,
+      "serial_number": "2008DFA003863",
+      "dev_eui": "7b4d84b7ca751509",
+      "Latitude": 35.090568
+    },
+    {
+      "id": 361,
+      "serial_number": "2008DFA003546",
+      "dev_eui": "63d9fc36defccb35",
+      "Latitude": 35.087052
+    },
+    {
+      "id": 385,
+      "serial_number": "2008DFA003526",
+      "dev_eui": "6890c84393e6c207",
+      "Latitude": 35.089872
+    },
+    {
+      "id": 384,
+      "serial_number": "2008DFA003522",
+      "dev_eui": "63e0900d34f992e8",
+      "Latitude": 35.08568
+    },
+    {
+      "id": 541,
+      "serial_number": "2008DFA003985",
+      "dev_eui": "7b8a78c9e72cdbf1",
+      "Latitude": 35.08904
+    },
+    {
+      "id": 86,
+      "serial_number": "2008DFA006689",
+      "dev_eui": "dbaa08b648a2d3e3",
+      "Latitude": 35.082168
+    },
+    {
+      "id": 556,
+      "serial_number": "2008DFA003975",
+      "dev_eui": "a77d349ccd418b51",
+      "Latitude": 35.08766
+    },
+    {
+      "id": 512,
+      "serial_number": "2008DFA003908",
+      "dev_eui": "63dea8f240d960c6",
+      "Latitude": 35.086528
+    },
+    {
+      "id": 509,
+      "serial_number": "2008DFA003928",
+      "dev_eui": "68864c62761022dd",
+      "Latitude": 35.088
+    },
+    {
+      "id": 550,
+      "serial_number": "2010DFA006069",
+      "dev_eui": "6ad0c8e930e70b10",
+      "Latitude": 35.074772
+    },
+    {
+      "id": 85,
+      "serial_number": "2008DFA003532",
+      "dev_eui": "653804d2b500e630",
+      "Latitude": 35.091092
+    },
+    {
+      "id": 245,
+      "serial_number": "2008DFA006748",
+      "dev_eui": "a7924c10a70ef363",
+      "Latitude": 35.075748
+    },
+    {
+      "id": 278,
+      "serial_number": "2008DFA003920",
+      "dev_eui": "68926ca02643c7df",
+      "Latitude": 35.08498
+    },
+    {
+      "id": 143,
+      "serial_number": "2008DFA003731",
+      "dev_eui": "687ca4dca628b10c",
+      "Latitude": 35.077752
+    },
+    {
+      "id": 107,
+      "serial_number": "2008DFA003559",
+      "dev_eui": "63de2c1c589512ca",
+      "Latitude": 35.08806
+    },
+    {
+      "id": 109,
+      "serial_number": "2008DFA003884",
+      "dev_eui": "3e1b045b6dbc8cc6",
+      "Latitude": 35.088692
+    },
+    {
+      "id": 105,
+      "serial_number": "2008DFA003425",
+      "dev_eui": "a6327ca9dc9d93dd",
+      "Latitude": 35.086992
+    },
+    {
+      "id": 459,
+      "serial_number": "2008DFA006917",
+      "dev_eui": "dba148b0ab7c573a",
+      "Latitude": 35.0758
+    },
+    {
+      "id": 377,
+      "serial_number": "2008DFA006391",
+      "dev_eui": "dc40b892fce0bba2",
+      "Latitude": 35.081248
+    },
+    {
+      "id": 491,
+      "serial_number": "2008DFA003972",
+      "dev_eui": "a6302c90ca86abbf",
+      "Latitude": 35.08722
+    },
+    {
+      "id": 363,
+      "serial_number": "2008DFA006664",
+      "dev_eui": "687408f17b0c6508",
+      "Latitude": 35.083208
+    },
+    {
+      "id": 66,
+      "serial_number": "2008DFA006663",
+      "dev_eui": "82990c9e891c47cc",
+      "Latitude": 35.08292
+    },
+    {
+      "id": 146,
+      "serial_number": "2008DFA003790",
+      "dev_eui": "63da70695d9fdd9d",
+      "Latitude": 35.09146
+    },
+    {
+      "id": 348,
+      "serial_number": "2008DFA006621",
+      "dev_eui": "686eb8b3a7a15227",
+      "Latitude": 35.0815
+    },
+    {
+      "id": 231,
+      "serial_number": "2008DFA006576",
+      "dev_eui": "dc1788f77026f072",
+      "Latitude": 35.08038
+    },
+    {
+      "id": 357,
+      "serial_number": "2008DFA006648",
+      "dev_eui": "838fe06159ce012b",
+      "Latitude": 35.0833
+    },
+    {
+      "id": 350,
+      "serial_number": "2008DFA003378",
+      "dev_eui": "a77d14b5338ed348",
+      "Latitude": 35.087232
+    },
+    {
+      "id": 91,
+      "serial_number": "2008DFA006679",
+      "dev_eui": "a67a8415a7ea38f8",
+      "Latitude": 35.08202
+    },
+    {
+      "id": 504,
+      "serial_number": "2008DFA006962",
+      "dev_eui": "db0e28c891bd57b2",
+      "Latitude": 35.080928
+    },
+    {
+      "id": 78,
+      "serial_number": "2008DFA006479",
+      "dev_eui": "a670d476d78553be",
+      "Latitude": 35.083372
+    },
+    {
+      "id": 648,
+      "serial_number": "2006DFA004506",
+      "dev_eui": "4b1c38aa502480ac",
+      "Latitude": 35.08638
+    },
+    {
+      "id": 378,
+      "serial_number": "2008DFA006690",
+      "dev_eui": "a63b049e6e2c1fd9",
+      "Latitude": 35.082052
+    },
+    {
+      "id": 87,
+      "serial_number": "2008DFA003521",
+      "dev_eui": "688db8d23ae57f0c",
+      "Latitude": 35.090488
+    },
+    {
+      "id": 313,
+      "serial_number": "2008DFA004011",
+      "dev_eui": "6884cc9b17047f25",
+      "Latitude": 35.06742
+    },
+    {
+      "id": 106,
+      "serial_number": "2008DFA006654",
+      "dev_eui": "a676f89530a81012",
+      "Latitude": 35.08372
+    },
+    {
+      "id": 171,
+      "serial_number": "2008DFA006687",
+      "dev_eui": "6de1303af9f8641f",
+      "Latitude": 35.096908
+    },
+    {
+      "id": 602,
+      "serial_number": "2008DFA006956",
+      "dev_eui": "a67120b02a6454a2",
+      "Latitude": 35.082068
+    },
+    {
+      "id": 101,
+      "serial_number": "2008DFA006670",
+      "dev_eui": "a67a786b77cb6baf",
+      "Latitude": 35.08322
+    },
+    {
+      "id": 157,
+      "serial_number": "2008DFA006721",
+      "dev_eui": "1a102cc3a1d67b8d",
+      "Latitude": 35.094492
+    },
+    {
+      "id": 62,
+      "serial_number": "2008DFA006656",
+      "dev_eui": "a63694b36410bd49",
+      "Latitude": 35.081908
+    },
+    {
+      "id": 527,
+      "serial_number": "2008DFA006761",
+      "dev_eui": "6de5847293cdb25b",
+      "Latitude": 35.08396
+    },
+    {
+      "id": 593,
+      "serial_number": "2008DFA006969",
+      "dev_eui": "a79320a2baaca77a",
+      "Latitude": 35.080828
+    },
+    {
+      "id": 305,
+      "serial_number": "2008DFA006473",
+      "dev_eui": "db9800c1f98aeaa8",
+      "Latitude": 35.08094
+    },
+    {
+      "id": 375,
+      "serial_number": "2008DFA006470",
+      "dev_eui": "19e694cada2c2763",
+      "Latitude": 35.08358
+    },
+    {
+      "id": 450,
+      "serial_number": "2008DFA006705",
+      "dev_eui": "a647f8d6e17cd6c9",
+      "Latitude": 35.081472
+    },
+    {
+      "id": 60,
+      "serial_number": "2008DFA003513",
+      "dev_eui": "6884dc944c252649",
+      "Latitude": 35.090512
+    },
+    {
+      "id": 516,
+      "serial_number": "2008DFA006780",
+      "dev_eui": "a78ff4f32ef8f427",
+      "Latitude": 35.0846
+    },
+    {
+      "id": 65,
+      "serial_number": "2008DFA006572",
+      "dev_eui": "7b914872640b46ae",
+      "Latitude": 35.08158
+    },
+    {
+      "id": 355,
+      "serial_number": "2008DFA006651",
+      "dev_eui": "3eae88b1859a3ded",
+      "Latitude": 35.081508
+    },
+    {
+      "id": 484,
+      "serial_number": "2008DFA006676",
+      "dev_eui": "5b16c87e77d52861",
+      "Latitude": 35.098448
+    },
+    {
+      "id": 230,
+      "serial_number": "2008DFA006610",
+      "dev_eui": "db89185c01f5c3ee",
+      "Latitude": 35.088232
+    },
+    {
+      "id": 411,
+      "serial_number": "2008DFA003734",
+      "dev_eui": "687cb8bf42b9bedc",
+      "Latitude": 35.07052
+    },
+    {
+      "id": 367,
+      "serial_number": "2008DFA006511",
+      "dev_eui": "dc88f0560d5f1873",
+      "Latitude": 35.082968
+    },
+    {
+      "id": 500,
+      "serial_number": "2008DFA003942",
+      "dev_eui": "687f74f248670083",
+      "Latitude": 35.091512
+    },
+    {
+      "id": 71,
+      "serial_number": "2008DFA006661",
+      "dev_eui": "3dccb4ca18c6f2fa",
+      "Latitude": 35.08152
+    },
+    {
+      "id": 369,
+      "serial_number": "2008DFA006494",
+      "dev_eui": "a6711c6a8768080d",
+      "Latitude": 35.081908
+    },
+    {
+      "id": 67,
+      "serial_number": "2008DFA003549",
+      "dev_eui": "6892d4c827f5bc65",
+      "Latitude": 35.088668
+    },
+    {
+      "id": 626,
+      "serial_number": "2006DFA004425",
+      "dev_eui": "64a0445c136d0b2d",
+      "Latitude": 35.087008
+    },
+    {
+      "id": 237,
+      "serial_number": "2008DFA006188",
+      "dev_eui": "3f5afc2926d425f4",
+      "Latitude": 35.080732
+    },
+    {
+      "id": 312,
+      "serial_number": "2008DFA006804",
+      "dev_eui": "19fac44a7a04ddcd",
+      "Latitude": 35.080448
+    },
+    {
+      "id": 99,
+      "serial_number": "2008DFA006674",
+      "dev_eui": "3f35e4017e5d6e15",
+      "Latitude": 35.08216
+    },
+    {
+      "id": 73,
+      "serial_number": "2008DFA006500",
+      "dev_eui": "dc4654ad21fd409f",
+      "Latitude": 35.080572
+    },
+    {
+      "id": 370,
+      "serial_number": "2008DFA006660",
+      "dev_eui": "a6368c7156ffaab8",
+      "Latitude": 35.08244
+    },
+    {
+      "id": 82,
+      "serial_number": "2008DFA006279",
+      "dev_eui": "6de2a052c7b25941",
+      "Latitude": 35.080552
+    },
+    {
+      "id": 128,
+      "serial_number": "2008DFA003747",
+      "dev_eui": "687c8c3c558affc0",
+      "Latitude": 35.07142
+    },
+    {
+      "id": 126,
+      "serial_number": "2008DFA003749",
+      "dev_eui": "63e020dac35a7f69",
+      "Latitude": 35.078972
+    },
+    {
+      "id": 209,
+      "serial_number": "2008DFA006787",
+      "dev_eui": "a79070c5e6d8bc8e",
+      "Latitude": 35.080668
+    },
+    {
+      "id": 542,
+      "serial_number": "2010DFA006013",
+      "dev_eui": "6a66c4b8073e11ea",
+      "Latitude": 35.076852
+    },
+    {
+      "id": 604,
+      "serial_number": "2008DFA006961",
+      "dev_eui": "dcac0414d661ce87",
+      "Latitude": 35.080988
+    },
+    {
+      "id": 131,
+      "serial_number": "2008DFA003742",
+      "dev_eui": "63db98a438737fe9",
+      "Latitude": 35.078412
+    },
+    {
+      "id": 571,
+      "serial_number": "2010DFA006038",
+      "dev_eui": "6ad264befbc7e963",
+      "Latitude": 35.07518
+    },
+    {
+      "id": 433,
+      "serial_number": "2008DFA003678",
+      "dev_eui": "7b8878773b61b197",
+      "Latitude": 35.07458
+    },
+    {
+      "id": 409,
+      "serial_number": "2008DFA003736",
+      "dev_eui": "63db6825784a4b38",
+      "Latitude": 35.0718
+    },
+    {
+      "id": 503,
+      "serial_number": "2010DFA006024",
+      "dev_eui": "6b68c0018e22b09d",
+      "Latitude": 35.07384
+    },
+    {
+      "id": 606,
+      "serial_number": "2010DFA006056",
+      "dev_eui": "6b13708558f5bb60",
+      "Latitude": 35.072652
+    },
+    {
+      "id": 624,
+      "serial_number": "2008DFA006737",
+      "dev_eui": "a78ea8e18a1207d6",
+      "Latitude": 35.08098
+    },
+    {
+      "id": 69,
+      "serial_number": "2008DFA006657",
+      "dev_eui": "3ecfb0a4153501d7",
+      "Latitude": 35.081928
+    },
+    {
+      "id": 492,
+      "serial_number": "2008DFA006976",
+      "dev_eui": "dae11492c080c554",
+      "Latitude": 35.080792
+    },
+    {
+      "id": 100,
+      "serial_number": "2008DFA006619",
+      "dev_eui": "dcb9f4024b9e2c12",
+      "Latitude": 35.081392
+    },
+    {
+      "id": 612,
+      "serial_number": "2008DFA006951",
+      "dev_eui": "3f1c9c796d76b038",
+      "Latitude": 35.071188
+    },
+    {
+      "id": 499,
+      "serial_number": "2008DFA006968",
+      "dev_eui": "a672acb9391de1aa",
+      "Latitude": 35.081712
+    },
+    {
+      "id": 58,
+      "serial_number": "2008DFA004015",
+      "dev_eui": "dcb0404a03c2af0e",
+      "Latitude": 35.067032
+    },
+    {
+      "id": 362,
+      "serial_number": "2008DFA006649",
+      "dev_eui": "3ddabcf4664c7427",
+      "Latitude": 35.081988
+    },
+    {
+      "id": 443,
+      "serial_number": "2008DFA006701",
+      "dev_eui": "6de6d0af9f3c6f73",
+      "Latitude": 35.097868
+    },
+    {
+      "id": 224,
+      "serial_number": "2008DFA006715",
+      "dev_eui": "3f37d448673fa025",
+      "Latitude": 35.081188
+    },
+    {
+      "id": 365,
+      "serial_number": "2008DFA006569",
+      "dev_eui": "dd0800285ee84ebc",
+      "Latitude": 35.0824
+    },
+    {
+      "id": 336,
+      "serial_number": "2008DFA006764",
+      "dev_eui": "3e676c21dd9bf98f",
+      "Latitude": 35.0965
+    },
+    {
+      "id": 25,
+      "serial_number": "2008DFA007079",
+      "dev_eui": "3e12b84c4b63af30",
+      "Latitude": 35.0707
+    },
+    {
+      "id": 95,
+      "serial_number": "2008DFA003506",
+      "dev_eui": "6886304bbcce0bdd",
+      "Latitude": 35.089748
+    },
+    {
+      "id": 103,
+      "serial_number": "2008DFA006626",
+      "dev_eui": "a676640f91abb3d1",
+      "Latitude": 35.08108
+    },
+    {
+      "id": 159,
+      "serial_number": "2008DFA006716",
+      "dev_eui": "6de4885ec95262b4",
+      "Latitude": 35.097148
+    },
+    {
+      "id": 98,
+      "serial_number": "2008DFA006579",
+      "dev_eui": "3e1494aba329bc18",
+      "Latitude": 35.08082
+    },
+    {
+      "id": 181,
+      "serial_number": "2008DFA006704",
+      "dev_eui": "6de6d861e536e010",
+      "Latitude": 35.098148
+    },
+    {
+      "id": 96,
+      "serial_number": "2008DFA003523",
+      "dev_eui": "63e0c848646d3c93",
+      "Latitude": 35.086368
+    },
+    {
+      "id": 158,
+      "serial_number": "2008DFA006669",
+      "dev_eui": "3eab883caac887cc",
+      "Latitude": 35.076172
+    },
+    {
+      "id": 328,
+      "serial_number": "2008DFA003516",
+      "dev_eui": "688d78424e940971",
+      "Latitude": 35.09
+    },
+    {
+      "id": 675,
+      "serial_number": "2008DFA001428",
+      "dev_eui": "687e5c330fa90973",
+      "Latitude": 35.0883
+    },
+    {
+      "id": 197,
+      "serial_number": "2008DFA006727",
+      "dev_eui": "a63a7881edad3908",
+      "Latitude": 35.098572
+    },
+    {
+      "id": 320,
+      "serial_number": "2008DFA006795",
+      "dev_eui": "a674e4dc651f3119",
+      "Latitude": 35.0802
+    },
+    {
+      "id": 214,
+      "serial_number": "2008DFA006763",
+      "dev_eui": "3f4e28a852119ff9",
+      "Latitude": 35.09708
+    },
+    {
+      "id": 63,
+      "serial_number": "2008DFA003553",
+      "dev_eui": "687c105e23a83231",
+      "Latitude": 35.08924
+    },
+    {
+      "id": 360,
+      "serial_number": "2008DFA006655",
+      "dev_eui": "6873a4eb4bfcad66",
+      "Latitude": 35.081392
+    },
+    {
+      "id": 345,
+      "serial_number": "2008DFA006671",
+      "dev_eui": "a67b4c7e87258fe4",
+      "Latitude": 35.0835
+    },
+    {
+      "id": 136,
+      "serial_number": "2008DFA003740",
+      "dev_eui": "63d98c3c3a52df9d",
+      "Latitude": 35.07004
+    },
+    {
+      "id": 19,
+      "serial_number": "2008DFA003432",
+      "dev_eui": "687f0c2e84786719",
+      "Latitude": 35.0851
+    },
+    {
+      "id": 185,
+      "serial_number": "2008DFA006567",
+      "dev_eui": "dd2b5c7e14f53e77",
+      "Latitude": 35.09646
+    },
+    {
+      "id": 75,
+      "serial_number": "2008DFA003541",
+      "dev_eui": "63de682ac13f0568",
+      "Latitude": 35.0862
+    },
+    {
+      "id": 515,
+      "serial_number": "2008DFA006952",
+      "dev_eui": "3e9f60427444aabf",
+      "Latitude": 35.080828
+    },
+    {
+      "id": 486,
+      "serial_number": "2008DFA006681",
+      "dev_eui": "3e75b09942a871d5",
+      "Latitude": 35.09846
+    },
+    {
+      "id": 668,
+      "serial_number": "2008DFA001414",
+      "dev_eui": "63da7cf215b1165c",
+      "Latitude": 35.089228
+    },
+    {
+      "id": 16,
+      "serial_number": "2008DFA003441",
+      "dev_eui": "63dfbc56743fb2d9",
+      "Latitude": 35.07384
+    },
+    {
+      "id": 457,
+      "serial_number": "2008DFA006583",
+      "dev_eui": "dd359410368fd6f7",
+      "Latitude": 35.095632
+    },
+    {
+      "id": 442,
+      "serial_number": "2008DFA006688",
+      "dev_eui": "dbdef8a6ff0d4088",
+      "Latitude": 35.09752
+    },
+    {
+      "id": 597,
+      "serial_number": "2008DFA006966",
+      "dev_eui": "a677680f8c8b5a27",
+      "Latitude": 35.084032
+    },
+    {
+      "id": 364,
+      "serial_number": "2008DFA003544",
+      "dev_eui": "7b87e0afa75534d2",
+      "Latitude": 35.08738
+    },
+    {
+      "id": 672,
+      "serial_number": "2008DFA001420",
+      "dev_eui": "63dedce4105b079d",
+      "Latitude": 35.0885
+    },
+    {
+      "id": 102,
+      "serial_number": "2008DFA003478",
+      "dev_eui": "687d78b3726477ae",
+      "Latitude": 35.09102
+    },
+    {
+      "id": 373,
+      "serial_number": "2008DFA003537",
+      "dev_eui": "687b04e12ae86950",
+      "Latitude": 35.09028
+    },
+    {
+      "id": 481,
+      "serial_number": "2008DFA006672",
+      "dev_eui": "a63ae07ed9cf664f",
+      "Latitude": 35.095328
+    },
+    {
+      "id": 228,
+      "serial_number": "2008DFA006595",
+      "dev_eui": "a6768ca156d28758",
+      "Latitude": 35.083888
+    },
+    {
+      "id": 544,
+      "serial_number": "2010DFA005995",
+      "dev_eui": "6ad24c23dc9a85c1",
+      "Latitude": 35.07372
+    },
+    {
+      "id": 494,
+      "serial_number": "2008DFA006971",
+      "dev_eui": "a6731ca528851128",
+      "Latitude": 35.08194
+    },
+    {
+      "id": 27,
+      "serial_number": "2008DFA003418",
+      "dev_eui": "63dd8cd8f75df592",
+      "Latitude": 35.078912
+    },
+    {
+      "id": 568,
+      "serial_number": "2010DFA006049",
+      "dev_eui": "6ad074a8e9b75cf4",
+      "Latitude": 35.073588
+    },
+    {
+      "id": 569,
+      "serial_number": "2010DFA006047",
+      "dev_eui": "6ad1c0331a8d99d1",
+      "Latitude": 35.073552
+    },
+    {
+      "id": 614,
+      "serial_number": "2010DFA006050",
+      "dev_eui": "6ad06415f8d71c8c",
+      "Latitude": 35.07332
+    },
+    {
+      "id": 609,
+      "serial_number": "2010DFA006054",
+      "dev_eui": "6ad054c74c5b99d7",
+      "Latitude": 35.07248
+    },
+    {
+      "id": 600,
+      "serial_number": "2008DFA006963",
+      "dev_eui": "dc2280f50a71952c",
+      "Latitude": 35.08182
+    },
+    {
+      "id": 307,
+      "serial_number": "2008DFA006809",
+      "dev_eui": "daeff00a6399c3b9",
+      "Latitude": 35.0806
+    },
+    {
+      "id": 368,
+      "serial_number": "2008DFA006662",
+      "dev_eui": "a63b781956eb2456",
+      "Latitude": 35.081808
+    },
+    {
+      "id": 667,
+      "serial_number": "2008DFA001412",
+      "dev_eui": "7b7500219f3b4523",
+      "Latitude": 35.088292
+    },
+    {
+      "id": 572,
+      "serial_number": "2010DFA006045",
+      "dev_eui": "6a67d8e0dede2f36",
+      "Latitude": 35.074248
+    },
+    {
+      "id": 45,
+      "serial_number": "2008DFA003463",
+      "dev_eui": "63e03038655a2446",
+      "Latitude": 35.07878
+    },
+    {
+      "id": 7,
+      "serial_number": "2008DFA003461",
+      "dev_eui": "63e02472268bb9ef",
+      "Latitude": 35.077788
+    },
+    {
+      "id": 444,
+      "serial_number": "2008DFA006697",
+      "dev_eui": "a63b40391cdbe55b",
+      "Latitude": 35.0964
+    },
+    {
+      "id": 265,
+      "serial_number": "2008DFA004032",
+      "dev_eui": "6deeb088a1697b15",
+      "Latitude": 35.084332
+    },
+    {
+      "id": 316,
+      "serial_number": "2008DFA004016",
+      "dev_eui": "687f30df0116f421",
+      "Latitude": 35.08406
+    },
+    {
+      "id": 426,
+      "serial_number": "2008DFA003699",
+      "dev_eui": "c8a8e4c86309d9fa",
+      "Latitude": 35.077208
+    },
+    {
+      "id": 447,
+      "serial_number": "2008DFA006700",
+      "dev_eui": "3e75acf18a88d304",
+      "Latitude": 35.095952
+    },
+    {
+      "id": 477,
+      "serial_number": "2008DFA006718",
+      "dev_eui": "a78e48fa98b245b7",
+      "Latitude": 35.0958
+    },
+    {
+      "id": 183,
+      "serial_number": "2008DFA006612",
+      "dev_eui": "6873a024ebdcd4be",
+      "Latitude": 35.095792
+    },
+    {
+      "id": 184,
+      "serial_number": "2008DFA006703",
+      "dev_eui": "3dd320d0d43e8f43",
+      "Latitude": 35.09584
+    },
+    {
+      "id": 452,
+      "serial_number": "2008DFA006665",
+      "dev_eui": "5b16d428e0ff014f",
+      "Latitude": 35.096408
+    },
+    {
+      "id": 198,
+      "serial_number": "2008DFA003905",
+      "dev_eui": "63dd3ceba9b4654f",
+      "Latitude": 35.08458
+    },
+    {
+      "id": 149,
+      "serial_number": "2008DFA003704",
+      "dev_eui": "6def3c88017577ca",
+      "Latitude": 35.082372
+    },
+    {
+      "id": 408,
+      "serial_number": "2008DFA003711",
+      "dev_eui": "c7944422fb8fa036",
+      "Latitude": 35.08206
+    },
+    {
+      "id": 460,
+      "serial_number": "2008DFA003903",
+      "dev_eui": "6537fcf5de22e8bf",
+      "Latitude": 35.08448
+    },
+    {
+      "id": 74,
+      "serial_number": "2008DFA003852",
+      "dev_eui": "7b8c88a36dd5554f",
+      "Latitude": 35.085152
+    },
+    {
+      "id": 528,
+      "serial_number": "2008DFA006943",
+      "dev_eui": "3eb024f726ce7dbe",
+      "Latitude": 35.094988
+    },
+    {
+      "id": 192,
+      "serial_number": "2008DFA003923",
+      "dev_eui": "6def8444185a6c82",
+      "Latitude": 35.095068
+    },
+    {
+      "id": 253,
+      "serial_number": "2008DFA003953",
+      "dev_eui": "a639445463df0e55",
+      "Latitude": 35.094608
+    },
+    {
+      "id": 303,
+      "serial_number": "2008DFA004005",
+      "dev_eui": "a77dbc4fc6484873",
+      "Latitude": 35.095188
+    },
+    {
+      "id": 311,
+      "serial_number": "2008DFA004009",
+      "dev_eui": "db8a18acfe18f772",
+      "Latitude": 35.0949
+    },
+    {
+      "id": 227,
+      "serial_number": "2008DFA004004",
+      "dev_eui": "7b8a5c59395ebea2",
+      "Latitude": 35.095372
+    },
+    {
+      "id": 266,
+      "serial_number": "2008DFA006922",
+      "dev_eui": "a675f0b145e81931",
+      "Latitude": 35.09478
+    },
+    {
+      "id": 308,
+      "serial_number": "2008DFA004007",
+      "dev_eui": "a77d4cd5c61df6c3",
+      "Latitude": 35.09476
+    },
+    {
+      "id": 588,
+      "serial_number": "2008DFA006278",
+      "dev_eui": "3e43a4243623b810",
+      "Latitude": 35.08448
+    },
+    {
+      "id": 164,
+      "serial_number": "2008DFA006708",
+      "dev_eui": "3e0ca4f2e4d43bc2",
+      "Latitude": 35.09706
+    },
+    {
+      "id": 169,
+      "serial_number": "2008DFA006694",
+      "dev_eui": "db56cc258d6e78ea",
+      "Latitude": 35.097788
+    },
+    {
+      "id": 175,
+      "serial_number": "2008DFA006691",
+      "dev_eui": "dcce34d15bb3a490",
+      "Latitude": 35.09628
+    },
+    {
+      "id": 176,
+      "serial_number": "2008DFA006706",
+      "dev_eui": "dcb71813aec851ea",
+      "Latitude": 35.09674
+    },
+    {
+      "id": 208,
+      "serial_number": "2008DFA006743",
+      "dev_eui": "a67a9461ab886bd2",
+      "Latitude": 35.09662
+    },
+    {
+      "id": 333,
+      "serial_number": "2008DFA006730",
+      "dev_eui": "dc33002238316fff",
+      "Latitude": 35.095808
+    },
+    {
+      "id": 449,
+      "serial_number": "2008DFA006693",
+      "dev_eui": "3f342863d79a42a7",
+      "Latitude": 35.096588
+    },
+    {
+      "id": 466,
+      "serial_number": "2008DFA006280",
+      "dev_eui": "686ef464bc3205b5",
+      "Latitude": 35.09718
+    },
+    {
+      "id": 490,
+      "serial_number": "2008DFA006695",
+      "dev_eui": "686ee82a4ee8c456",
+      "Latitude": 35.09732
+    },
+    {
+      "id": 168,
+      "serial_number": "2008DFA006685",
+      "dev_eui": "a6489027056bf385",
+      "Latitude": 35.098048
+    },
+    {
+      "id": 173,
+      "serial_number": "2008DFA006699",
+      "dev_eui": "6491ec7fd271fa52",
+      "Latitude": 35.097388
+    },
+    {
+      "id": 246,
+      "serial_number": "2008DFA006794",
+      "dev_eui": "a7921c8eed55b0b9",
+      "Latitude": 35.095588
+    },
+    {
+      "id": 274,
+      "serial_number": "2008DFA006744",
+      "dev_eui": "db89acfd6cd33335",
+      "Latitude": 35.09762
+    },
+    {
+      "id": 338,
+      "serial_number": "2008DFA006717",
+      "dev_eui": "a78ca8a72226337e",
+      "Latitude": 35.09612
+    },
+    {
+      "id": 341,
+      "serial_number": "2008DFA006709",
+      "dev_eui": "db53bc59d6ca5740",
+      "Latitude": 35.096512
+    },
+    {
+      "id": 455,
+      "serial_number": "2008DFA006658",
+      "dev_eui": "a63238a4b3fdb29d",
+      "Latitude": 35.09796
+    },
+    {
+      "id": 482,
+      "serial_number": "2008DFA006710",
+      "dev_eui": "a792a49375ad52a2",
+      "Latitude": 35.098512
+    },
+    {
+      "id": 216,
+      "serial_number": "2008DFA006731",
+      "dev_eui": "3f148852a7329106",
+      "Latitude": 35.0951
+    },
+    {
+      "id": 51,
+      "serial_number": "2008DFA003467",
+      "dev_eui": "63df14eb0417ee5a",
+      "Latitude": 35.085172
+    },
+    {
+      "id": 119,
+      "serial_number": "2008DFA003877",
+      "dev_eui": "653050fb8a3a195b",
+      "Latitude": 35.08432
+    },
+    {
+      "id": 120,
+      "serial_number": "2008DFA003874",
+      "dev_eui": "687fbc49a72faf13",
+      "Latitude": 35.084432
+    },
+    {
+      "id": 129,
+      "serial_number": "2008DFA003855",
+      "dev_eui": "687f6c02102f357f",
+      "Latitude": 35.08438
+    },
+    {
+      "id": 134,
+      "serial_number": "2008DFA003825",
+      "dev_eui": "6880301c4ecdcc43",
+      "Latitude": 35.08426
+    },
+    {
+      "id": 155,
+      "serial_number": "2008DFA003887",
+      "dev_eui": "5b1f343f8957e7e7",
+      "Latitude": 35.084592
+    },
+    {
+      "id": 160,
+      "serial_number": "2008DFA003881",
+      "dev_eui": "7b4e1c79ce2ffeea",
+      "Latitude": 35.085028
+    },
+    {
+      "id": 174,
+      "serial_number": "2008DFA003799",
+      "dev_eui": "6537f8a74e9fd72f",
+      "Latitude": 35.08454
+    },
+    {
+      "id": 179,
+      "serial_number": "2008DFA003932",
+      "dev_eui": "687d04943e359f65",
+      "Latitude": 35.08482
+    },
+    {
+      "id": 186,
+      "serial_number": "2008DFA003901",
+      "dev_eui": "63e13cbb36d42db2",
+      "Latitude": 35.08464
+    },
+    {
+      "id": 188,
+      "serial_number": "2008DFA003896",
+      "dev_eui": "c6cee4f4895bb3ec",
+      "Latitude": 35.08472
+    },
+    {
+      "id": 199,
+      "serial_number": "2008DFA003907",
+      "dev_eui": "688040d3eab1139c",
+      "Latitude": 35.0845
+    },
+    {
+      "id": 242,
+      "serial_number": "2008DFA003913",
+      "dev_eui": "63dd108f1d7a9f50",
+      "Latitude": 35.0848
+    },
+    {
+      "id": 248,
+      "serial_number": "2008DFA003933",
+      "dev_eui": "63dc68759991d0cb",
+      "Latitude": 35.084628
+    },
+    {
+      "id": 256,
+      "serial_number": "2008DFA003929",
+      "dev_eui": "63e0d0d56e4b6cdf",
+      "Latitude": 35.08464
+    },
+    {
+      "id": 259,
+      "serial_number": "2008DFA003926",
+      "dev_eui": "63d9bca35dc67ca5",
+      "Latitude": 35.084968
+    },
+    {
+      "id": 261,
+      "serial_number": "2008DFA006625",
+      "dev_eui": "3e6dc827b8d266c7",
+      "Latitude": 35.085188
+    },
+    {
+      "id": 273,
+      "serial_number": "2008DFA003916",
+      "dev_eui": "63db0c565c88bbe5",
+      "Latitude": 35.08452
+    },
+    {
+      "id": 293,
+      "serial_number": "2008DFA003939",
+      "dev_eui": "687fc89ca8452e98",
+      "Latitude": 35.084672
+    },
+    {
+      "id": 295,
+      "serial_number": "2008DFA003937",
+      "dev_eui": "687f24937d15e85c",
+      "Latitude": 35.084648
+    },
+    {
+      "id": 306,
+      "serial_number": "2008DFA004023",
+      "dev_eui": "a64220ebf8f1b161",
+      "Latitude": 35.084172
+    },
+    {
+      "id": 309,
+      "serial_number": "2008DFA004020",
+      "dev_eui": "7b87c86c68d9d363",
+      "Latitude": 35.08466
+    },
+    {
+      "id": 418,
+      "serial_number": "2008DFA003850",
+      "dev_eui": "63da500e4f57e988",
+      "Latitude": 35.084228
+    },
+    {
+      "id": 422,
+      "serial_number": "2008DFA003851",
+      "dev_eui": "63d9d0ac72c4117e",
+      "Latitude": 35.0852
+    },
+    {
+      "id": 424,
+      "serial_number": "2008DFA003849",
+      "dev_eui": "63dfa4960509883a",
+      "Latitude": 35.08428
+    },
+    {
+      "id": 458,
+      "serial_number": "2008DFA003893",
+      "dev_eui": "83bad4e960bb9c4d",
+      "Latitude": 35.08466
+    },
+    {
+      "id": 463,
+      "serial_number": "2008DFA003906",
+      "dev_eui": "6538382aca343e67",
+      "Latitude": 35.08426
+    },
+    {
+      "id": 471,
+      "serial_number": "2008DFA003886",
+      "dev_eui": "687e283cfaa0c632",
+      "Latitude": 35.084692
+    },
+    {
+      "id": 478,
+      "serial_number": "2008DFA003870",
+      "dev_eui": "687dbccc219f29a3",
+      "Latitude": 35.084708
+    },
+    {
+      "id": 616,
+      "serial_number": "2008DFA006947",
+      "dev_eui": "dce2e430019450bc",
+      "Latitude": 35.084272
+    },
+    {
+      "id": 12,
+      "serial_number": "2008DFA003457",
+      "dev_eui": "63ded0363d56171c",
+      "Latitude": 35.08496
+    },
+    {
+      "id": 46,
+      "serial_number": "2008DFA003469",
+      "dev_eui": "63de4ce22ba74fd3",
+      "Latitude": 35.08512
+    },
+    {
+      "id": 141,
+      "serial_number": "2008DFA003795",
+      "dev_eui": "687ecc3daee441e0",
+      "Latitude": 35.084948
+    },
+    {
+      "id": 162,
+      "serial_number": "2008DFA003875",
+      "dev_eui": "687ae45ad4df4159",
+      "Latitude": 35.084752
+    },
+    {
+      "id": 165,
+      "serial_number": "2008DFA003867",
+      "dev_eui": "7b4da8f5b9e9693a",
+      "Latitude": 35.08444
+    },
+    {
+      "id": 167,
+      "serial_number": "2008DFA003865",
+      "dev_eui": "4b2f84e59aeb0fbf",
+      "Latitude": 35.08442
+    },
+    {
+      "id": 170,
+      "serial_number": "2008DFA003856",
+      "dev_eui": "63da647d8b34f58a",
+      "Latitude": 35.08474
+    },
+    {
+      "id": 177,
+      "serial_number": "2008DFA003934",
+      "dev_eui": "7b87cc5dd4121a5e",
+      "Latitude": 35.084572
+    },
+    {
+      "id": 187,
+      "serial_number": "2008DFA003927",
+      "dev_eui": "dc83d4148187c649",
+      "Latitude": 35.085048
+    },
+    {
+      "id": 189,
+      "serial_number": "2008DFA003925",
+      "dev_eui": "7b887c40bde3859b",
+      "Latitude": 35.085028
+    },
+    {
+      "id": 243,
+      "serial_number": "2008DFA006923",
+      "dev_eui": "a67600ff30e1bbcf",
+      "Latitude": 35.084492
+    },
+    {
+      "id": 277,
+      "serial_number": "2008DFA004024",
+      "dev_eui": "a647683a385dff6c",
+      "Latitude": 35.084868
+    },
+    {
+      "id": 296,
+      "serial_number": "2008DFA006603",
+      "dev_eui": "a67728b005ee5d0a",
+      "Latitude": 35.08524
+    },
+    {
+      "id": 300,
+      "serial_number": "2008DFA004003",
+      "dev_eui": "a62d68edb0583e15",
+      "Latitude": 35.0842
+    },
+    {
+      "id": 304,
+      "serial_number": "2008DFA004025",
+      "dev_eui": "a647705ea4faf8f3",
+      "Latitude": 35.08458
+    },
+    {
+      "id": 318,
+      "serial_number": "2008DFA003990",
+      "dev_eui": "64289053d01e7e72",
+      "Latitude": 35.08438
+    },
+    {
+      "id": 330,
+      "serial_number": "2008DFA003952",
+      "dev_eui": "7b8850b11e086163",
+      "Latitude": 35.084112
+    },
+    {
+      "id": 427,
+      "serial_number": "2008DFA003880",
+      "dev_eui": "687fe8e0904183d2",
+      "Latitude": 35.085188
+    },
+    {
+      "id": 435,
+      "serial_number": "2008DFA003876",
+      "dev_eui": "7b8a6444f7f0eee5",
+      "Latitude": 35.084468
+    },
+    {
+      "id": 445,
+      "serial_number": "2008DFA006938",
+      "dev_eui": "a6724081a5af8b86",
+      "Latitude": 35.084868
+    },
+    {
+      "id": 467,
+      "serial_number": "2008DFA003909",
+      "dev_eui": "687d98606574583c",
+      "Latitude": 35.084492
+    },
+    {
+      "id": 485,
+      "serial_number": "2008DFA006931",
+      "dev_eui": "a6773c7e75cb1024",
+      "Latitude": 35.08444
+    },
+    {
+      "id": 714,
+      "serial_number": "2007DFA003051",
+      "dev_eui": "68ad9831b27e06a9",
+      "Latitude": 35.094972
+    },
+    {
+      "id": 719,
+      "serial_number": "2007DFA003059",
+      "dev_eui": "6dff8ceff1bd93b6",
+      "Latitude": 35.0959
+    },
+    {
+      "id": 716,
+      "serial_number": "2007DFA002856",
+      "dev_eui": "6dfb2ccd110bbac6",
+      "Latitude": 35.095392
+    },
+    {
+      "id": 722,
+      "serial_number": "2007DFA003060",
+      "dev_eui": "654b34142c758d8e",
+      "Latitude": 35.09632
+    },
+    {
+      "id": 692,
+      "serial_number": "2007DFA003022",
+      "dev_eui": "63ea3c0b29ba16a3",
+      "Latitude": 35.096932
+    },
+    {
+      "id": 697,
+      "serial_number": "2007DFA002989",
+      "dev_eui": "646c4c1f2f59bcc7",
+      "Latitude": 35.09658
+    },
+    {
+      "id": 699,
+      "serial_number": "2007DFA002999",
+      "dev_eui": "7b949842a39f7e79",
+      "Latitude": 35.09698
+    },
+    {
+      "id": 689,
+      "serial_number": "2007DFA003034",
+      "dev_eui": "654ba0f3ee68df69",
+      "Latitude": 35.09702
+    },
+    {
+      "id": 691,
+      "serial_number": "2007DFA003024",
+      "dev_eui": "654980b7c785f8a5",
+      "Latitude": 35.104208
+    },
+    {
+      "id": 695,
+      "serial_number": "2007DFA003011",
+      "dev_eui": "6ded707c4c2ca60e",
+      "Latitude": 35.09676
+    },
+    {
+      "id": 702,
+      "serial_number": "2007DFA003021",
+      "dev_eui": "7b950c900443f5a1",
+      "Latitude": 35.096772
+    },
+    {
+      "id": 705,
+      "serial_number": "2007DFA003031",
+      "dev_eui": "a656f854113f463e",
+      "Latitude": 35.103712
+    },
+    {
+      "id": 706,
+      "serial_number": "2007DFA003032",
+      "dev_eui": "68732c7c56dfe9c7",
+      "Latitude": 35.103532
+    },
+    {
+      "id": 720,
+      "serial_number": "2008DFA004632",
+      "dev_eui": "63e23cdf6b617b4c",
+      "Latitude": 35.10302
+    },
+    {
+      "id": 763,
+      "serial_number": null,
+      "dev_eui": "a73d046aadee80d7",
+      "Latitude": 35.105208
+    },
+    {
+      "id": 202,
+      "serial_number": "2008DFA006785",
+      "dev_eui": "a790d46fb2af92c2",
+      "Latitude": 35.069452
+    },
+    {
+      "id": 206,
+      "serial_number": "2008DFA006788",
+      "dev_eui": "db66849337dd752b",
+      "Latitude": 35.070672
+    },
+    {
+      "id": 264,
+      "serial_number": "2008DFA006918",
+      "dev_eui": "a67958d01c301edd",
+      "Latitude": 35.0699
+    },
+    {
+      "id": 270,
+      "serial_number": "2008DFA004028",
+      "dev_eui": "dd0e90528ebc986d",
+      "Latitude": 35.06864
+    },
+    {
+      "id": 298,
+      "serial_number": "2008DFA006594",
+      "dev_eui": "6de1140e75d43584",
+      "Latitude": 35.068988
+    },
+    {
+      "id": 454,
+      "serial_number": "2008DFA006942",
+      "dev_eui": "a645e403bd3408f9",
+      "Latitude": 35.0686
+    },
+    {
+      "id": 211,
+      "serial_number": "2008DFA006735",
+      "dev_eui": "3edfdc2a60c0e8b0",
+      "Latitude": 35.069328
+    },
+    {
+      "id": 262,
+      "serial_number": "2008DFA004036",
+      "dev_eui": "a63718d31e85f2e0",
+      "Latitude": 35.06826
+    },
+    {
+      "id": 272,
+      "serial_number": "2008DFA004026",
+      "dev_eui": "a6373c8bb8cf4d5b",
+      "Latitude": 35.069708
+    },
+    {
+      "id": 325,
+      "serial_number": "2008DFA006790",
+      "dev_eui": "a79170c60a711028",
+      "Latitude": 35.07136
+    },
+    {
+      "id": 329,
+      "serial_number": "2008DFA006786",
+      "dev_eui": "dd31c48d3e078ed9",
+      "Latitude": 35.071048
+    },
+    {
+      "id": 480,
+      "serial_number": "2008DFA006924",
+      "dev_eui": "3ef95c320bae3919",
+      "Latitude": 35.068148
+    },
+    {
+      "id": 488,
+      "serial_number": "2008DFA006935",
+      "dev_eui": "db786c22177ab452",
+      "Latitude": 35.069032
+    },
+    {
+      "id": 111,
+      "serial_number": "2008DFA003698",
+      "dev_eui": "63e144b1f90d2b86",
+      "Latitude": 35.07768
+    },
+    {
+      "id": 114,
+      "serial_number": "2008DFA003695",
+      "dev_eui": "6893148d2fd10f07",
+      "Latitude": 35.07678
+    },
+    {
+      "id": 121,
+      "serial_number": "2008DFA003401",
+      "dev_eui": "dc6da08fc7fdc9ab",
+      "Latitude": 35.076352
+    },
+    {
+      "id": 147,
+      "serial_number": "2008DFA003717",
+      "dev_eui": "6884e484d2443c57",
+      "Latitude": 35.07846
+    },
+    {
+      "id": 218,
+      "serial_number": "2008DFA006582",
+      "dev_eui": "3f5228c1a5dffd98",
+      "Latitude": 35.07912
+    },
+    {
+      "id": 223,
+      "serial_number": "2008DFA006601",
+      "dev_eui": "6de42cefb8b6f5e1",
+      "Latitude": 35.075032
+    },
+    {
+      "id": 225,
+      "serial_number": "2008DFA006605",
+      "dev_eui": "dc84c49906658c41",
+      "Latitude": 35.078288
+    },
+    {
+      "id": 233,
+      "serial_number": "2008DFA006614",
+      "dev_eui": "7b9800e885fc58de",
+      "Latitude": 35.07666
+    },
+    {
+      "id": 234,
+      "serial_number": "2008DFA006618",
+      "dev_eui": "db0a88f97f7a0af4",
+      "Latitude": 35.077068
+    },
+    {
+      "id": 239,
+      "serial_number": "2008DFA006627",
+      "dev_eui": "7b54243c44006a49",
+      "Latitude": 35.07656
+    },
+    {
+      "id": 395,
+      "serial_number": "2008DFA003821",
+      "dev_eui": "688054f56505fd68",
+      "Latitude": 35.0854
+    },
+    {
+      "id": 401,
+      "serial_number": "2008DFA003705",
+      "dev_eui": "7b8cac7a9333053c",
+      "Latitude": 35.073152
+    },
+    {
+      "id": 407,
+      "serial_number": "2008DFA003789",
+      "dev_eui": "636b0c6d9a10f11b",
+      "Latitude": 35.08534
+    },
+    {
+      "id": 416,
+      "serial_number": "2008DFA003716",
+      "dev_eui": "63dd1cd4e3df3526",
+      "Latitude": 35.0813
+    },
+    {
+      "id": 421,
+      "serial_number": "2008DFA003701",
+      "dev_eui": "a67828188e994739",
+      "Latitude": 35.07396
+    },
+    {
+      "id": 431,
+      "serial_number": "2008DFA003694",
+      "dev_eui": "63e15870221df868",
+      "Latitude": 35.07562
+    },
+    {
+      "id": 436,
+      "serial_number": "2008DFA003644",
+      "dev_eui": "63e0ec0e57dfdf3b",
+      "Latitude": 35.07364
+    },
+    {
+      "id": 440,
+      "serial_number": "2008DFA003753",
+      "dev_eui": "63da48823b12aecd",
+      "Latitude": 35.072752
+    },
+    {
+      "id": 448,
+      "serial_number": "2008DFA006939",
+      "dev_eui": "a67278414e2ac9a4",
+      "Latitude": 35.07868
+    },
+    {
+      "id": 474,
+      "serial_number": "2008DFA003723",
+      "dev_eui": "6885045c0e7dca16",
+      "Latitude": 35.08094
+    },
+    {
+      "id": 483,
+      "serial_number": "2008DFA006926",
+      "dev_eui": "a64330512a442821",
+      "Latitude": 35.07926
+    },
+    {
+      "id": 751,
+      "serial_number": "2102DFA007432",
+      "dev_eui": "7eb8c0e65cdef900",
+      "Latitude": 35.069568
+    },
+    {
+      "id": 116,
+      "serial_number": "2008DFA003685",
+      "dev_eui": "6892c8b95cf7b205",
+      "Latitude": 35.074312
+    },
+    {
+      "id": 122,
+      "serial_number": "2008DFA003871",
+      "dev_eui": "687d1447e9083da9",
+      "Latitude": 35.085012
+    },
+    {
+      "id": 135,
+      "serial_number": "2008DFA003707",
+      "dev_eui": "a78ba8aedb65a657",
+      "Latitude": 35.08012
+    },
+    {
+      "id": 145,
+      "serial_number": "2008DFA003714",
+      "dev_eui": "c88f104574e009b8",
+      "Latitude": 35.07808
+    },
+    {
+      "id": 150,
+      "serial_number": "2008DFA003726",
+      "dev_eui": "a674c43602f253d9",
+      "Latitude": 35.079768
+    },
+    {
+      "id": 152,
+      "serial_number": "2008DFA003700",
+      "dev_eui": "7b884c501bc09e2d",
+      "Latitude": 35.07232
+    },
+    {
+      "id": 153,
+      "serial_number": "2008DFA003724",
+      "dev_eui": "dd09d0b2fec45cc7",
+      "Latitude": 35.080528
+    },
+    {
+      "id": 215,
+      "serial_number": "2008DFA006565",
+      "dev_eui": "dc1a248528cf4062",
+      "Latitude": 35.076272
+    },
+    {
+      "id": 220,
+      "serial_number": "2008DFA006591",
+      "dev_eui": "a62f8880b383fbf5",
+      "Latitude": 35.076192
+    },
+    {
+      "id": 252,
+      "serial_number": "2008DFA006611",
+      "dev_eui": "dbdbc4468401e3a1",
+      "Latitude": 35.075772
+    },
+    {
+      "id": 254,
+      "serial_number": "2008DFA006615",
+      "dev_eui": "6de33cb308e3ba14",
+      "Latitude": 35.07784
+    },
+    {
+      "id": 257,
+      "serial_number": "2008DFA006623",
+      "dev_eui": "6de6ccfe439f2f57",
+      "Latitude": 35.075328
+    },
+    {
+      "id": 283,
+      "serial_number": "2008DFA006564",
+      "dev_eui": "db3030f57e6a6c80",
+      "Latitude": 35.074212
+    },
+    {
+      "id": 286,
+      "serial_number": "2008DFA006577",
+      "dev_eui": "dd3568875c9f211f",
+      "Latitude": 35.074568
+    },
+    {
+      "id": 288,
+      "serial_number": "2008DFA006588",
+      "dev_eui": "7b91388224080877",
+      "Latitude": 35.079552
+    },
+    {
+      "id": 339,
+      "serial_number": "2008DFA006762",
+      "dev_eui": "dc86242b040f5244",
+      "Latitude": 35.081728
+    },
+    {
+      "id": 396,
+      "serial_number": "2008DFA003748",
+      "dev_eui": "63d9389f1579f52c",
+      "Latitude": 35.07472
+    },
+    {
+      "id": 414,
+      "serial_number": "2008DFA003730",
+      "dev_eui": "a61f5c1822948939",
+      "Latitude": 35.07514
+    },
+    {
+      "id": 425,
+      "serial_number": "2008DFA003883",
+      "dev_eui": "a6392cce61b487e4",
+      "Latitude": 35.086332
+    },
+    {
+      "id": 428,
+      "serial_number": "2008DFA003696",
+      "dev_eui": "68928c61f3a5673b",
+      "Latitude": 35.080108
+    },
+    {
+      "id": 745,
+      "serial_number": "2102DFA007556",
+      "dev_eui": "7ba2d8034cf8d03e",
+      "Latitude": 35.077448
+    },
+    {
+      "id": 754,
+      "serial_number": "2102DFA007627",
+      "dev_eui": "b4e0ac6b3d65dad0",
+      "Latitude": 35.07882
+    },
+    {
+      "id": 4,
+      "serial_number": "2008DFA003413",
+      "dev_eui": "63dd80652af9b5fe",
+      "Latitude": 35.0713
+    },
+    {
+      "id": 18,
+      "serial_number": "2008DFA003435",
+      "dev_eui": "a77d443d51b3d236",
+      "Latitude": 35.0705
+    },
+    {
+      "id": 21,
+      "serial_number": "2008DFA003430",
+      "dev_eui": "63deb0454a80c3b0",
+      "Latitude": 35.070912
+    },
+    {
+      "id": 53,
+      "serial_number": "2008DFA003466",
+      "dev_eui": "63e070c37deec2a5",
+      "Latitude": 35.06998
+    },
+    {
+      "id": 54,
+      "serial_number": "2008DFA003464",
+      "dev_eui": "63e060a4d65784e3",
+      "Latitude": 35.070788
+    },
+    {
+      "id": 6,
+      "serial_number": "2008DFA003407",
+      "dev_eui": "63e048ec858e44fa",
+      "Latitude": 35.07168
+    },
+    {
+      "id": 654,
+      "serial_number": "2008DFA001338",
+      "dev_eui": "dc12d01f53d16950",
+      "Latitude": 35.089212
+    },
+    {
+      "id": 72,
+      "serial_number": "2008DFA003543",
+      "dev_eui": "63a75c2308cfc04a",
+      "Latitude": 35.090592
+    },
+    {
+      "id": 97,
+      "serial_number": "2008DFA003502",
+      "dev_eui": "687e504df6af4f91",
+      "Latitude": 35.085732
+    },
+    {
+      "id": 190,
+      "serial_number": "2008DFA006521",
+      "dev_eui": "dc9b60fc23c3b387",
+      "Latitude": 35.09694
+    },
+    {
+      "id": 391,
+      "serial_number": "2008DFA006675",
+      "dev_eui": "dc01206f77edcaff",
+      "Latitude": 35.083788
+    },
+    {
+      "id": 117,
+      "serial_number": "2008DFA003879",
+      "dev_eui": "652fdc782e4e3050",
+      "Latitude": 35.08486
+    },
+    {
+      "id": 432,
+      "serial_number": "2008DFA003854",
+      "dev_eui": "63da1899bf9ac78d",
+      "Latitude": 35.084832
+    },
+    {
+      "id": 387,
+      "serial_number": "2008DFA006573",
+      "dev_eui": "a670a8b5a8c67b6a",
+      "Latitude": 35.088052
+    },
+    {
+      "id": 314,
+      "serial_number": "2008DFA004018",
+      "dev_eui": "dc48b03d2efba14c",
+      "Latitude": 35.084252
+    },
+    {
+      "id": 388,
+      "serial_number": "2008DFA006678",
+      "dev_eui": "19ed6c46a755a62a",
+      "Latitude": 35.0827
+    },
+    {
+      "id": 349,
+      "serial_number": "2008DFA006666",
+      "dev_eui": "a67bdccad8c901c7",
+      "Latitude": 35.08312
+    },
+    {
+      "id": 144,
+      "serial_number": "2008DFA003793",
+      "dev_eui": "7b8a284fd8251184",
+      "Latitude": 35.09098
+    },
+    {
+      "id": 89,
+      "serial_number": "2008DFA006683",
+      "dev_eui": "1a0c406be2f6f2f0",
+      "Latitude": 35.08184
+    },
+    {
+      "id": 694,
+      "serial_number": "2007DFA003017",
+      "dev_eui": "68ae2ce684af0062",
+      "Latitude": 35.10118
+    },
+    {
+      "id": 1,
+      "serial_number": "2008DFA003416",
+      "dev_eui": "63e18c8797dba410",
+      "Latitude": 35.075112
+    },
+    {
+      "id": 180,
+      "serial_number": "2008DFA006659",
+      "dev_eui": "3e66281216750144",
+      "Latitude": 35.0954
+    },
+    {
+      "id": 322,
+      "serial_number": "2008DFA006793",
+      "dev_eui": "a793a00d96a8ee04",
+      "Latitude": 35.0962
+    },
+    {
+      "id": 489,
+      "serial_number": "2008DFA006686",
+      "dev_eui": "a67a44af1363c278",
+      "Latitude": 35.0958
+    },
+    {
+      "id": 562,
+      "serial_number": "2010DFA006053",
+      "dev_eui": "6a657c36a1ab9f16",
+      "Latitude": 35.07496
+    },
+    {
+      "id": 599,
+      "serial_number": "2010DFA006062",
+      "dev_eui": "6a6514881b929513",
+      "Latitude": 35.077032
+    },
+    {
+      "id": 5,
+      "serial_number": "2008DFA006940",
+      "dev_eui": "db7e24994330d573",
+      "Latitude": 35.06956
+    },
+    {
+      "id": 405,
+      "serial_number": "2008DFA003710",
+      "dev_eui": "63de40663327cffd",
+      "Latitude": 35.080608
+    },
+    {
+      "id": 526,
+      "serial_number": "2008DFA003986",
+      "dev_eui": "a639508a1a127d68",
+      "Latitude": 35.09006
+    },
+    {
+      "id": 28,
+      "serial_number": "2008DFA007052",
+      "dev_eui": "db97a8226395d24f",
+      "Latitude": 35.07032
+    },
+    {
+      "id": 579,
+      "serial_number": "2010DFA006014",
+      "dev_eui": "696ef4dd54ea2c49",
+      "Latitude": 35.07646
+    },
+    {
+      "id": 417,
+      "serial_number": "2008DFA003718",
+      "dev_eui": "63e1bc1c874e9896",
+      "Latitude": 35.07602
+    },
+    {
+      "id": 615,
+      "serial_number": "2008DFA006949",
+      "dev_eui": "a630bc3053feef2f",
+      "Latitude": 35.0906
+    },
+    {
+      "id": 24,
+      "serial_number": "2008DFA003427",
+      "dev_eui": "6890c0aa1c0b17c7",
+      "Latitude": 35.0747
+    },
+    {
+      "id": 201,
+      "serial_number": "2008DFA006746",
+      "dev_eui": "a632540de3d014b7",
+      "Latitude": 35.073792
+    },
+    {
+      "id": 577,
+      "serial_number": "2010DFA006043",
+      "dev_eui": "6ad174fc07f2aec8",
+      "Latitude": 35.07226
+    },
+    {
+      "id": 622,
+      "serial_number": "2010DFA006042",
+      "dev_eui": "6ad2e89f861d17e0",
+      "Latitude": 35.072868
+    },
+    {
+      "id": 567,
+      "serial_number": "2010DFA006036",
+      "dev_eui": "6a65cc40c9b1cdc0",
+      "Latitude": 35.07332
+    },
+    {
+      "id": 17,
+      "serial_number": "2008DFA003439",
+      "dev_eui": "63df80f7874773b9",
+      "Latitude": 35.10098
+    },
+    {
+      "id": 757,
+      "serial_number": "2010DFA013437",
+      "dev_eui": "b69f888ed6199b7c",
+      "Latitude": 35.10364
+    },
+    {
+      "id": 759,
+      "serial_number": "2012DFA009620",
+      "dev_eui": "a70608b3429e0b3a",
+      "Latitude": 35.07556
+    },
+    {
+      "id": 738,
+      "serial_number": "2102DFA007604",
+      "dev_eui": "7edf7001a0487078",
+      "Latitude": 35.070272
+    },
+    {
+      "id": 419,
+      "serial_number": "2008DFA003727",
+      "dev_eui": "c8769cff732f3b6b",
+      "Latitude": 35.07272
+    },
+    {
+      "id": 736,
+      "serial_number": "2102DFA007614",
+      "dev_eui": "d30d504c4f6d1ed8",
+      "Latitude": 35.074812
+    },
+    {
+      "id": 390,
+      "serial_number": "2008DFA006585",
+      "dev_eui": "dd2f907f2cbb2368",
+      "Latitude": 35.08128
+    },
+    {
+      "id": 545,
+      "serial_number": "2010DFA006007",
+      "dev_eui": "6b0df47834ed8927",
+      "Latitude": 35.07926
+    },
+    {
+      "id": 26,
+      "serial_number": "2008DFA003428",
+      "dev_eui": "63dff42c78ccb368",
+      "Latitude": 35.075792
+    },
+    {
+      "id": 549,
+      "serial_number": "2010DFA006016",
+      "dev_eui": "6a693ce7ffdd577c",
+      "Latitude": 35.073608
+    },
+    {
+      "id": 619,
+      "serial_number": "2010DFA006046",
+      "dev_eui": "6a7c94f78d6ad470",
+      "Latitude": 35.07492
+    },
+    {
+      "id": 621,
+      "serial_number": "2008DFA003946",
+      "dev_eui": "63e080a8e05bb97a",
+      "Latitude": 35.08622
+    },
+    {
+      "id": 423,
+      "serial_number": "2008DFA003888",
+      "dev_eui": "3f35c4a4469c37d6",
+      "Latitude": 35.086428
+    },
+    {
+      "id": 48,
+      "serial_number": "2008DFA003486",
+      "dev_eui": "63d8fc22d545be63",
+      "Latitude": 35.100928
+    },
+    {
+      "id": 643,
+      "serial_number": "2006DFA004501",
+      "dev_eui": "682900d75bab843e",
+      "Latitude": 35.086528
+    },
+    {
+      "id": 755,
+      "serial_number": "2010DFA013431",
+      "dev_eui": "b58b1c7d3bddb65d",
+      "Latitude": 35.103852
+    },
+    {
+      "id": 511,
+      "serial_number": "2008DFA006955",
+      "dev_eui": "a6458c845ae090c1",
+      "Latitude": 35.08104
+    },
+    {
+      "id": 660,
+      "serial_number": "2008DFA001379",
+      "dev_eui": "63da4ca448406b46",
+      "Latitude": 35.089088
+    },
+    {
+      "id": 112,
+      "serial_number": "2008DFA003882",
+      "dev_eui": "64dd146288856f65",
+      "Latitude": 35.087928
+    },
+    {
+      "id": 115,
+      "serial_number": "2008DFA003889",
+      "dev_eui": "7b4d6419705ba844",
+      "Latitude": 35.0881
+    },
+    {
+      "id": 493,
+      "serial_number": "2008DFA003959",
+      "dev_eui": "a62d08a155e8fee0",
+      "Latitude": 35.088312
+    },
+    {
+      "id": 739,
+      "serial_number": "2102DFA007598",
+      "dev_eui": "7ba6cc61dd44c8c8",
+      "Latitude": 35.12606
+    },
+    {
+      "id": 713,
+      "serial_number": "2007DFA003040",
+      "dev_eui": "6dfce83a1445ee64",
+      "Latitude": null
+    },
+    {
+      "id": 207,
+      "serial_number": "2008DFA003919",
+      "dev_eui": "63dd30046c7f0106",
+      "Latitude": 35.085012
+    },
+    {
+      "id": 607,
+      "serial_number": "2008DFA006954",
+      "dev_eui": "db2ea47b664abe0f",
+      "Latitude": 35.08234
+    },
+    {
+      "id": 344,
+      "serial_number": "2008DFA006749",
+      "dev_eui": "a671281398b51ed9",
+      "Latitude": 35.08902
+    },
+    {
+      "id": 613,
+      "serial_number": "2008DFA003994",
+      "dev_eui": "63ddd826e86a13a9",
+      "Latitude": 35.08998
+    },
+    {
+      "id": 548,
+      "serial_number": "2008DFA003991",
+      "dev_eui": "4b2f70c9ba2e457a",
+      "Latitude": 35.08902
+    },
+    {
+      "id": 397,
+      "serial_number": "2008DFA003796",
+      "dev_eui": "687d54f1dd5e1320",
+      "Latitude": 35.085252
+    },
+    {
+      "id": 464,
+      "serial_number": "2008DFA006847",
+      "dev_eui": "3e3c2c7772385519",
+      "Latitude": 35.087848
+    },
+    {
+      "id": 532,
+      "serial_number": "2008DFA003949",
+      "dev_eui": "a638b4e1174c77ab",
+      "Latitude": 35.088632
+    },
+    {
+      "id": 501,
+      "serial_number": "2008DFA003964",
+      "dev_eui": "dcfbbcea05334f7e",
+      "Latitude": 35.08792
+    },
+    {
+      "id": 623,
+      "serial_number": "2008DFA003948",
+      "dev_eui": "63e1ac4254973ee9",
+      "Latitude": 35.087688
+    },
+    {
+      "id": 281,
+      "serial_number": "2008DFA004022",
+      "dev_eui": "7b4d2841f71d7825",
+      "Latitude": 35.08774
+    },
+    {
+      "id": 670,
+      "serial_number": "2008DFA001417",
+      "dev_eui": "63da1c31e76e9e2e",
+      "Latitude": 35.08822
+    },
+    {
+      "id": 592,
+      "serial_number": "2008DFA003960",
+      "dev_eui": "6df03c94c770e070",
+      "Latitude": 35.088248
+    },
+    {
+      "id": 213,
+      "serial_number": "2008DFA006733",
+      "dev_eui": "3e8848c56df63697",
+      "Latitude": 35.076648
+    },
+    {
+      "id": 8,
+      "serial_number": "2008DFA003405",
+      "dev_eui": "a630386524bda50e",
+      "Latitude": 35.07858
+    },
+    {
+      "id": 521,
+      "serial_number": "2008DFA003993",
+      "dev_eui": "6defe0c52ed539c4",
+      "Latitude": 35.0904
+    },
+    {
+      "id": 538,
+      "serial_number": "2008DFA003974",
+      "dev_eui": "a77cf0326c6db4d6",
+      "Latitude": 35.08944
+    },
+    {
+      "id": 584,
+      "serial_number": "2008DFA003988",
+      "dev_eui": "6def9c2562e482a9",
+      "Latitude": 35.088848
+    },
+    {
+      "id": 552,
+      "serial_number": "2010DFA005985",
+      "dev_eui": "6b683431b4bb5233",
+      "Latitude": 35.07728
+    },
+    {
+      "id": 327,
+      "serial_number": "2008DFA003956",
+      "dev_eui": "7b8bd0e654ed632b",
+      "Latitude": 35.095052
+    },
+    {
+      "id": 472,
+      "serial_number": "2008DFA003725",
+      "dev_eui": "63d9e8d0c0e76dba",
+      "Latitude": 35.079868
+    },
+    {
+      "id": 703,
+      "serial_number": "2007DFA003023",
+      "dev_eui": "654bc0f20d2bf6c3",
+      "Latitude": 35.075
+    },
+    {
+      "id": 310,
+      "serial_number": "2008DFA006805",
+      "dev_eui": "a78e785f0d09861e",
+      "Latitude": 35.08034
+    },
+    {
+      "id": 77,
+      "serial_number": "2008DFA003538",
+      "dev_eui": "63d95872a034658b",
+      "Latitude": 35.085848
+    },
+    {
+      "id": 299,
+      "serial_number": "2008DFA004001",
+      "dev_eui": "dad434b6280ba0ad",
+      "Latitude": 35.085592
+    },
+    {
+      "id": 590,
+      "serial_number": "2008DFA006977",
+      "dev_eui": "a67ad4697cef569a",
+      "Latitude": 35.080872
+    },
+    {
+      "id": 302,
+      "serial_number": "2008DFA006509",
+      "dev_eui": "6de2944a8b68a938",
+      "Latitude": 35.08096
+    },
+    {
+      "id": 383,
+      "serial_number": "2008DFA003528",
+      "dev_eui": "7b8a2c5263b388f2",
+      "Latitude": 35.0853
+    },
+    {
+      "id": 29,
+      "serial_number": "2008DFA003374",
+      "dev_eui": "a77d100721992e8b",
+      "Latitude": 35.075432
+    },
+    {
+      "id": 84,
+      "serial_number": "2008DFA003534",
+      "dev_eui": "63e150b5fedbe9f2",
+      "Latitude": 35.08588
+    },
+    {
+      "id": 507,
+      "serial_number": "2008DFA006957",
+      "dev_eui": "a645ac2a4cc673b1",
+      "Latitude": 35.07596
+    },
+    {
+      "id": 510,
+      "serial_number": "2010DFA006031",
+      "dev_eui": "6a647892476787db",
+      "Latitude": 35.0757
+    },
+    {
+      "id": 47,
+      "serial_number": "2008DFA003487",
+      "dev_eui": "687cb08e27ab5def",
+      "Latitude": 35.079972
+    },
+    {
+      "id": 547,
+      "serial_number": "2010DFA005983",
+      "dev_eui": "6b75c4160191df72",
+      "Latitude": 35.070752
+    },
+    {
+      "id": 620,
+      "serial_number": "2010DFA006044",
+      "dev_eui": "6ad1e468b1c68587",
+      "Latitude": 35.074568
+    },
+    {
+      "id": 15,
+      "serial_number": "2008DFA003451",
+      "dev_eui": "652fd8a3c23fa0ac",
+      "Latitude": 35.073448
+    },
+    {
+      "id": 658,
+      "serial_number": "2008DFA001377",
+      "dev_eui": "c89db851f986ac47",
+      "Latitude": 35.088668
+    },
+    {
+      "id": 194,
+      "serial_number": "2008DFA003911",
+      "dev_eui": "687e38806f95b9ab",
+      "Latitude": 35.084948
+    },
+    {
+      "id": 335,
+      "serial_number": "2008DFA004040",
+      "dev_eui": "689114e3d5744372",
+      "Latitude": 35.0886
+    },
+    {
+      "id": 671,
+      "serial_number": "2008DFA001419",
+      "dev_eui": "63dc9cb274494652",
+      "Latitude": 35.089352
+    },
+    {
+      "id": 354,
+      "serial_number": "2008DFA006646",
+      "dev_eui": "a67ac49c8e30fe4c",
+      "Latitude": 35.073732
+    },
+    {
+      "id": 280,
+      "serial_number": "2008DFA006734",
+      "dev_eui": "a791409840a67449",
+      "Latitude": 35.07414
+    },
+    {
+      "id": 674,
+      "serial_number": "2008DFA001422",
+      "dev_eui": "688dccbf8ab9070a",
+      "Latitude": 35.087688
+    },
+    {
+      "id": 356,
+      "serial_number": "2008DFA003556",
+      "dev_eui": "687c7c7df30159cc",
+      "Latitude": 35.0879
+    },
+    {
+      "id": 475,
+      "serial_number": "2008DFA006722",
+      "dev_eui": "dc29c45b27b2c932",
+      "Latitude": 35.09822
+    },
+    {
+      "id": 255,
+      "serial_number": "2008DFA004041",
+      "dev_eui": "63df30e933d4c977",
+      "Latitude": 35.088908
+    },
+    {
+      "id": 244,
+      "serial_number": "2008DFA006798",
+      "dev_eui": "a79254e96333ffd8",
+      "Latitude": 35.08486
+    },
+    {
+      "id": 536,
+      "serial_number": "2008DFA003976",
+      "dev_eui": "db78acd4c0983b62",
+      "Latitude": 35.090648
+    },
+    {
+      "id": 400,
+      "serial_number": "2008DFA003794",
+      "dev_eui": "687ee803b5336531",
+      "Latitude": 35.085
+    },
+    {
+      "id": 439,
+      "serial_number": "2008DFA003869",
+      "dev_eui": "687fd0524c00491e",
+      "Latitude": 35.08616
+    },
+    {
+      "id": 402,
+      "serial_number": "2008DFA003791",
+      "dev_eui": "6880185779c6a158",
+      "Latitude": 35.085768
+    },
+    {
+      "id": 394,
+      "serial_number": "2008DFA003750",
+      "dev_eui": "63dce0ee4e542938",
+      "Latitude": 35.07206
+    },
+    {
+      "id": 461,
+      "serial_number": "2008DFA006913",
+      "dev_eui": "a78fb8ff38b3ec51",
+      "Latitude": 35.0811
+    },
+    {
+      "id": 557,
+      "serial_number": "2010DFA006061",
+      "dev_eui": "6a648c996ed7a0cd",
+      "Latitude": 35.074372
+    },
+    {
+      "id": 687,
+      "serial_number": "2007DFA002982",
+      "dev_eui": "654f3c0a96c2be63",
+      "Latitude": null
+    },
+    {
+      "id": 554,
+      "serial_number": "2010DFA006070",
+      "dev_eui": "6ad09830d745dede",
+      "Latitude": 35.074
+    },
+    {
+      "id": 451,
+      "serial_number": "2008DFA006941",
+      "dev_eui": "a67280c0ec88325e",
+      "Latitude": 35.08112
+    },
+    {
+      "id": 534,
+      "serial_number": "2008DFA006739",
+      "dev_eui": "3ed008f7966e37c6",
+      "Latitude": 35.0819
+    },
+    {
+      "id": 618,
+      "serial_number": "2008DFA006944",
+      "dev_eui": "a67928ba9142a000",
+      "Latitude": 35.07766
+    },
+    {
+      "id": 331,
+      "serial_number": "2008DFA006732",
+      "dev_eui": "3eb864fe15d9f398",
+      "Latitude": 35.07998
+    },
+    {
+      "id": 250,
+      "serial_number": "2008DFA003958",
+      "dev_eui": "63e17c758bf3f292",
+      "Latitude": 35.08542
+    },
+    {
+      "id": 603,
+      "serial_number": "2008DFA003938",
+      "dev_eui": "68906cad95ff04b1",
+      "Latitude": 35.087712
+    },
+    {
+      "id": 495,
+      "serial_number": "2008DFA003962",
+      "dev_eui": "63dd5032eb9dc615",
+      "Latitude": 35.087632
+    },
+    {
+      "id": 393,
+      "serial_number": "2008DFA003866",
+      "dev_eui": "7b4d68864d0efffd",
+      "Latitude": 35.08592
+    },
+    {
+      "id": 163,
+      "serial_number": "2008DFA006673",
+      "dev_eui": "3e0178f1c8497836",
+      "Latitude": 35.0985
+    },
+    {
+      "id": 381,
+      "serial_number": "2008DFA006684",
+      "dev_eui": "dc3d9864bf34d7aa",
+      "Latitude": 35.082132
+    },
+    {
+      "id": 83,
+      "serial_number": "2008DFA003519",
+      "dev_eui": "63e1104ec29a27a7",
+      "Latitude": 35.090788
+    },
+    {
+      "id": 430,
+      "serial_number": "2008DFA003878",
+      "dev_eui": "687dd4ce3d5b52a7",
+      "Latitude": 35.08436
+    },
+    {
+      "id": 429,
+      "serial_number": "2008DFA003845",
+      "dev_eui": "68807c9e56d4497e",
+      "Latitude": 35.08514
+    },
+    {
+      "id": 438,
+      "serial_number": "2008DFA003873",
+      "dev_eui": "68801009849fcfce",
+      "Latitude": 35.084932
+    },
+    {
+      "id": 437,
+      "serial_number": "2008DFA003860",
+      "dev_eui": "7b8824d5081cc789",
+      "Latitude": 35.08516
+    },
+    {
+      "id": 263,
+      "serial_number": "2008DFA003910",
+      "dev_eui": "63de14e0402dfb96",
+      "Latitude": 35.08478
+    },
+    {
+      "id": 523,
+      "serial_number": "2008DFA006945",
+      "dev_eui": "a6793c1805344a97",
+      "Latitude": 35.084788
+    },
+    {
+      "id": 68,
+      "serial_number": "2008DFA006553",
+      "dev_eui": "a676dc29ca161a31",
+      "Latitude": 35.081712
+    },
+    {
+      "id": 502,
+      "serial_number": "2008DFA006965",
+      "dev_eui": "dc28581b5e2978a4",
+      "Latitude": 35.084128
+    },
+    {
+      "id": 522,
+      "serial_number": "2008DFA006774",
+      "dev_eui": "1a430cc45700e0cf",
+      "Latitude": 35.084048
+    },
+    {
+      "id": 525,
+      "serial_number": "2008DFA006766",
+      "dev_eui": "a6383023957f1366",
+      "Latitude": 35.08416
+    },
+    {
+      "id": 574,
+      "serial_number": "2010DFA006021",
+      "dev_eui": "6b6858f23477e88a",
+      "Latitude": 35.073428
+    },
+    {
+      "id": 404,
+      "serial_number": "2008DFA003741",
+      "dev_eui": "63dd04df7c26de99",
+      "Latitude": 35.07484
+    },
+    {
+      "id": 669,
+      "serial_number": "2008DFA001415",
+      "dev_eui": "7b8bbc9ca69e0c4a",
+      "Latitude": 35.08924
+    },
+    {
+      "id": 420,
+      "serial_number": "2008DFA003891",
+      "dev_eui": "5b1dc0d14ad77bfb",
+      "Latitude": 35.08662
+    },
+    {
+      "id": 625,
+      "serial_number": "2008DFA003950",
+      "dev_eui": "a638d49b93a0a7cc",
+      "Latitude": 35.085788
+    },
+    {
+      "id": 540,
+      "serial_number": "2008DFA003955",
+      "dev_eui": "63de70fd21b4d2cf",
+      "Latitude": 35.08646
+    },
+    {
+      "id": 446,
+      "serial_number": "2008DFA006702",
+      "dev_eui": "a636d857f378f02f",
+      "Latitude": 35.097772
+    }
+  ]
+}

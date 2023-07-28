@@ -1,0 +1,3407 @@
+[
+  {
+    "AccountNumber": "001003701 1336689",
+    "Name": "Unmatched Account",
+    "DistrictNum": 2,
+    "Group": "Unmatched Accounts"
+  },
+  {
+    "AccountNumber": "009036603 0181013",
+    "Name": "International District Library",
+    "DistrictNum": 6,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Library"
+    ]
+  },
+  {
+    "AccountNumber": "009036603 0181013",
+    "Name": "Unmatched Account",
+    "DistrictNum": 2,
+    "Group": "Unmatched Accounts"
+  },
+  {
+    "AccountNumber": "012886803 0356585",
+    "Name": "Senior Affairs Home Services Office",
+    "DistrictNum": 2,
+    "Group": "Senior Affairs"
+  },
+  {
+    "AccountNumber": "013492202 0220328",
+    "Name": "Rtmc",
+    "DistrictNum": 6,
+    "Group": "DMD"
+  },
+  {
+    "AccountNumber": "013492203 0577421",
+    "Name": "Wyoming Yard",
+    "DistrictNum": 6,
+    "Group": "DMD",
+    "Membership": [
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "013492205 0157565",
+    "Name": "Unmatched Account",
+    "DistrictNum": 2,
+    "Group": "Unmatched Accounts"
+  },
+  {
+    "AccountNumber": "013492205 0157565",
+    "Name": "Femd",
+    "DistrictNum": 4,
+    "Group": "DMD"
+  },
+  {
+    "AccountNumber": "016330002 0245959",
+    "Name": "Abq International Sunport",
+    "DistrictNum": 6,
+    "Group": "Aviation",
+    "Membership": [
+      "Ev Charging Station",
+      "Solar Site"
+    ]
+  },
+  {
+    "AccountNumber": "016370503 0274866",
+    "Name": "Apd Special Investigations",
+    "DistrictNum": 6,
+    "Group": "APD"
+  },
+  {
+    "AccountNumber": "016370503 0274866",
+    "Name": "Unmatched Account",
+    "DistrictNum": 2,
+    "Group": "Unmatched Accounts"
+  },
+  {
+    "AccountNumber": "016370504 0246345",
+    "Name": "Apd New Systems",
+    "DistrictNum": 4,
+    "Group": "APD"
+  },
+  {
+    "AccountNumber": "016370515 0274866",
+    "Name": "Apd Special Investigations",
+    "DistrictNum": 6,
+    "Group": "APD"
+  },
+  {
+    "AccountNumber": "016370515 0274866",
+    "Name": "Unmatched Account",
+    "DistrictNum": 2,
+    "Group": "Unmatched Accounts"
+  },
+  {
+    "AccountNumber": "016370516 1200842",
+    "Name": "South Broadway Community Substation",
+    "DistrictNum": 2,
+    "Group": "APD"
+  },
+  {
+    "AccountNumber": "016370518 1241077",
+    "Name": "Child Development Administration Offices",
+    "DistrictNum": 2,
+    "Group": "Family & Community Services"
+  },
+  {
+    "AccountNumber": "016370519 1200717",
+    "Name": "Old Town Community Substation",
+    "DistrictNum": 2,
+    "Group": "APD"
+  },
+  {
+    "AccountNumber": "016370521 0616560",
+    "Name": "Abq International Sunport",
+    "DistrictNum": 6,
+    "Group": "Aviation",
+    "Membership": [
+      "Ev Charging Station",
+      "Solar Site"
+    ]
+  },
+  {
+    "AccountNumber": "016370523 0616867",
+    "Name": "Abq International Sunport",
+    "DistrictNum": 6,
+    "Group": "Aviation",
+    "Membership": [
+      "Ev Charging Station",
+      "Solar Site"
+    ]
+  },
+  {
+    "AccountNumber": "016370526 0616792",
+    "Name": "Abq International Sunport",
+    "DistrictNum": 6,
+    "Group": "Aviation",
+    "Membership": [
+      "Ev Charging Station",
+      "Solar Site"
+    ]
+  },
+  {
+    "AccountNumber": "016370527 0673901",
+    "Name": "Abq International Sunport",
+    "DistrictNum": 6,
+    "Group": "Aviation",
+    "Membership": [
+      "Ev Charging Station",
+      "Solar Site"
+    ]
+  },
+  {
+    "AccountNumber": "016370528 0245959",
+    "Name": "Abq International Sunport",
+    "DistrictNum": 6,
+    "Group": "Aviation",
+    "Membership": [
+      "Ev Charging Station",
+      "Solar Site"
+    ]
+  },
+  {
+    "AccountNumber": "016370531 0616557",
+    "Name": "Abq International Sunport",
+    "DistrictNum": 6,
+    "Group": "Aviation",
+    "Membership": [
+      "Ev Charging Station",
+      "Solar Site"
+    ]
+  },
+  {
+    "AccountNumber": "016370533 1201911",
+    "Name": "Balloon Fiesta Park",
+    "DistrictNum": 4,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Solar Site",
+      "Ev Charging Station",
+      "Cultural Center"
+    ]
+  },
+  {
+    "AccountNumber": "016370541 0310682",
+    "Name": "Barelas Child Center",
+    "DistrictNum": 2,
+    "Group": "Family & Community Services"
+  },
+  {
+    "AccountNumber": "016370546 0697229",
+    "Name": "Zoo",
+    "DistrictNum": 2,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Battery Site",
+      "Solar Site",
+      "BioPark",
+      "Ev Charging Station",
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "016370548 1335612",
+    "Name": "Aquarium And Botanical Garden",
+    "DistrictNum": 2,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Battery Site",
+      "Ev Charging Station",
+      "Solar Site",
+      "Esco",
+      "BioPark"
+    ]
+  },
+  {
+    "AccountNumber": "016370564 1380719",
+    "Name": "Zoo",
+    "DistrictNum": 2,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Battery Site",
+      "Solar Site",
+      "BioPark",
+      "Ev Charging Station",
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "016370571 0260060",
+    "Name": "East Central Health And Social Service Center",
+    "DistrictNum": 6,
+    "Group": "Family & Community Services",
+    "Membership": [
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "016370573 0158733",
+    "Name": "Environmental Health",
+    "DistrictNum": 6,
+    "Group": "Air Quality & Environmental Health"
+  },
+  {
+    "AccountNumber": "016370574 0665610",
+    "Name": "Montessa Park",
+    "DistrictNum": 6,
+    "Group": "Air Quality & Environmental Health"
+  },
+  {
+    "AccountNumber": "016370578 0562942",
+    "Name": "Ernie Pyle Library",
+    "DistrictNum": 6,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Library"
+    ]
+  },
+  {
+    "AccountNumber": "016370579 0653436",
+    "Name": "Esperanza Bicycle Safety Education Center",
+    "DistrictNum": 2,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Esco",
+      "Library"
+    ]
+  },
+  {
+    "AccountNumber": "016370580 1335614",
+    "Name": "Warehouse 508",
+    "DistrictNum": 2,
+    "Group": "Family & Community Services"
+  },
+  {
+    "AccountNumber": "016370582 0299714",
+    "Name": "Nm Business Resource Center",
+    "DistrictNum": 9,
+    "Group": "Downtown Office Buildings"
+  },
+  {
+    "AccountNumber": "016370613 0622675",
+    "Name": "Police Training",
+    "DistrictNum": 2,
+    "Group": "APD",
+    "Membership": [
+      "Solar Site",
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "016370623 1335608",
+    "Name": "Abq International Sunport",
+    "DistrictNum": 6,
+    "Group": "Aviation",
+    "Membership": [
+      "Ev Charging Station",
+      "Solar Site"
+    ]
+  },
+  {
+    "AccountNumber": "016370638 0583956",
+    "Name": "Lomas - Tramway Library",
+    "DistrictNum": 9,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Ev Charging Station",
+      "Library"
+    ]
+  },
+  {
+    "AccountNumber": "016370654 1218811",
+    "Name": "Aquarium And Botanical Garden",
+    "DistrictNum": 2,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Battery Site",
+      "Ev Charging Station",
+      "Solar Site",
+      "Esco",
+      "BioPark"
+    ]
+  },
+  {
+    "AccountNumber": "016370654 1218811",
+    "Name": "Unmatched Account",
+    "DistrictNum": 2,
+    "Group": "Unmatched Accounts"
+  },
+  {
+    "AccountNumber": "016370656 0668130",
+    "Name": "Environmental Health",
+    "DistrictNum": 6,
+    "Group": "Air Quality & Environmental Health"
+  },
+  {
+    "AccountNumber": "016370657 0678522",
+    "Name": "Unmatched Account",
+    "DistrictNum": 2,
+    "Group": "Unmatched Accounts"
+  },
+  {
+    "AccountNumber": "016370657 0678522",
+    "Name": "Hawthorne Elementary",
+    "DistrictNum": 6,
+    "Group": "Family & Community Services"
+  },
+  {
+    "AccountNumber": "016370660 0677164",
+    "Name": "Eagle Rock Convenience Center",
+    "DistrictNum": 4,
+    "Group": "Solid Waste"
+  },
+  {
+    "AccountNumber": "016370662 0609945",
+    "Name": "Snow Park Community Center",
+    "DistrictNum": 7,
+    "Group": "Family & Community Services"
+  },
+  {
+    "AccountNumber": "016370664 0577425",
+    "Name": "Unmatched Account",
+    "DistrictNum": 2,
+    "Group": "Unmatched Accounts"
+  },
+  {
+    "AccountNumber": "016370664 0577425",
+    "Name": "City Abq Bag Distribution Center",
+    "DistrictNum": 6,
+    "Group": "Solid Waste"
+  },
+  {
+    "AccountNumber": "016370667 0694817",
+    "Name": "Zoo",
+    "DistrictNum": 2,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Battery Site",
+      "Solar Site",
+      "BioPark",
+      "Ev Charging Station",
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "016370667 0694817",
+    "Name": "Unmatched Account",
+    "DistrictNum": 2,
+    "Group": "Unmatched Accounts"
+  },
+  {
+    "AccountNumber": "016370675 0677298",
+    "Name": "North Valley Library",
+    "DistrictNum": 3,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Library"
+    ]
+  },
+  {
+    "AccountNumber": "016370684 0626700",
+    "Name": "Valley Yard Satellite",
+    "DistrictNum": 2,
+    "Group": "Parks & Recreation",
+    "Membership": [
+      "Park"
+    ]
+  },
+  {
+    "AccountNumber": "016370690 1327517",
+    "Name": "Police Training",
+    "DistrictNum": 2,
+    "Group": "APD",
+    "Membership": [
+      "Solar Site",
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "016370699 0568154",
+    "Name": "San Pedro Library",
+    "DistrictNum": 6,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Library"
+    ]
+  },
+  {
+    "AccountNumber": "016370709 0624659",
+    "Name": "Special Collections Library",
+    "DistrictNum": 2,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Esco",
+      "Library"
+    ]
+  },
+  {
+    "AccountNumber": "016370714 1335610",
+    "Name": "Tingley Beach",
+    "DistrictNum": 2,
+    "Group": "Cultural Services",
+    "Membership": [
+      "BioPark"
+    ]
+  },
+  {
+    "AccountNumber": "016370719 0560133",
+    "Name": "Yale Transit Administration",
+    "DistrictNum": 6,
+    "Group": "Transit"
+  },
+  {
+    "AccountNumber": "016370719 0560133",
+    "Name": "Transit Ne Corner",
+    "DistrictNum": 6,
+    "Group": "Transit"
+  },
+  {
+    "AccountNumber": "016370728 0626447",
+    "Name": "Wells Park Community Center",
+    "DistrictNum": 2,
+    "Group": "Family & Community Services"
+  },
+  {
+    "AccountNumber": "016370733 0682781",
+    "Name": "Whittier Community Center",
+    "DistrictNum": 6,
+    "Group": "Family & Community Services"
+  },
+  {
+    "AccountNumber": "016370734 0611259",
+    "Name": "Tony Hillerman Library",
+    "DistrictNum": 7,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Esco",
+      "Library"
+    ]
+  },
+  {
+    "AccountNumber": "016370737 0675189",
+    "Name": "Zoo",
+    "DistrictNum": 2,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Battery Site",
+      "Solar Site",
+      "BioPark",
+      "Ev Charging Station",
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "016370739 1260422",
+    "Name": "Zoo",
+    "DistrictNum": 2,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Battery Site",
+      "Solar Site",
+      "BioPark",
+      "Ev Charging Station",
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "016370740 1378976",
+    "Name": "Zoo",
+    "DistrictNum": 2,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Battery Site",
+      "Solar Site",
+      "BioPark",
+      "Ev Charging Station",
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "016370741 0662896",
+    "Name": "Zoo",
+    "DistrictNum": 2,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Battery Site",
+      "Solar Site",
+      "BioPark",
+      "Ev Charging Station",
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "016370751 0664035",
+    "Name": "Zoo",
+    "DistrictNum": 2,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Battery Site",
+      "Solar Site",
+      "BioPark",
+      "Ev Charging Station",
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "016370756 1225006",
+    "Name": "Zoo",
+    "DistrictNum": 2,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Battery Site",
+      "Solar Site",
+      "BioPark",
+      "Ev Charging Station",
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "016370757 0663085",
+    "Name": "Zoo",
+    "DistrictNum": 2,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Battery Site",
+      "Solar Site",
+      "BioPark",
+      "Ev Charging Station",
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "016370764 0668980",
+    "Name": "Zoo",
+    "DistrictNum": 2,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Battery Site",
+      "Solar Site",
+      "BioPark",
+      "Ev Charging Station",
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "016370766 0684247",
+    "Name": "Zoo",
+    "DistrictNum": 2,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Battery Site",
+      "Solar Site",
+      "BioPark",
+      "Ev Charging Station",
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "016370771 0691612",
+    "Name": "Zoo",
+    "DistrictNum": 2,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Battery Site",
+      "Solar Site",
+      "BioPark",
+      "Ev Charging Station",
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "016370773 0672230",
+    "Name": "Zoo",
+    "DistrictNum": 2,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Battery Site",
+      "Solar Site",
+      "BioPark",
+      "Ev Charging Station",
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "016370776 1225384",
+    "Name": "Zoo",
+    "DistrictNum": 2,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Battery Site",
+      "Solar Site",
+      "BioPark",
+      "Ev Charging Station",
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "016370777 1382933",
+    "Name": "Zoo",
+    "DistrictNum": 2,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Battery Site",
+      "Solar Site",
+      "BioPark",
+      "Ev Charging Station",
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "016370778 1392378",
+    "Name": "Zoo",
+    "DistrictNum": 2,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Battery Site",
+      "Solar Site",
+      "BioPark",
+      "Ev Charging Station",
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "016370779 1264559",
+    "Name": "Double Eagle Ii Airport",
+    "DistrictNum": 1,
+    "Group": "Aviation"
+  },
+  {
+    "AccountNumber": "016370780 1344027",
+    "Name": "Abq International Sunport",
+    "DistrictNum": 6,
+    "Group": "Aviation",
+    "Membership": [
+      "Ev Charging Station",
+      "Solar Site"
+    ]
+  },
+  {
+    "AccountNumber": "016370781 1373109",
+    "Name": "Abq International Sunport",
+    "DistrictNum": 6,
+    "Group": "Aviation",
+    "Membership": [
+      "Ev Charging Station",
+      "Solar Site"
+    ]
+  },
+  {
+    "AccountNumber": "016370782 1373110",
+    "Name": "Abq International Sunport",
+    "DistrictNum": 6,
+    "Group": "Aviation",
+    "Membership": [
+      "Ev Charging Station",
+      "Solar Site"
+    ]
+  },
+  {
+    "AccountNumber": "016370783 1392692",
+    "Name": "Double Eagle Ii Airport",
+    "DistrictNum": 1,
+    "Group": "Aviation"
+  },
+  {
+    "AccountNumber": "018883306 1342192",
+    "Name": "Unmatched Account",
+    "DistrictNum": 2,
+    "Group": "Unmatched Accounts"
+  },
+  {
+    "AccountNumber": "018992905 1184105",
+    "Name": "Eclipse Aerospace",
+    "DistrictNum": 6,
+    "Group": "Aviation"
+  },
+  {
+    "AccountNumber": "018992906 1262859",
+    "Name": "Eclipse Aerospace",
+    "DistrictNum": 6,
+    "Group": "Aviation"
+  },
+  {
+    "AccountNumber": "018992907 0270595",
+    "Name": "Eclipse Aerospace",
+    "DistrictNum": 6,
+    "Group": "Aviation"
+  },
+  {
+    "AccountNumber": "019421002 0274458",
+    "Name": "Abq International Sunport",
+    "DistrictNum": 6,
+    "Group": "Aviation",
+    "Membership": [
+      "Ev Charging Station",
+      "Solar Site"
+    ]
+  },
+  {
+    "AccountNumber": "019471203 0274847",
+    "Name": "Abq International Sunport",
+    "DistrictNum": 6,
+    "Group": "Aviation",
+    "Membership": [
+      "Ev Charging Station",
+      "Solar Site"
+    ]
+  },
+  {
+    "AccountNumber": "023725101 0310682",
+    "Name": "Barelas Child Center",
+    "DistrictNum": 2,
+    "Group": "Family & Community Services"
+  },
+  {
+    "AccountNumber": "023813802 0632624",
+    "Name": "Solid Waste Administration",
+    "DistrictNum": 2,
+    "Group": "Solid Waste"
+  },
+  {
+    "AccountNumber": "023813803 0311318",
+    "Name": "Carlos Rey Child Development Center",
+    "DistrictNum": 3,
+    "Group": "Family & Community Services"
+  },
+  {
+    "AccountNumber": "023813804 1404088",
+    "Name": "Singing Arrow Community Center",
+    "DistrictNum": 9,
+    "Group": "Family & Community Services"
+  },
+  {
+    "AccountNumber": "023813804 1404088",
+    "Name": "Unmatched Account",
+    "DistrictNum": 2,
+    "Group": "Unmatched Accounts"
+  },
+  {
+    "AccountNumber": "024418502 0315741",
+    "Name": "Unmatched Account",
+    "DistrictNum": 2,
+    "Group": "Unmatched Accounts"
+  },
+  {
+    "AccountNumber": "029916201 1381023",
+    "Name": "Regional Sports Complex",
+    "DistrictNum": 1,
+    "Group": "Sports"
+  },
+  {
+    "AccountNumber": "031832303 1169666",
+    "Name": "Abq International Sunport",
+    "DistrictNum": 6,
+    "Group": "Aviation",
+    "Membership": [
+      "Ev Charging Station",
+      "Solar Site"
+    ]
+  },
+  {
+    "AccountNumber": "031832705 0616557",
+    "Name": "Abq International Sunport",
+    "DistrictNum": 6,
+    "Group": "Aviation",
+    "Membership": [
+      "Ev Charging Station",
+      "Solar Site"
+    ]
+  },
+  {
+    "AccountNumber": "032075005 1165526",
+    "Name": "Foothills Area Command",
+    "DistrictNum": 9,
+    "Group": "APD",
+    "Membership": [
+      "Solar Site"
+    ]
+  },
+  {
+    "AccountNumber": "032332501 1159149",
+    "Name": "Mckinley Community Center",
+    "DistrictNum": 2,
+    "Group": "Family & Community Services"
+  },
+  {
+    "AccountNumber": "053600014 0560130",
+    "Name": "Yale Transit Administration",
+    "DistrictNum": 6,
+    "Group": "Transit"
+  },
+  {
+    "AccountNumber": "053600014 0560130",
+    "Name": "Transit Back Bus Garage",
+    "DistrictNum": 6,
+    "Group": "Transit"
+  },
+  {
+    "AccountNumber": "053600114 0560132",
+    "Name": "Transit",
+    "DistrictNum": 2,
+    "Group": "Transit"
+  },
+  {
+    "AccountNumber": "053600219 0560133",
+    "Name": "Yale Transit Administration",
+    "DistrictNum": 6,
+    "Group": "Transit"
+  },
+  {
+    "AccountNumber": "053600219 0560133",
+    "Name": "Transit Ne Corner",
+    "DistrictNum": 6,
+    "Group": "Transit"
+  },
+  {
+    "AccountNumber": "053600314 0560134",
+    "Name": "Unmatched Account",
+    "DistrictNum": 2,
+    "Group": "Unmatched Accounts"
+  },
+  {
+    "AccountNumber": "053600314 0560134",
+    "Name": "Yale Transit Administration",
+    "DistrictNum": 6,
+    "Group": "Transit"
+  },
+  {
+    "AccountNumber": "054278714 0566918",
+    "Name": "Highland Pool",
+    "DistrictNum": 6,
+    "Group": "Parks & Recreation",
+    "Membership": [
+      "Pool",
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "054311413 0567245",
+    "Name": "Fire Station 11",
+    "DistrictNum": 6,
+    "Group": "AFR",
+    "Membership": [
+      "Solar Site"
+    ]
+  },
+  {
+    "AccountNumber": "054377913 0567910",
+    "Name": "Unmatched Account",
+    "DistrictNum": 2,
+    "Group": "Unmatched Accounts"
+  },
+  {
+    "AccountNumber": "054377913 0567910",
+    "Name": "Wilson Park And Pool",
+    "DistrictNum": 7,
+    "Group": "Parks & Recreation",
+    "Membership": [
+      "Pool"
+    ]
+  },
+  {
+    "AccountNumber": "054402313 0568154",
+    "Name": "San Pedro Library",
+    "DistrictNum": 6,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Library"
+    ]
+  },
+  {
+    "AccountNumber": "054737913 0571510",
+    "Name": "East Central Health And Social Service Center",
+    "DistrictNum": 6,
+    "Group": "Family & Community Services",
+    "Membership": [
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "054827013 0572401",
+    "Name": "Trumbull Community Center",
+    "DistrictNum": 6,
+    "Group": "Family & Community Services"
+  },
+  {
+    "AccountNumber": "054827013 0572401",
+    "Name": "Trumbull Park",
+    "DistrictNum": 6,
+    "Group": "Parks & Recreation",
+    "Membership": [
+      "Park"
+    ]
+  },
+  {
+    "AccountNumber": "055150113 0575632",
+    "Name": "Fire Station 12",
+    "DistrictNum": 9,
+    "Group": "AFR"
+  },
+  {
+    "AccountNumber": "055329513 0577426",
+    "Name": "Los Altos Golf Course",
+    "DistrictNum": 6,
+    "Group": "Parks & Recreation",
+    "Membership": [
+      "Ev Charging Station",
+      "Park",
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "055329913 0577430",
+    "Name": "Los Altos Park",
+    "DistrictNum": 7,
+    "Group": "Parks & Recreation",
+    "Membership": [
+      "Solar Site",
+      "Park"
+    ]
+  },
+  {
+    "AccountNumber": "055578414 0579915",
+    "Name": "Mesa Verde Community Center",
+    "DistrictNum": 6,
+    "Group": "Family & Community Services"
+  },
+  {
+    "AccountNumber": "055792912 0582060",
+    "Name": "Unmatched Account",
+    "DistrictNum": 2,
+    "Group": "Unmatched Accounts"
+  },
+  {
+    "AccountNumber": "055792912 0582060",
+    "Name": "Unmatched Account",
+    "DistrictNum": 2,
+    "Group": "Unmatched Accounts"
+  },
+  {
+    "AccountNumber": "055792912 0582060",
+    "Name": "Los Altos Park",
+    "DistrictNum": 7,
+    "Group": "Parks & Recreation",
+    "Membership": [
+      "Solar Site",
+      "Park"
+    ]
+  },
+  {
+    "AccountNumber": "055982514 0583956",
+    "Name": "Lomas - Tramway Library",
+    "DistrictNum": 9,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Ev Charging Station",
+      "Library"
+    ]
+  },
+  {
+    "AccountNumber": "056140813 0585539",
+    "Name": "Jeanne Bellamah Community Center",
+    "DistrictNum": 9,
+    "Group": "Family & Community Services"
+  },
+  {
+    "AccountNumber": "056904613 0593177",
+    "Name": "Juan Tabo Library",
+    "DistrictNum": 8,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Library"
+    ]
+  },
+  {
+    "AccountNumber": "057006113 0594192",
+    "Name": "Bear Canyon Senior Center",
+    "DistrictNum": 8,
+    "Group": "Senior Affairs"
+  },
+  {
+    "AccountNumber": "057065013 0594781",
+    "Name": "Holiday Park Community Center",
+    "DistrictNum": 8,
+    "Group": "Family & Community Services",
+    "Membership": [
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "057065013 0594781",
+    "Name": "Holiday Park Community Center",
+    "DistrictNum": 8,
+    "Group": "Family & Community Services",
+    "Membership": [
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "057136813 0595499",
+    "Name": "Fire Station 16",
+    "DistrictNum": 8,
+    "Group": "AFR"
+  },
+  {
+    "AccountNumber": "057801614 0602147",
+    "Name": "Greenhouse",
+    "DistrictNum": 4,
+    "Group": "Cultural Services",
+    "Membership": [
+      "BioPark"
+    ]
+  },
+  {
+    "AccountNumber": "057801614 0602147",
+    "Name": "Arroyo Del Oso Park",
+    "DistrictNum": 4,
+    "Group": "Parks & Recreation",
+    "Membership": [
+      "Park"
+    ]
+  },
+  {
+    "AccountNumber": "057899713 0603128",
+    "Name": "Pino Yards",
+    "DistrictNum": 4,
+    "Group": "DMD",
+    "Membership": [
+      "Solar Site",
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "057899812 0603129",
+    "Name": "Pino Yards",
+    "DistrictNum": 4,
+    "Group": "DMD",
+    "Membership": [
+      "Solar Site",
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "057993413 0604065",
+    "Name": "Fire Station 15",
+    "DistrictNum": 4,
+    "Group": "AFR"
+  },
+  {
+    "AccountNumber": "058288213 0607013",
+    "Name": "Northeast Area Command",
+    "DistrictNum": 4,
+    "Group": "APD",
+    "Membership": [
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "058288613 0607017",
+    "Name": "Arroyo Del Oso Golf Course",
+    "DistrictNum": 4,
+    "Group": "Parks & Recreation",
+    "Membership": [
+      "Park",
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "058330013 0607431",
+    "Name": "Palo Duro Senior Center",
+    "DistrictNum": 7,
+    "Group": "Senior Affairs",
+    "Membership": [
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "058398413 0608115",
+    "Name": "Sandia Pool",
+    "DistrictNum": 7,
+    "Group": "Parks & Recreation",
+    "Membership": [
+      "Pool",
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "058491313 0609043",
+    "Name": "Fire Station 9 (New)",
+    "DistrictNum": 7,
+    "Group": "AFR"
+  },
+  {
+    "AccountNumber": "058491314 1398832",
+    "Name": "Fire Station 9 (Old)",
+    "DistrictNum": 7,
+    "Group": "AFR"
+  },
+  {
+    "AccountNumber": "058581513 0609945",
+    "Name": "Snow Park Community Center",
+    "DistrictNum": 7,
+    "Group": "Family & Community Services"
+  },
+  {
+    "AccountNumber": "058581513 0609945",
+    "Name": "Unmatched Account",
+    "DistrictNum": 2,
+    "Group": "Unmatched Accounts"
+  },
+  {
+    "AccountNumber": "058712913 0611259",
+    "Name": "Tony Hillerman Library",
+    "DistrictNum": 7,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Esco",
+      "Library"
+    ]
+  },
+  {
+    "AccountNumber": "059244019 0616570",
+    "Name": "Unmatched Account",
+    "DistrictNum": 2,
+    "Group": "Unmatched Accounts"
+  },
+  {
+    "AccountNumber": "059244314 1327919",
+    "Name": "John Marshall Health And Social Service Center",
+    "DistrictNum": 2,
+    "Group": "Family & Community Services"
+  },
+  {
+    "AccountNumber": "059244315 1335607",
+    "Name": "Double Eagle Ii Airport",
+    "DistrictNum": 1,
+    "Group": "Aviation"
+  },
+  {
+    "AccountNumber": "059244316 0616573",
+    "Name": "Abq International Sunport",
+    "DistrictNum": 6,
+    "Group": "Aviation",
+    "Membership": [
+      "Ev Charging Station",
+      "Solar Site"
+    ]
+  },
+  {
+    "AccountNumber": "059244317 0616810",
+    "Name": "Abq International Sunport",
+    "DistrictNum": 6,
+    "Group": "Aviation",
+    "Membership": [
+      "Ev Charging Station",
+      "Solar Site"
+    ]
+  },
+  {
+    "AccountNumber": "059244318 0616560",
+    "Name": "Abq International Sunport",
+    "DistrictNum": 6,
+    "Group": "Aviation",
+    "Membership": [
+      "Ev Charging Station",
+      "Solar Site"
+    ]
+  },
+  {
+    "AccountNumber": "059244319 1335608",
+    "Name": "Abq International Sunport",
+    "DistrictNum": 6,
+    "Group": "Aviation",
+    "Membership": [
+      "Ev Charging Station",
+      "Solar Site"
+    ]
+  },
+  {
+    "AccountNumber": "059244320 0616867",
+    "Name": "Abq International Sunport",
+    "DistrictNum": 6,
+    "Group": "Aviation",
+    "Membership": [
+      "Ev Charging Station",
+      "Solar Site"
+    ]
+  },
+  {
+    "AccountNumber": "059244322 0616871",
+    "Name": "Abq International Sunport",
+    "DistrictNum": 6,
+    "Group": "Aviation",
+    "Membership": [
+      "Ev Charging Station",
+      "Solar Site"
+    ]
+  },
+  {
+    "AccountNumber": "059244324 0562942",
+    "Name": "Ernie Pyle Library",
+    "DistrictNum": 6,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Library"
+    ]
+  },
+  {
+    "AccountNumber": "059244325 0624659",
+    "Name": "Special Collections Library",
+    "DistrictNum": 2,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Esco",
+      "Library"
+    ]
+  },
+  {
+    "AccountNumber": "059244326 0675189",
+    "Name": "Zoo",
+    "DistrictNum": 2,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Battery Site",
+      "Solar Site",
+      "BioPark",
+      "Ev Charging Station",
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "059244328 1260420",
+    "Name": "Zoo",
+    "DistrictNum": 2,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Battery Site",
+      "Solar Site",
+      "BioPark",
+      "Ev Charging Station",
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "059244329 1260422",
+    "Name": "Zoo",
+    "DistrictNum": 2,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Battery Site",
+      "Solar Site",
+      "BioPark",
+      "Ev Charging Station",
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "059244330 1335610",
+    "Name": "Tingley Beach Train Station",
+    "DistrictNum": 2,
+    "Group": "Cultural Services",
+    "Membership": [
+      "BioPark"
+    ]
+  },
+  {
+    "AccountNumber": "059244331 1267777",
+    "Name": "Zoo",
+    "DistrictNum": 2,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Battery Site",
+      "Solar Site",
+      "BioPark",
+      "Ev Charging Station",
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "059244332 1335612",
+    "Name": "Zoo",
+    "DistrictNum": 2,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Battery Site",
+      "Solar Site",
+      "BioPark",
+      "Ev Charging Station",
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "059244334 1335614",
+    "Name": "Warehouse 508",
+    "DistrictNum": 2,
+    "Group": "Family & Community Services"
+  },
+  {
+    "AccountNumber": "059244336 1335616",
+    "Name": "West Mesa Community Center",
+    "DistrictNum": 2,
+    "Group": "Family & Community Services"
+  },
+  {
+    "AccountNumber": "059244337 1335617",
+    "Name": "Heights Community Center",
+    "DistrictNum": 6,
+    "Group": "Family & Community Services"
+  },
+  {
+    "AccountNumber": "059244338 1335618",
+    "Name": "Palo Duro Senior Center",
+    "DistrictNum": 7,
+    "Group": "Senior Affairs",
+    "Membership": [
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "059244339 1181704",
+    "Name": "Balloon Fiesta Park",
+    "DistrictNum": 4,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Solar Site",
+      "Ev Charging Station",
+      "Cultural Center"
+    ]
+  },
+  {
+    "AccountNumber": "059244340 1201911",
+    "Name": "Balloon Fiesta Park",
+    "DistrictNum": 4,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Solar Site",
+      "Ev Charging Station",
+      "Cultural Center"
+    ]
+  },
+  {
+    "AccountNumber": "059244341 0597311",
+    "Name": "Eisenhower Pool",
+    "DistrictNum": 8,
+    "Group": "Parks & Recreation",
+    "Membership": [
+      "Pool"
+    ]
+  },
+  {
+    "AccountNumber": "059244342 0666435",
+    "Name": "East San Jose Pool",
+    "DistrictNum": 2,
+    "Group": "Parks & Recreation",
+    "Membership": [
+      "Pool"
+    ]
+  },
+  {
+    "AccountNumber": "059244342 0666435",
+    "Name": "South Broadway Pool",
+    "DistrictNum": 2,
+    "Group": "Parks & Recreation",
+    "Membership": [
+      "Pool"
+    ]
+  },
+  {
+    "AccountNumber": "059244343 0607429",
+    "Name": "Montgomery Pool",
+    "DistrictNum": 7,
+    "Group": "Parks & Recreation",
+    "Membership": [
+      "Pool"
+    ]
+  },
+  {
+    "AccountNumber": "059244344 0663086",
+    "Name": "Rio Grande Pool",
+    "DistrictNum": 2,
+    "Group": "Parks & Recreation",
+    "Membership": [
+      "Pool"
+    ]
+  },
+  {
+    "AccountNumber": "059244345 0560946",
+    "Name": "Sunport Pool",
+    "DistrictNum": 6,
+    "Group": "Parks & Recreation",
+    "Membership": [
+      "Pool"
+    ]
+  },
+  {
+    "AccountNumber": "059244346 1327517",
+    "Name": "Police Training",
+    "DistrictNum": 2,
+    "Group": "APD",
+    "Membership": [
+      "Solar Site",
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "059244347 0622675",
+    "Name": "Police Training",
+    "DistrictNum": 2,
+    "Group": "APD",
+    "Membership": [
+      "Solar Site",
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "059244348 0158733",
+    "Name": "Environmental Health",
+    "DistrictNum": 6,
+    "Group": "Air Quality & Environmental Health"
+  },
+  {
+    "AccountNumber": "059244381 0624361",
+    "Name": "Underground Parking",
+    "DistrictNum": 2,
+    "Group": "Parking Structures"
+  },
+  {
+    "AccountNumber": "059244383 1199030",
+    "Name": "Balloon Fiesta Park",
+    "DistrictNum": 4,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Solar Site",
+      "Ev Charging Station",
+      "Cultural Center"
+    ]
+  },
+  {
+    "AccountNumber": "059244384 0260060",
+    "Name": "East Central Health And Social Service Center",
+    "DistrictNum": 6,
+    "Group": "Family & Community Services",
+    "Membership": [
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "059244385 1245739",
+    "Name": "Nm Veterans Memorial Center",
+    "DistrictNum": 6,
+    "Group": "Parks & Recreation",
+    "Membership": [
+      "Park"
+    ]
+  },
+  {
+    "AccountNumber": "059244387 1239000",
+    "Name": "Parking Garage Acropolis",
+    "DistrictNum": 2,
+    "Group": "Parking Structures"
+  },
+  {
+    "AccountNumber": "059266214 0616792",
+    "Name": "Abq International Sunport",
+    "DistrictNum": 6,
+    "Group": "Aviation",
+    "Membership": [
+      "Ev Charging Station",
+      "Solar Site"
+    ]
+  },
+  {
+    "AccountNumber": "059338613 0617516",
+    "Name": "Fire Station 13 And Fire Arson",
+    "DistrictNum": 7,
+    "Group": "AFR",
+    "Membership": [
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "059338713 0617517",
+    "Name": "Fire Station 13 And Fire Arson",
+    "DistrictNum": 7,
+    "Group": "AFR",
+    "Membership": [
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "059520413 0619334",
+    "Name": "Highland Senior Center",
+    "DistrictNum": 6,
+    "Group": "Senior Affairs",
+    "Membership": [
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "059865513 0622785",
+    "Name": "Fire Station 3",
+    "DistrictNum": 6,
+    "Group": "AFR"
+  },
+  {
+    "AccountNumber": "059977815 0623908",
+    "Name": "Vehicle Pollution",
+    "DistrictNum": 2,
+    "Group": "Solid Waste",
+    "Membership": [
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "060007313 0624203",
+    "Name": "Street Satellite 2",
+    "DistrictNum": 2,
+    "Group": "Transit"
+  },
+  {
+    "AccountNumber": "060013414 1257315",
+    "Name": "Dfcs Facility Maintenance",
+    "DistrictNum": 2,
+    "Group": "Family & Community Services"
+  },
+  {
+    "AccountNumber": "060013715 0624266",
+    "Name": "Old Apd",
+    "DistrictNum": 2,
+    "Group": "APD",
+    "Membership": [
+      "Battery Site"
+    ]
+  },
+  {
+    "AccountNumber": "060020015 0624329",
+    "Name": "City Hall",
+    "DistrictNum": 2,
+    "Group": "DMD",
+    "Membership": [
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "060020114 0624331",
+    "Name": "Old Apd",
+    "DistrictNum": 2,
+    "Group": "APD",
+    "Membership": [
+      "Battery Site"
+    ]
+  },
+  {
+    "AccountNumber": "060020316 0624333",
+    "Name": "Main Library",
+    "DistrictNum": 2,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Battery Site",
+      "Esco",
+      "Library"
+    ]
+  },
+  {
+    "AccountNumber": "060021818 0624348",
+    "Name": "Creative Albuquerque Space",
+    "DistrictNum": 2,
+    "Group": "Parking Structures"
+  },
+  {
+    "AccountNumber": "060021819 1366923",
+    "Name": "Central Unser Library",
+    "DistrictNum": 1,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Solar Site",
+      "Ev Charging Station",
+      "Library"
+    ]
+  },
+  {
+    "AccountNumber": "060022215 0624351",
+    "Name": "Plaza Del Sol",
+    "DistrictNum": 2,
+    "Group": "Downtown Office Buildings"
+  },
+  {
+    "AccountNumber": "060023013 0624360",
+    "Name": "Convention Center 1",
+    "DistrictNum": 2,
+    "Group": "Downtown Office Buildings"
+  },
+  {
+    "AccountNumber": "060023613 0624366",
+    "Name": "Kimo Theatre",
+    "DistrictNum": 2,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Esco",
+      "Cultural Center"
+    ]
+  },
+  {
+    "AccountNumber": "060052413 0624653",
+    "Name": "Law Enforcement Center",
+    "DistrictNum": 2,
+    "Group": "APD",
+    "Membership": [
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "060095115 0625081",
+    "Name": "Fire Station 4",
+    "DistrictNum": 2,
+    "Group": "AFR"
+  },
+  {
+    "AccountNumber": "060210115 0626231",
+    "Name": "Museum Warehouse",
+    "DistrictNum": 2,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Museum"
+    ]
+  },
+  {
+    "AccountNumber": "060210115 0626231",
+    "Name": "Unmatched Account",
+    "DistrictNum": 2,
+    "Group": "Unmatched Accounts"
+  },
+  {
+    "AccountNumber": "060210215 0626232",
+    "Name": "Museum Warehouse",
+    "DistrictNum": 2,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Museum"
+    ]
+  },
+  {
+    "AccountNumber": "060231714 0626447",
+    "Name": "Wells Park Community Center",
+    "DistrictNum": 2,
+    "Group": "Family & Community Services"
+  },
+  {
+    "AccountNumber": "060233915 0626468",
+    "Name": "4th Street Yards",
+    "DistrictNum": 2,
+    "Group": "DMD"
+  },
+  {
+    "AccountNumber": "060241213 0626542",
+    "Name": "Wells Park Community Center",
+    "DistrictNum": 2,
+    "Group": "Family & Community Services"
+  },
+  {
+    "AccountNumber": "060248714 0626617",
+    "Name": "Fleet - Small Shop",
+    "DistrictNum": 2,
+    "Group": "DMD"
+  },
+  {
+    "AccountNumber": "060248813 0626618",
+    "Name": "Community Center Fleet Management",
+    "DistrictNum": 2,
+    "Group": "Family & Community Services"
+  },
+  {
+    "AccountNumber": "060257013 0626700",
+    "Name": "Valley Yard Satellite",
+    "DistrictNum": 2,
+    "Group": "Parks & Recreation",
+    "Membership": [
+      "Park"
+    ]
+  },
+  {
+    "AccountNumber": "060389113 0628021",
+    "Name": "Albuquerque Museum",
+    "DistrictNum": 2,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Battery Site",
+      "Solar Site",
+      "Ev Charging Station",
+      "Museum"
+    ]
+  },
+  {
+    "AccountNumber": "060438913 0628519",
+    "Name": "Fire Station 10",
+    "DistrictNum": 2,
+    "Group": "AFR"
+  },
+  {
+    "AccountNumber": "060462813 0628758",
+    "Name": "Los Duranes Community Center",
+    "DistrictNum": 2,
+    "Group": "Family & Community Services"
+  },
+  {
+    "AccountNumber": "060613814 0630268",
+    "Name": "North Valley Community Center",
+    "DistrictNum": 2,
+    "Group": "Family & Community Services"
+  },
+  {
+    "AccountNumber": "060616713 0630297",
+    "Name": "Valley Pool",
+    "DistrictNum": 2,
+    "Group": "Parks & Recreation",
+    "Membership": [
+      "Pool",
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "060660813 0630738",
+    "Name": "Fire Station 6",
+    "DistrictNum": 2,
+    "Group": "AFR"
+  },
+  {
+    "AccountNumber": "060674713 0630877",
+    "Name": "Los Griegos Library",
+    "DistrictNum": 2,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Library"
+    ]
+  },
+  {
+    "AccountNumber": "060749313 0631623",
+    "Name": "North Valley Senior Center",
+    "DistrictNum": 2,
+    "Group": "Senior Affairs",
+    "Membership": [
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "060749314 1348029",
+    "Name": "North Domingo Baca Multi Generational Center",
+    "DistrictNum": 4,
+    "Group": "Senior Affairs",
+    "Membership": [
+      "Solar Site",
+      "Ev Charging Station"
+    ]
+  },
+  {
+    "AccountNumber": "060850816 0632638",
+    "Name": "Solid Waste Administration",
+    "DistrictNum": 2,
+    "Group": "Solid Waste"
+  },
+  {
+    "AccountNumber": "060850817 0156668",
+    "Name": "Solid Waste Administration",
+    "DistrictNum": 2,
+    "Group": "Solid Waste"
+  },
+  {
+    "AccountNumber": "061906514 0643193",
+    "Name": "Fire Station 17",
+    "DistrictNum": 1,
+    "Group": "AFR",
+    "Membership": [
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "062049014 0644618",
+    "Name": "Fire Station 22",
+    "DistrictNum": 8,
+    "Group": "AFR",
+    "Membership": [
+      "Solar Site"
+    ]
+  },
+  {
+    "AccountNumber": "062232914 0646457",
+    "Name": "Fire Station 18",
+    "DistrictNum": 1,
+    "Group": "AFR",
+    "Membership": [
+      "Solar Site"
+    ]
+  },
+  {
+    "AccountNumber": "062272414 0646852",
+    "Name": "Sierra Vista Complex",
+    "DistrictNum": 1,
+    "Group": "Parks & Recreation",
+    "Membership": [
+      "Park",
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "062597714 0650105",
+    "Name": "Southwest Area Command",
+    "DistrictNum": 1,
+    "Group": "APD",
+    "Membership": [
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "062598414 0650111",
+    "Name": "West Mesa Aquatic Center",
+    "DistrictNum": 1,
+    "Group": "Parks & Recreation",
+    "Membership": [
+      "Ev Charging Station",
+      "Pool"
+    ]
+  },
+  {
+    "AccountNumber": "062781213 0651940",
+    "Name": "Maintenance Shop",
+    "DistrictNum": 6,
+    "Group": "AFR"
+  },
+  {
+    "AccountNumber": "062781213 0651940",
+    "Name": "Fire Station 14",
+    "DistrictNum": 3,
+    "Group": "AFR"
+  },
+  {
+    "AccountNumber": "062866112 0652789",
+    "Name": "Westgate Community Center",
+    "DistrictNum": 3,
+    "Group": "Family & Community Services"
+  },
+  {
+    "AccountNumber": "062903113 0653159",
+    "Name": "Cip Shop",
+    "DistrictNum": 2,
+    "Group": "AFR"
+  },
+  {
+    "AccountNumber": "062903113 0653159",
+    "Name": "Fire Station 7",
+    "DistrictNum": 2,
+    "Group": "AFR",
+    "Membership": [
+      "Solar Site"
+    ]
+  },
+  {
+    "AccountNumber": "062903114 1354955",
+    "Name": "Fire Station 21",
+    "DistrictNum": 5,
+    "Group": "AFR",
+    "Membership": [
+      "Solar Site",
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "062903115 1355054",
+    "Name": "Fire Station 22",
+    "DistrictNum": 8,
+    "Group": "AFR",
+    "Membership": [
+      "Solar Site"
+    ]
+  },
+  {
+    "AccountNumber": "062930815 0653436",
+    "Name": "Esperanza Bicycle Safety Education Center",
+    "DistrictNum": 2,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Esco",
+      "Library"
+    ]
+  },
+  {
+    "AccountNumber": "063876813 0662896",
+    "Name": "Zoo",
+    "DistrictNum": 2,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Battery Site",
+      "Solar Site",
+      "BioPark",
+      "Ev Charging Station",
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "063895713 0663085",
+    "Name": "Zoo",
+    "DistrictNum": 2,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Battery Site",
+      "Solar Site",
+      "BioPark",
+      "Ev Charging Station",
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "063990713 0664035",
+    "Name": "Zoo",
+    "DistrictNum": 2,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Battery Site",
+      "Solar Site",
+      "BioPark",
+      "Ev Charging Station",
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "063991013 0664038",
+    "Name": "Zoo",
+    "DistrictNum": 2,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Battery Site",
+      "Solar Site",
+      "BioPark",
+      "Ev Charging Station",
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "063991114 0664039",
+    "Name": "Zoo",
+    "DistrictNum": 2,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Battery Site",
+      "Solar Site",
+      "BioPark",
+      "Ev Charging Station",
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "063991313 0664041",
+    "Name": "Zoo",
+    "DistrictNum": 2,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Battery Site",
+      "Solar Site",
+      "BioPark",
+      "Ev Charging Station",
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "064058814 0664716",
+    "Name": "Fire Station 1 And Fire Marshall Office",
+    "DistrictNum": 2,
+    "Group": "AFR",
+    "Membership": [
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "064073913 0664867",
+    "Name": "Barelas Community Center",
+    "DistrictNum": 2,
+    "Group": "Family & Community Services"
+  },
+  {
+    "AccountNumber": "064074013 0664868",
+    "Name": "Barelas Community Center",
+    "DistrictNum": 2,
+    "Group": "Family & Community Services"
+  },
+  {
+    "AccountNumber": "064148213 0665610",
+    "Name": "Montessa Park",
+    "DistrictNum": 6,
+    "Group": "Air Quality & Environmental Health"
+  },
+  {
+    "AccountNumber": "064158314 0665711",
+    "Name": "Jack Candelaria Community Center",
+    "DistrictNum": 2,
+    "Group": "Family & Community Services"
+  },
+  {
+    "AccountNumber": "064217218 0666300",
+    "Name": "South Broadway Cultural Center",
+    "DistrictNum": 2,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Esco",
+      "Cultural Center"
+    ]
+  },
+  {
+    "AccountNumber": "064233814 0666466",
+    "Name": "Herman Sanchez Community Center",
+    "DistrictNum": 2,
+    "Group": "Family & Community Services",
+    "Membership": [
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "064293813 0667066",
+    "Name": "Dennis Chavez Community Center",
+    "DistrictNum": 2,
+    "Group": "Family & Community Services"
+  },
+  {
+    "AccountNumber": "064296115 0667089",
+    "Name": "John Marshall Health And Social Service Center",
+    "DistrictNum": 2,
+    "Group": "Family & Community Services"
+  },
+  {
+    "AccountNumber": "064386213 0667990",
+    "Name": "Fire Station 2",
+    "DistrictNum": 6,
+    "Group": "AFR",
+    "Membership": [
+      "Solar Site"
+    ]
+  },
+  {
+    "AccountNumber": "064399713 0668125",
+    "Name": "Zoo",
+    "DistrictNum": 2,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Battery Site",
+      "Solar Site",
+      "BioPark",
+      "Ev Charging Station",
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "064400212 0668130",
+    "Name": "Montessa Park",
+    "DistrictNum": 6,
+    "Group": "Air Quality & Environmental Health"
+  },
+  {
+    "AccountNumber": "064401212 0668140",
+    "Name": "John Marshall Health And Social Service Center",
+    "DistrictNum": 2,
+    "Group": "Family & Community Services"
+  },
+  {
+    "AccountNumber": "064410913 0668237",
+    "Name": "Zoo",
+    "DistrictNum": 2,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Battery Site",
+      "Solar Site",
+      "BioPark",
+      "Ev Charging Station",
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "064414413 0668272",
+    "Name": "Zoo",
+    "DistrictNum": 2,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Battery Site",
+      "Solar Site",
+      "BioPark",
+      "Ev Charging Station",
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "064430303 0668431",
+    "Name": "Zoo",
+    "DistrictNum": 2,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Battery Site",
+      "Solar Site",
+      "BioPark",
+      "Ev Charging Station",
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "064447002 0668598",
+    "Name": "Taylor Ranch Library",
+    "DistrictNum": 1,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Esco",
+      "Library"
+    ]
+  },
+  {
+    "AccountNumber": "064452302 0668651",
+    "Name": "Loma Linda Community Center",
+    "DistrictNum": 6,
+    "Group": "Family & Community Services"
+  },
+  {
+    "AccountNumber": "064485202 0668980",
+    "Name": "Zoo",
+    "DistrictNum": 2,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Battery Site",
+      "Solar Site",
+      "BioPark",
+      "Ev Charging Station",
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "064501903 0669147",
+    "Name": "Southeast Area Command",
+    "DistrictNum": 6,
+    "Group": "APD"
+  },
+  {
+    "AccountNumber": "064511103 0669239",
+    "Name": "Los Volcanes Senior Center",
+    "DistrictNum": 1,
+    "Group": "Senior Affairs",
+    "Membership": [
+      "Solar Site"
+    ]
+  },
+  {
+    "AccountNumber": "064537103 0669499",
+    "Name": "Zoo",
+    "DistrictNum": 2,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Battery Site",
+      "Solar Site",
+      "BioPark",
+      "Ev Charging Station",
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "064682503 0670953",
+    "Name": "Convention Center 2",
+    "DistrictNum": 2,
+    "Group": "Downtown Office Buildings"
+  },
+  {
+    "AccountNumber": "064692103 0671049",
+    "Name": "South Valley Library",
+    "DistrictNum": 1,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Library"
+    ]
+  },
+  {
+    "AccountNumber": "064810202 0672230",
+    "Name": "Zoo",
+    "DistrictNum": 2,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Battery Site",
+      "Solar Site",
+      "BioPark",
+      "Ev Charging Station",
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "064849102 0672619",
+    "Name": "Abq International Sunport",
+    "DistrictNum": 6,
+    "Group": "Aviation",
+    "Membership": [
+      "Ev Charging Station",
+      "Solar Site"
+    ]
+  },
+  {
+    "AccountNumber": "064869503 0672823",
+    "Name": "Fire Academy",
+    "DistrictNum": 9,
+    "Group": "AFR"
+  },
+  {
+    "AccountNumber": "064869504 1159041",
+    "Name": "Emergency Consolidation Center",
+    "DistrictNum": 9,
+    "Group": "AFR",
+    "Membership": [
+      "Solar Site",
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "064881802 0672946",
+    "Name": "Police Training",
+    "DistrictNum": 2,
+    "Group": "APD",
+    "Membership": [
+      "Solar Site",
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "064928103 0673409",
+    "Name": "Fire Station 8",
+    "DistrictNum": 9,
+    "Group": "AFR",
+    "Membership": [
+      "Solar Site"
+    ]
+  },
+  {
+    "AccountNumber": "064948603 0673614",
+    "Name": "Environmental Health",
+    "DistrictNum": 6,
+    "Group": "Air Quality & Environmental Health"
+  },
+  {
+    "AccountNumber": "064965504 0673783",
+    "Name": "Animal Welfare Eastside Shelter",
+    "DistrictNum": 6,
+    "Group": "Animal Welfare",
+    "Membership": [
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "064965504 0673783",
+    "Name": "Animal Welfare",
+    "Group": "Animal Welfare"
+  },
+  {
+    "AccountNumber": "064977302 0673901",
+    "Name": "Abq International Sunport",
+    "DistrictNum": 6,
+    "Group": "Aviation",
+    "Membership": [
+      "Ev Charging Station",
+      "Solar Site"
+    ]
+  },
+  {
+    "AccountNumber": "065063502 0674763",
+    "Name": "Zoo",
+    "DistrictNum": 2,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Battery Site",
+      "Solar Site",
+      "BioPark",
+      "Ev Charging Station",
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "065086802 0674996",
+    "Name": "Thomas Bell Community Center",
+    "DistrictNum": 2,
+    "Group": "Family & Community Services"
+  },
+  {
+    "AccountNumber": "065121203 0675340",
+    "Name": "4th Street Yards",
+    "DistrictNum": 2,
+    "Group": "DMD"
+  },
+  {
+    "AccountNumber": "065121203 0675340",
+    "Name": "Unmatched Account",
+    "DistrictNum": 2,
+    "Group": "Unmatched Accounts"
+  },
+  {
+    "AccountNumber": "065129002 0675418",
+    "Name": "Zoo",
+    "DistrictNum": 2,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Battery Site",
+      "Solar Site",
+      "BioPark",
+      "Ev Charging Station",
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "065142802 0675556",
+    "Name": "Heights Community Center",
+    "DistrictNum": 6,
+    "Group": "Family & Community Services"
+  },
+  {
+    "AccountNumber": "065283003 0676958",
+    "Name": "Police Training",
+    "DistrictNum": 2,
+    "Group": "APD",
+    "Membership": [
+      "Solar Site",
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "065303602 0677164",
+    "Name": "Eagle Rock Convenience Center",
+    "DistrictNum": 4,
+    "Group": "Solid Waste"
+  },
+  {
+    "AccountNumber": "065317003 0677298",
+    "Name": "North Valley Library",
+    "DistrictNum": 3,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Library"
+    ]
+  },
+  {
+    "AccountNumber": "065395702 0678085",
+    "Name": "East Mountain Library",
+    "DistrictNum": 2,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Library"
+    ]
+  },
+  {
+    "AccountNumber": "065425702 0678385",
+    "Name": "Fire Station 19",
+    "DistrictNum": 7,
+    "Group": "AFR"
+  },
+  {
+    "AccountNumber": "065439503 0678522",
+    "Name": "Unmatched Account",
+    "DistrictNum": 2,
+    "Group": "Unmatched Accounts"
+  },
+  {
+    "AccountNumber": "065439503 0678522",
+    "Name": "Hawthorne Elementary",
+    "DistrictNum": 6,
+    "Group": "Family & Community Services"
+  },
+  {
+    "AccountNumber": "065450402 0678631",
+    "Name": "Zoo",
+    "DistrictNum": 2,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Battery Site",
+      "Solar Site",
+      "BioPark",
+      "Ev Charging Station",
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "065450403 1347231",
+    "Name": "Zoo",
+    "DistrictNum": 2,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Battery Site",
+      "Solar Site",
+      "BioPark",
+      "Ev Charging Station",
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "065586203 0679989",
+    "Name": "Los Griegos Health And Social Service Center",
+    "DistrictNum": 2,
+    "Group": "Family & Community Services",
+    "Membership": [
+      "Battery Site",
+      "Solar Site",
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "065865403 0682781",
+    "Name": "Whittier Community Center",
+    "DistrictNum": 6,
+    "Group": "Family & Community Services"
+  },
+  {
+    "AccountNumber": "065952003 0683647",
+    "Name": "Zoo",
+    "DistrictNum": 2,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Battery Site",
+      "Solar Site",
+      "BioPark",
+      "Ev Charging Station",
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "065959802 0683725",
+    "Name": "Montessa Park",
+    "DistrictNum": 6,
+    "Group": "Air Quality & Environmental Health"
+  },
+  {
+    "AccountNumber": "065959802 0683725",
+    "Name": "Open Space Visitors Center",
+    "DistrictNum": 1,
+    "Group": "Parks & Recreation",
+    "Membership": [
+      "Park",
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "065980002 0683927",
+    "Name": "Zoo",
+    "DistrictNum": 2,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Battery Site",
+      "Solar Site",
+      "BioPark",
+      "Ev Charging Station",
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "066012002 0684247",
+    "Name": "Zoo",
+    "DistrictNum": 2,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Battery Site",
+      "Solar Site",
+      "BioPark",
+      "Ev Charging Station",
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "066078602 0684913",
+    "Name": "Montessa Park",
+    "DistrictNum": 6,
+    "Group": "Air Quality & Environmental Health"
+  },
+  {
+    "AccountNumber": "066207503 0686202",
+    "Name": "Balloon Museum",
+    "DistrictNum": 4,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Museum"
+    ]
+  },
+  {
+    "AccountNumber": "066347704 0687603",
+    "Name": "Old Westside Jail",
+    "DistrictNum": 1,
+    "Group": "APD"
+  },
+  {
+    "AccountNumber": "066406803 0688194",
+    "Name": "Aquarium And Botanical Garden",
+    "DistrictNum": 2,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Battery Site",
+      "Ev Charging Station",
+      "Solar Site",
+      "Esco",
+      "BioPark"
+    ]
+  },
+  {
+    "AccountNumber": "066406804 1339737",
+    "Name": "Aquarium And Botanical Garden",
+    "DistrictNum": 2,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Battery Site",
+      "Ev Charging Station",
+      "Solar Site",
+      "Esco",
+      "BioPark"
+    ]
+  },
+  {
+    "AccountNumber": "066528202 0689409",
+    "Name": "Yale Transit Administration",
+    "DistrictNum": 6,
+    "Group": "Transit"
+  },
+  {
+    "AccountNumber": "066528202 0689409",
+    "Name": "Transit Fueling Sun Tran",
+    "DistrictNum": 1,
+    "Group": "Transit"
+  },
+  {
+    "AccountNumber": "066528302 0689410",
+    "Name": "Yale Transit Administration",
+    "DistrictNum": 6,
+    "Group": "Transit"
+  },
+  {
+    "AccountNumber": "066528302 0689410",
+    "Name": "Transit Refueling",
+    "DistrictNum": 6,
+    "Group": "Transit"
+  },
+  {
+    "AccountNumber": "066748502 0691612",
+    "Name": "Zoo",
+    "DistrictNum": 2,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Battery Site",
+      "Solar Site",
+      "BioPark",
+      "Ev Charging Station",
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "066925202 0693379",
+    "Name": "Zoo",
+    "DistrictNum": 2,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Battery Site",
+      "Solar Site",
+      "BioPark",
+      "Ev Charging Station",
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "067006702 0694194",
+    "Name": "Zoo",
+    "DistrictNum": 2,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Battery Site",
+      "Solar Site",
+      "BioPark",
+      "Ev Charging Station",
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "067022402 0694351",
+    "Name": "Westgate Library",
+    "DistrictNum": 3,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Library"
+    ]
+  },
+  {
+    "AccountNumber": "067022402 0694351",
+    "Name": "Unmatched Account",
+    "DistrictNum": 2,
+    "Group": "Unmatched Accounts"
+  },
+  {
+    "AccountNumber": "067069002 0694817",
+    "Name": "Zoo",
+    "DistrictNum": 2,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Battery Site",
+      "Solar Site",
+      "BioPark",
+      "Ev Charging Station",
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "067069002 0694817",
+    "Name": "Unmatched Account",
+    "DistrictNum": 2,
+    "Group": "Unmatched Accounts"
+  },
+  {
+    "AccountNumber": "067116603 0695292",
+    "Name": "Cesar Chavez Community Center",
+    "DistrictNum": 6,
+    "Group": "Family & Community Services"
+  },
+  {
+    "AccountNumber": "067135303 1333614",
+    "Name": "Balloon Museum",
+    "DistrictNum": 4,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Museum"
+    ]
+  },
+  {
+    "AccountNumber": "067135304 1248396",
+    "Name": "Zoo",
+    "DistrictNum": 2,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Battery Site",
+      "Solar Site",
+      "BioPark",
+      "Ev Charging Station",
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "067135305 1333615",
+    "Name": "Fire Station 2",
+    "DistrictNum": 6,
+    "Group": "AFR",
+    "Membership": [
+      "Solar Site"
+    ]
+  },
+  {
+    "AccountNumber": "067135305 1333615",
+    "Name": "Fire Station 21",
+    "DistrictNum": 5,
+    "Group": "AFR",
+    "Membership": [
+      "Solar Site",
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "067135306 1333616",
+    "Name": "Fire Station 3",
+    "DistrictNum": 6,
+    "Group": "AFR"
+  },
+  {
+    "AccountNumber": "067135306 1333616",
+    "Name": "Fire Station 5",
+    "DistrictNum": 6,
+    "Group": "AFR",
+    "Membership": [
+      "Solar Site",
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "067135307 1250115",
+    "Name": "4th Street Yards",
+    "DistrictNum": 2,
+    "Group": "DMD"
+  },
+  {
+    "AccountNumber": "067135309 0577425",
+    "Name": "Unmatched Account",
+    "DistrictNum": 2,
+    "Group": "Unmatched Accounts"
+  },
+  {
+    "AccountNumber": "067135309 0577425",
+    "Name": "Wilson Park And Pool",
+    "DistrictNum": 7,
+    "Group": "Parks & Recreation",
+    "Membership": [
+      "Pool"
+    ]
+  },
+  {
+    "AccountNumber": "067135310 1333617",
+    "Name": "Dmd Maintenance",
+    "DistrictNum": 2,
+    "Group": "DMD"
+  },
+  {
+    "AccountNumber": "067135312 1208740",
+    "Name": "Open Space Visitors Center",
+    "DistrictNum": 1,
+    "Group": "Parks & Recreation",
+    "Membership": [
+      "Park",
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "067135313 0665608",
+    "Name": "Montessa Park",
+    "DistrictNum": 6,
+    "Group": "Air Quality & Environmental Health"
+  },
+  {
+    "AccountNumber": "067135313 0665608",
+    "Name": "Open Space Visitors Center",
+    "DistrictNum": 1,
+    "Group": "Parks & Recreation",
+    "Membership": [
+      "Park",
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "067310202 0697229",
+    "Name": "Aquarium And Botanical Garden",
+    "DistrictNum": 2,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Battery Site",
+      "Ev Charging Station",
+      "Solar Site",
+      "Esco",
+      "BioPark"
+    ]
+  },
+  {
+    "AccountNumber": "067375902 0697886",
+    "Name": "Cherry Hills Library",
+    "DistrictNum": 4,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Solar Site",
+      "Library"
+    ]
+  },
+  {
+    "AccountNumber": "115444730 1160688",
+    "Name": "Alamosa Community Center",
+    "DistrictNum": 3,
+    "Group": "Family & Community Services",
+    "Membership": [
+      "Battery Site",
+      "Solar Site",
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "115495337 1181345",
+    "Name": "Rental Car Center",
+    "DistrictNum": 6,
+    "Group": "Aviation"
+  },
+  {
+    "AccountNumber": "115495796 1164582",
+    "Name": "Fire Station 1 And Fire Marshall Office",
+    "DistrictNum": 2,
+    "Group": "AFR",
+    "Membership": [
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "115495796 1164582",
+    "Name": "Fire Station 14",
+    "DistrictNum": 3,
+    "Group": "AFR"
+  },
+  {
+    "AccountNumber": "115495798 0299714",
+    "Name": "Nm Business Resource Center",
+    "DistrictNum": 9,
+    "Group": "Downtown Office Buildings"
+  },
+  {
+    "AccountNumber": "115496369 1190945",
+    "Name": "Alamosa Community Center",
+    "DistrictNum": 3,
+    "Group": "Family & Community Services",
+    "Membership": [
+      "Battery Site",
+      "Solar Site",
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "115496573 1186456",
+    "Name": "Singing Arrow Community Center",
+    "DistrictNum": 9,
+    "Group": "Family & Community Services"
+  },
+  {
+    "AccountNumber": "115500821 1219903",
+    "Name": "Animal Welfare Eastside Shelter",
+    "DistrictNum": 6,
+    "Group": "Animal Welfare",
+    "Membership": [
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "115511719 1223054",
+    "Name": "Isotopes Ball Park",
+    "DistrictNum": 6,
+    "Group": "Sports"
+  },
+  {
+    "AccountNumber": "115526027 1225004",
+    "Name": "Zoo",
+    "DistrictNum": 2,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Battery Site",
+      "Solar Site",
+      "BioPark",
+      "Ev Charging Station",
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "115526030 1225005",
+    "Name": "Zoo",
+    "DistrictNum": 2,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Battery Site",
+      "Solar Site",
+      "BioPark",
+      "Ev Charging Station",
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "115526032 1225383",
+    "Name": "Zoo",
+    "DistrictNum": 2,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Battery Site",
+      "Solar Site",
+      "BioPark",
+      "Ev Charging Station",
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "115526033 1225387",
+    "Name": "Zoo",
+    "DistrictNum": 2,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Battery Site",
+      "Solar Site",
+      "BioPark",
+      "Ev Charging Station",
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "115526034 1225008",
+    "Name": "Zoo",
+    "DistrictNum": 2,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Battery Site",
+      "Solar Site",
+      "BioPark",
+      "Ev Charging Station",
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "115526036 1225384",
+    "Name": "Zoo",
+    "DistrictNum": 2,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Battery Site",
+      "Solar Site",
+      "BioPark",
+      "Ev Charging Station",
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "115526284 1225006",
+    "Name": "Zoo",
+    "DistrictNum": 2,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Battery Site",
+      "Solar Site",
+      "BioPark",
+      "Ev Charging Station",
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "115579447 1203595",
+    "Name": "Alvarado Transportation Center",
+    "DistrictNum": 2,
+    "Group": "Transit"
+  },
+  {
+    "AccountNumber": "115579448 1204249",
+    "Name": "Metro Forensics Science Center",
+    "DistrictNum": 2,
+    "Group": "APD",
+    "Membership": [
+      "Battery Site",
+      "Solar Site",
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "115579451 1196030",
+    "Name": "Manzano Mesa Multi Generational Center",
+    "DistrictNum": 9,
+    "Group": "Senior Affairs",
+    "Membership": [
+      "Ev Charging Station",
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "115625438 1200717",
+    "Name": "Old Town Community Substation",
+    "DistrictNum": 2,
+    "Group": "APD"
+  },
+  {
+    "AccountNumber": "115625440 1205473",
+    "Name": "Aquarium And Botanical Garden",
+    "DistrictNum": 2,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Battery Site",
+      "Ev Charging Station",
+      "Solar Site",
+      "Esco",
+      "BioPark"
+    ]
+  },
+  {
+    "AccountNumber": "115625444 1183933",
+    "Name": "Child Development Center",
+    "DistrictNum": 2,
+    "Group": "Family & Community Services"
+  },
+  {
+    "AccountNumber": "115625449 1246715",
+    "Name": "Taylor Ranch Community Center",
+    "DistrictNum": 1,
+    "Group": "Family & Community Services",
+    "Membership": [
+      "Solar Site",
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "115625451 1232601",
+    "Name": "Erna Ferguson Library",
+    "DistrictNum": 7,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Esco",
+      "Library"
+    ]
+  },
+  {
+    "AccountNumber": "115625452 1204719",
+    "Name": "Fire Station 20",
+    "DistrictNum": 4,
+    "Group": "AFR",
+    "Membership": [
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "115625457 1182232",
+    "Name": "Puerto Del Sol Golf Course",
+    "DistrictNum": 6,
+    "Group": "Parks & Recreation",
+    "Membership": [
+      "Park"
+    ]
+  },
+  {
+    "AccountNumber": "115625460 1218811",
+    "Name": "Aquarium And Botanical Garden",
+    "DistrictNum": 2,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Battery Site",
+      "Ev Charging Station",
+      "Solar Site",
+      "Esco",
+      "BioPark"
+    ]
+  },
+  {
+    "AccountNumber": "115625460 1218811",
+    "Name": "Unmatched Account",
+    "DistrictNum": 2,
+    "Group": "Unmatched Accounts"
+  },
+  {
+    "AccountNumber": "115625720 1192909",
+    "Name": "Alamosa Community Center",
+    "DistrictNum": 3,
+    "Group": "Family & Community Services",
+    "Membership": [
+      "Battery Site",
+      "Solar Site",
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "115625721 1200842",
+    "Name": "South Broadway Community Substation",
+    "DistrictNum": 2,
+    "Group": "APD"
+  },
+  {
+    "AccountNumber": "115625726 1208961",
+    "Name": "James Dwyer Memorial Substation",
+    "DistrictNum": 8,
+    "Group": "APD"
+  },
+  {
+    "AccountNumber": "115626184 1155157",
+    "Name": "Unmatched Account",
+    "DistrictNum": 2,
+    "Group": "Unmatched Accounts"
+  },
+  {
+    "AccountNumber": "115626184 1155157",
+    "Name": "Abq International Sunport",
+    "DistrictNum": 6,
+    "Group": "Aviation",
+    "Membership": [
+      "Ev Charging Station",
+      "Solar Site"
+    ]
+  },
+  {
+    "AccountNumber": "115626197 1163850",
+    "Name": "Pino Yards",
+    "DistrictNum": 4,
+    "Group": "DMD",
+    "Membership": [
+      "Solar Site",
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "115626197 1163850",
+    "Name": "Open Space Visitors Center",
+    "DistrictNum": 1,
+    "Group": "Parks & Recreation",
+    "Membership": [
+      "Park",
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "115626197 1163850",
+    "Name": "Open Space Visitors Center",
+    "DistrictNum": 1,
+    "Group": "Parks & Recreation",
+    "Membership": [
+      "Park",
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "115626205 1243618",
+    "Name": "Daytona Administration - Operations",
+    "DistrictNum": 1,
+    "Group": "Transit",
+    "Membership": [
+      "Battery Site",
+      "Solar Site",
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "115626206 1193693",
+    "Name": "Nm Veterans Memorial Center",
+    "DistrictNum": 6,
+    "Group": "Parks & Recreation",
+    "Membership": [
+      "Park"
+    ]
+  },
+  {
+    "AccountNumber": "115626207 1225606",
+    "Name": "Zoo",
+    "DistrictNum": 2,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Battery Site",
+      "Solar Site",
+      "BioPark",
+      "Ev Charging Station",
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "115971808 1348533",
+    "Name": "Northwest Area Command",
+    "DistrictNum": 5,
+    "Group": "APD",
+    "Membership": [
+      "Solar Site"
+    ]
+  },
+  {
+    "AccountNumber": "115977523 1233769",
+    "Name": "Railway Yards",
+    "DistrictNum": 2,
+    "Group": "Unmatched Accounts"
+  },
+  {
+    "AccountNumber": "115984768 1350620",
+    "Name": "Casa Kitchen",
+    "DistrictNum": 2,
+    "Group": "Senior Affairs",
+    "Membership": [
+      "Solar Site"
+    ]
+  },
+  {
+    "AccountNumber": "116006411 0274047",
+    "Name": "Abq International Sunport",
+    "DistrictNum": 6,
+    "Group": "Aviation",
+    "Membership": [
+      "Ev Charging Station",
+      "Solar Site"
+    ]
+  },
+  {
+    "AccountNumber": "116018235 1356055",
+    "Name": "Jerry Cline Complex",
+    "DistrictNum": 7,
+    "Group": "Parks & Recreation",
+    "Membership": [
+      "Park"
+    ]
+  },
+  {
+    "AccountNumber": "116123835 1370845",
+    "Name": "Balloon Fiesta Park",
+    "DistrictNum": 4,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Solar Site",
+      "Ev Charging Station",
+      "Cultural Center"
+    ]
+  },
+  {
+    "AccountNumber": "116123835 1370845",
+    "Name": "Balloon Fiesta Park",
+    "DistrictNum": 4,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Solar Site",
+      "Ev Charging Station",
+      "Cultural Center"
+    ]
+  },
+  {
+    "AccountNumber": "116187476 1378976",
+    "Name": "Zoo",
+    "DistrictNum": 2,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Battery Site",
+      "Solar Site",
+      "BioPark",
+      "Ev Charging Station",
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "116190834 1373367",
+    "Name": "Zoo",
+    "DistrictNum": 2,
+    "Group": "Cultural Services",
+    "Membership": [
+      "Battery Site",
+      "Solar Site",
+      "BioPark",
+      "Ev Charging Station",
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "116193624 1184717",
+    "Name": "Joan Jones Community Center",
+    "DistrictNum": 2,
+    "Group": "Family & Community Services"
+  },
+  {
+    "AccountNumber": "116270213 1349281",
+    "Name": "Abq International Sunport",
+    "DistrictNum": 6,
+    "Group": "Aviation",
+    "Membership": [
+      "Ev Charging Station",
+      "Solar Site"
+    ]
+  },
+  {
+    "AccountNumber": "116282330 1240618",
+    "Name": "Unmatched Account",
+    "DistrictNum": 2,
+    "Group": "Unmatched Accounts"
+  },
+  {
+    "AccountNumber": "116301261 1337665",
+    "Name": "Fire Fleet",
+    "DistrictNum": 1,
+    "Group": "AFR"
+  },
+  {
+    "AccountNumber": "116314971 0676870",
+    "Name": "Unmatched Account",
+    "DistrictNum": 2,
+    "Group": "Unmatched Accounts"
+  },
+  {
+    "AccountNumber": "116314971 0676870",
+    "Name": "Abq International Sunport",
+    "DistrictNum": 6,
+    "Group": "Aviation",
+    "Membership": [
+      "Ev Charging Station",
+      "Solar Site"
+    ]
+  },
+  {
+    "AccountNumber": "116319187 1185560",
+    "Name": "Abq International Sunport",
+    "DistrictNum": 6,
+    "Group": "Aviation",
+    "Membership": [
+      "Ev Charging Station",
+      "Solar Site"
+    ]
+  },
+  {
+    "AccountNumber": "116319188 1187887",
+    "Name": "Abq International Sunport",
+    "DistrictNum": 6,
+    "Group": "Aviation",
+    "Membership": [
+      "Ev Charging Station",
+      "Solar Site"
+    ]
+  },
+  {
+    "AccountNumber": "116322331 0568082",
+    "Name": "Gibson Health Hub",
+    "DistrictNum": 6,
+    "Group": "DMD",
+    "Membership": [
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "116322332 0672227",
+    "Name": "Gibson Health Hub",
+    "DistrictNum": 6,
+    "Group": "DMD",
+    "Membership": [
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "116322333 0568084",
+    "Name": "Gibson Health Hub",
+    "DistrictNum": 6,
+    "Group": "DMD",
+    "Membership": [
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "116322334 0573446",
+    "Name": "Gibson Health Hub",
+    "DistrictNum": 6,
+    "Group": "DMD",
+    "Membership": [
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "116334828 0255058",
+    "Name": "Unmatched Account",
+    "DistrictNum": 2,
+    "Group": "Unmatched Accounts"
+  },
+  {
+    "AccountNumber": "116334828 0255058",
+    "Name": "Gibson Health Hub",
+    "DistrictNum": 6,
+    "Group": "DMD",
+    "Membership": [
+      "Esco"
+    ]
+  },
+  {
+    "AccountNumber": "116339872 0315957",
+    "Name": "Unmatched Account",
+    "DistrictNum": 2,
+    "Group": "Unmatched Accounts"
+  },
+  {
+    "AccountNumber": "116339872 0315957",
+    "Name": "Coronado Park Community Center",
+    "DistrictNum": 2,
+    "Group": "DMD"
+  },
+  {
+    "AccountNumber": "116343084 1403622",
+    "Name": "Unmatched Account",
+    "DistrictNum": 2,
+    "Group": "Unmatched Accounts"
+  },
+  {
+    "AccountNumber": "116362385 1402282",
+    "Name": "Westgate Community Center",
+    "DistrictNum": 3,
+    "Group": "Family & Community Services"
+  },
+  {
+    "AccountNumber": "116362385 1402282",
+    "Name": "Unmatched Account",
+    "DistrictNum": 2,
+    "Group": "Unmatched Accounts"
+  },
+  {
+    "AccountNumber": "116368076 1406229",
+    "Name": "Unmatched Account",
+    "DistrictNum": 2,
+    "Group": "Unmatched Accounts"
+  },
+  {
+    "AccountNumber": "116390267 1413326",
+    "Name": "Phil Chacon Park",
+    "DistrictNum": 6,
+    "Group": "Parks & Recreation",
+    "Membership": [
+      "Park"
+    ]
+  }
+]

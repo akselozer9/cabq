@@ -1,0 +1,502 @@
+[
+    {
+        "_id": {
+            "Name": "Street Lights",
+            "YearNum": 2022
+        },
+        "YearNum": 2022,
+        "Name": "Street Lights",
+        "Electric Charges": 3070212.43,
+        "Electric Usage": 50038
+    },
+    {
+        "_id": {
+            "Name": "Abq International Sunport",
+            "YearNum": 2022
+        },
+        "YearNum": 2022,
+        "Name": "Abq International Sunport",
+        "Electric Charges": 1636258.71,
+        "Electric Usage": 11253852
+    },
+    {
+        "_id": {
+            "Name": "Gibson Health Hub",
+            "YearNum": 2022
+        },
+        "YearNum": 2022,
+        "Name": "Gibson Health Hub",
+        "Electric Charges": 1057904.28,
+        "Electric Usage": 9677733
+    },
+    {
+        "_id": {
+            "Name": "Old Apd",
+            "YearNum": 2022
+        },
+        "YearNum": 2022,
+        "Name": "Old Apd",
+        "Electric Charges": 766051.39,
+        "Electric Usage": 7000740
+    },
+    {
+        "_id": {
+            "Name": "Traffic Signal",
+            "YearNum": 2022
+        },
+        "YearNum": 2022,
+        "Name": "Traffic Signal",
+        "Electric Charges": 660286.29,
+        "Electric Usage": 2366650
+    },
+    {
+        "_id": {
+            "Name": "Convention Center 1",
+            "YearNum": 2022
+        },
+        "YearNum": 2022,
+        "Name": "Convention Center 1",
+        "Electric Charges": 540839.92,
+        "Electric Usage": 4431370.6
+    },
+    {
+        "_id": {
+            "Name": "Aquarium And Botanical Garden",
+            "YearNum": 2022
+        },
+        "YearNum": 2022,
+        "Name": "Aquarium And Botanical Garden",
+        "Electric Charges": 517603.59,
+        "Electric Usage": 4957198
+    },
+    {
+        "_id": {
+            "Name": "Isotopes Ball Park",
+            "YearNum": 2022
+        },
+        "YearNum": 2022,
+        "Name": "Isotopes Ball Park",
+        "Electric Charges": 375739.17,
+        "Electric Usage": 2251302
+    },
+    {
+        "_id": {
+            "Name": "Zoo",
+            "YearNum": 2022
+        },
+        "YearNum": 2022,
+        "Name": "Zoo",
+        "Electric Charges": 318062.93,
+        "Electric Usage": 3085420
+    },
+    {
+        "_id": {
+            "Name": "Convention Center 2",
+            "YearNum": 2022
+        },
+        "YearNum": 2022,
+        "Name": "Convention Center 2",
+        "Electric Charges": 259788.15,
+        "Electric Usage": 1865136
+    },
+    {
+        "_id": {
+            "Name": "Balloon Fiesta Park",
+            "YearNum": 2022
+        },
+        "YearNum": 2022,
+        "Name": "Balloon Fiesta Park",
+        "Electric Charges": 243793.55000000002,
+        "Electric Usage": 1601840
+    },
+    {
+        "_id": {
+            "Name": "Emergency Consolidation Center",
+            "YearNum": 2022
+        },
+        "YearNum": 2022,
+        "Name": "Emergency Consolidation Center",
+        "Electric Charges": 220449.32,
+        "Electric Usage": 1974600
+    },
+    {
+        "_id": {
+            "Name": "Daytona Administration - Operations",
+            "YearNum": 2022
+        },
+        "YearNum": 2022,
+        "Name": "Daytona Administration - Operations",
+        "Electric Charges": 217054.54,
+        "Electric Usage": 1511747
+    },
+    {
+        "_id": {
+            "Name": "Plaza Del Sol",
+            "YearNum": 2022
+        },
+        "YearNum": 2022,
+        "Name": "Plaza Del Sol",
+        "Electric Charges": 215462.4,
+        "Electric Usage": 1757568
+    },
+    {
+        "_id": {
+            "Name": "Underground Parking",
+            "YearNum": 2022
+        },
+        "YearNum": 2022,
+        "Name": "Underground Parking",
+        "Electric Charges": 192945.15,
+        "Electric Usage": 1828800
+    },
+    {
+        "_id": {
+            "Name": "Albuquerque Museum",
+            "YearNum": 2022
+        },
+        "YearNum": 2022,
+        "Name": "Albuquerque Museum",
+        "Electric Charges": 176784.45,
+        "Electric Usage": 1445304
+    },
+    {
+        "_id": {
+            "Name": "Los Altos Golf Course",
+            "YearNum": 2022
+        },
+        "YearNum": 2022,
+        "Name": "Los Altos Golf Course",
+        "Electric Charges": 175269.62,
+        "Electric Usage": 928208
+    },
+    {
+        "_id": {
+            "Name": "West Mesa Aquatic Center",
+            "YearNum": 2022
+        },
+        "YearNum": 2022,
+        "Name": "West Mesa Aquatic Center",
+        "Electric Charges": 172147.46000000002,
+        "Electric Usage": 1528720
+    },
+    {
+        "_id": {
+            "Name": "Metro Forensics Science Center",
+            "YearNum": 2022
+        },
+        "YearNum": 2022,
+        "Name": "Metro Forensics Science Center",
+        "Electric Charges": 153147.41,
+        "Electric Usage": 1404400
+    },
+    {
+        "_id": {
+            "Name": "Main Library",
+            "YearNum": 2022
+        },
+        "YearNum": 2022,
+        "Name": "Main Library",
+        "Electric Charges": 152464.84,
+        "Electric Usage": 1042560
+    },
+    {
+        "_id": {
+            "Name": "Rental Car Center",
+            "YearNum": 2022
+        },
+        "YearNum": 2022,
+        "Name": "Rental Car Center",
+        "Electric Charges": 142961.12,
+        "Electric Usage": 945529
+    },
+    {
+        "_id": {
+            "Name": "Dmd Lighting",
+            "YearNum": 2022
+        },
+        "YearNum": 2022,
+        "Name": "Dmd Lighting",
+        "Electric Charges": 134746.45,
+        "Electric Usage": 766694
+    },
+    {
+        "_id": {
+            "Name": "North Domingo Baca Multi Generational Center",
+            "YearNum": 2022
+        },
+        "YearNum": 2022,
+        "Name": "North Domingo Baca Multi Generational Center",
+        "Electric Charges": 127332.09,
+        "Electric Usage": 1019320
+    },
+    {
+        "_id": {
+            "Name": "Wyoming Yard",
+            "YearNum": 2022
+        },
+        "YearNum": 2022,
+        "Name": "Wyoming Yard",
+        "Electric Charges": 124457.47,
+        "Electric Usage": 1026880
+    },
+    {
+        "_id": {
+            "Name": "Pino Yards",
+            "YearNum": 2022
+        },
+        "YearNum": 2022,
+        "Name": "Pino Yards",
+        "Electric Charges": 123326.7,
+        "Electric Usage": 730279
+    },
+    {
+        "_id": {
+            "Name": "City Hall",
+            "YearNum": 2022
+        },
+        "YearNum": 2022,
+        "Name": "City Hall",
+        "Electric Charges": 104639.05,
+        "Electric Usage": 959200
+    },
+    {
+        "_id": {
+            "Name": "Yale Transit Administration",
+            "YearNum": 2022
+        },
+        "YearNum": 2022,
+        "Name": "Yale Transit Administration",
+        "Electric Charges": 100472.89,
+        "Electric Usage": 678280
+    },
+    {
+        "_id": {
+            "Name": "Shooting Range Park",
+            "YearNum": 2022
+        },
+        "YearNum": 2022,
+        "Name": "Shooting Range Park",
+        "Electric Charges": 90540.08,
+        "Electric Usage": 674628
+    },
+    {
+        "_id": {
+            "Name": "Law Enforcement Center",
+            "YearNum": 2022
+        },
+        "YearNum": 2022,
+        "Name": "Law Enforcement Center",
+        "Electric Charges": 89991.88,
+        "Electric Usage": 610400
+    },
+    {
+        "_id": {
+            "Name": "Alamosa Community Center",
+            "YearNum": 2022
+        },
+        "YearNum": 2022,
+        "Name": "Alamosa Community Center",
+        "Electric Charges": 89789.8,
+        "Electric Usage": 615600
+    },
+    {
+        "_id": {
+            "Name": "Solid Waste Administration",
+            "YearNum": 2022
+        },
+        "YearNum": 2022,
+        "Name": "Solid Waste Administration",
+        "Electric Charges": 87429.54000000001,
+        "Electric Usage": 670245
+    },
+    {
+        "_id": {
+            "Name": "Montessa Park",
+            "YearNum": 2022
+        },
+        "YearNum": 2022,
+        "Name": "Montessa Park",
+        "Electric Charges": 85184.52,
+        "Electric Usage": 598684
+    },
+    {
+        "_id": {
+            "Name": "Alvarado Transportation Center",
+            "YearNum": 2022
+        },
+        "YearNum": 2022,
+        "Name": "Alvarado Transportation Center",
+        "Electric Charges": 81153.8,
+        "Electric Usage": 574720
+    },
+    {
+        "_id": {
+            "Name": "Manzano Mesa Multi Generational Center",
+            "YearNum": 2022
+        },
+        "YearNum": 2022,
+        "Name": "Manzano Mesa Multi Generational Center",
+        "Electric Charges": 80592.88,
+        "Electric Usage": 439919
+    },
+    {
+        "_id": {
+            "Name": "Los Altos Park",
+            "YearNum": 2022
+        },
+        "YearNum": 2022,
+        "Name": "Los Altos Park",
+        "Electric Charges": 78638.28,
+        "Electric Usage": 586169
+    },
+    {
+        "_id": {
+            "Name": "Eclipse Aerospace",
+            "YearNum": 2022
+        },
+        "YearNum": 2022,
+        "Name": "Eclipse Aerospace",
+        "Electric Charges": 77722.99,
+        "Electric Usage": 538720
+    },
+    {
+        "_id": {
+            "Name": "Ladera Golf Course",
+            "YearNum": 2022
+        },
+        "YearNum": 2022,
+        "Name": "Ladera Golf Course",
+        "Electric Charges": 71835.92,
+        "Electric Usage": 102021
+    },
+    {
+        "_id": {
+            "Name": "Cerro Colorado Landfill",
+            "YearNum": 2022
+        },
+        "YearNum": 2022,
+        "Name": "Cerro Colorado Landfill",
+        "Electric Charges": 69231.94,
+        "Electric Usage": 289393
+    },
+    {
+        "_id": {
+            "Name": "Storm Lift Station #41",
+            "YearNum": 2022
+        },
+        "YearNum": 2022,
+        "Name": "Storm Lift Station #41",
+        "Electric Charges": 67723.11,
+        "Electric Usage": 83496
+    },
+    {
+        "_id": {
+            "Name": "Animal Welfare Eastside Shelter",
+            "YearNum": 2022
+        },
+        "YearNum": 2022,
+        "Name": "Animal Welfare Eastside Shelter",
+        "Electric Charges": 66284.98,
+        "Electric Usage": 494754
+    },
+    {
+        "_id": {
+            "Name": "John Marshall Health And Social Service Center",
+            "YearNum": 2022
+        },
+        "YearNum": 2022,
+        "Name": "John Marshall Health And Social Service Center",
+        "Electric Charges": 62816.9,
+        "Electric Usage": 386734
+    },
+    {
+        "_id": {
+            "Name": "Storm Lift Station #32",
+            "YearNum": 2022
+        },
+        "YearNum": 2022,
+        "Name": "Storm Lift Station #32",
+        "Electric Charges": 61678.25,
+        "Electric Usage": 67720
+    },
+    {
+        "_id": {
+            "Name": "Cesar Chavez Community Center",
+            "YearNum": 2022
+        },
+        "YearNum": 2022,
+        "Name": "Cesar Chavez Community Center",
+        "Electric Charges": 61503.200000000004,
+        "Electric Usage": 340480
+    },
+    {
+        "_id": {
+            "Name": "Regional Sports Complex",
+            "YearNum": 2022
+        },
+        "YearNum": 2022,
+        "Name": "Regional Sports Complex",
+        "Electric Charges": 58095.78,
+        "Electric Usage": 220560
+    },
+    {
+        "_id": {
+            "Name": "Highland Pool",
+            "YearNum": 2022
+        },
+        "YearNum": 2022,
+        "Name": "Highland Pool",
+        "Electric Charges": 58088.93,
+        "Electric Usage": 448200
+    },
+    {
+        "_id": {
+            "Name": "4th Street Yards",
+            "YearNum": 2022
+        },
+        "YearNum": 2022,
+        "Name": "4th Street Yards",
+        "Electric Charges": 57258.01,
+        "Electric Usage": 331480
+    },
+    {
+        "_id": {
+            "Name": "Double Eagle Ii Airport",
+            "YearNum": 2022
+        },
+        "YearNum": 2022,
+        "Name": "Double Eagle Ii Airport",
+        "Electric Charges": 55195.99,
+        "Electric Usage": 340472
+    },
+    {
+        "_id": {
+            "Name": "Ventana Ranch Community Park",
+            "YearNum": 2022
+        },
+        "YearNum": 2022,
+        "Name": "Ventana Ranch Community Park",
+        "Electric Charges": 52621.52,
+        "Electric Usage": 194720
+    },
+    {
+        "_id": {
+            "Name": "Taylor Ranch Community Center",
+            "YearNum": 2022
+        },
+        "YearNum": 2022,
+        "Name": "Taylor Ranch Community Center",
+        "Electric Charges": 49593.76,
+        "Electric Usage": 361920
+    },
+    {
+        "_id": {
+            "Name": "Police Training",
+            "YearNum": 2022
+        },
+        "YearNum": 2022,
+        "Name": "Police Training",
+        "Electric Charges": 45777.07,
+        "Electric Usage": 279360
+    }
+]

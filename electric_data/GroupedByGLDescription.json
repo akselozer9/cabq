@@ -1,0 +1,401 @@
+[
+    {
+        "AccNumber": [
+            "1158614721360944100"
+        ],
+        "GL_DESCRIPTION": "CITY OF ALBUQUERQUE 3315 LOMAS"
+    },
+    {
+        "AccNumber": [
+            "318329020379125100"
+        ],
+        "GL_DESCRIPTION": "CITY ABQ INTL AIRPORT 2615 CLARK CARR"
+    },
+    {
+        "AccNumber": [
+            "320625040380734100",
+            "321389000381156100"
+        ],
+        "GL_DESCRIPTION": "CITY ABQ INTL AIRPORT 3601 ACCESS ROAD C"
+    },
+    {
+        "AccNumber": [
+            "321219030381053100"
+        ],
+        "GL_DESCRIPTION": "CITY ABQ INTL AIRPORT 3621 ACCESS ROAD C"
+    },
+    {
+        "AccNumber": [
+            "321843020381411100"
+        ],
+        "GL_DESCRIPTION": "CITY ABQ INTL AIRPORT 3720 SPIRIT"
+    },
+    {
+        "AccNumber": [
+            "321844010381412100"
+        ],
+        "GL_DESCRIPTION": "CITY ABQ INTL AIRPORT 3720 ACCES ROAD D"
+    },
+    {
+        "AccNumber": [
+            "1154304831199867100"
+        ],
+        "GL_DESCRIPTION": "CITY ABQ  AVIATION NOISE MONI 1110 QUINCY"
+    },
+    {
+        "AccNumber": [
+            "1154304931199870100"
+        ],
+        "GL_DESCRIPTION": "CITY ABQ  AVIATION NOISE MONI 201 MURIEL"
+    },
+    {
+        "AccNumber": [
+            "1154306741199923100"
+        ],
+        "GL_DESCRIPTION": "CITY ABQ AVIATION 1820 VALDORA"
+    },
+    {
+        "AccNumber": [
+            "318317010379115100",
+            "322808000381930100"
+        ],
+        "GL_DESCRIPTION": "CITY ABQ INTL AIRPORT 2801 GIRARD"
+    },
+    {
+        "AccNumber": [
+            "319631010380153100"
+        ],
+        "GL_DESCRIPTION": "CITY ABQ INTL AIRPORT 2700 YALE"
+    },
+    {
+        "AccNumber": [
+            "321836010381407100"
+        ],
+        "GL_DESCRIPTION": "CITY ABQ INTL AIRPORT 1851 CLARK CARR"
+    },
+    {
+        "AccNumber": [
+            "318320000379117100",
+            "320519000380673100"
+        ],
+        "GL_DESCRIPTION": "CITY ABQ INTL AIRPORT 2200 SUNPORT POWER CENTER 1"
+    },
+    {
+        "AccNumber": [
+            "318327040379123100",
+            "318328020379124100",
+            "321293020381096100"
+        ],
+        "GL_DESCRIPTION": "CITY ABQ INTL AIRPORT 2220 KIRTLAND"
+    },
+    {
+        "AccNumber": [
+            "320248000380522100"
+        ],
+        "GL_DESCRIPTION": "CITY ABQ INTL AIRPORT 2200 SUNPORT"
+    },
+    {
+        "AccNumber": [
+            "320858010380858100"
+        ],
+        "GL_DESCRIPTION": "CITY ABQ INTL AIRPORT 2200 SUNPORT POWER CENTER 6"
+    },
+    {
+        "AccNumber": [
+            "320923020380892100"
+        ],
+        "GL_DESCRIPTION": "CITY ABQ INTL SW AIRLINE 3113 YALE"
+    },
+    {
+        "AccNumber": [
+            "321100000380986100",
+            "321101010380987100"
+        ],
+        "GL_DESCRIPTION": "CITY ABQ INTL AIRPORT 2200 SUNPORT POWER CENTER 2"
+    },
+    {
+        "AccNumber": [
+            "321174020381026100"
+        ],
+        "GL_DESCRIPTION": "CITY ABQ INTL AIRPORT 2200 SUNPORT POWER CENTER 5"
+    },
+    {
+        "AccNumber": [
+            "321178000381028100"
+        ],
+        "GL_DESCRIPTION": "CITY ABQ INTL AIRPORT 2200 SUNPORT POWER CENTER 4"
+    },
+    {
+        "AccNumber": [
+            "321290010381094100"
+        ],
+        "GL_DESCRIPTION": "CITY ABQ INTL AIRPORT 2200 SUNPORT POWER CENTER 3"
+    },
+    {
+        "AccNumber": [
+            "321642000381299100"
+        ],
+        "GL_DESCRIPTION": "CITY ABQ INTL AIRPORT 3302 YALE"
+    },
+    {
+        "AccNumber": [
+            "322646010381842100"
+        ],
+        "GL_DESCRIPTION": "CITY ABQ SUNPORT PARKING STRW 2599 SUNPORT"
+    },
+    {
+        "AccNumber": [
+            "322787000381918100",
+            "322788010273888100",
+            "322788010381919100",
+            "322839010381946100",
+            "1154897391216621100",
+            "1154962870274008100"
+        ],
+        "GL_DESCRIPTION": "CITY ABQ AVIATION 2200 SUNPORT"
+    },
+    {
+        "AccNumber": [
+            "323011000382037100"
+        ],
+        "GL_DESCRIPTION": "CITY ABQ AVIATION 2500 GEORGE"
+    },
+    {
+        "AccNumber": [
+            "323264000382170100",
+            "323264000274850100"
+        ],
+        "GL_DESCRIPTION": "CITY ABQ AVIATION 3720 SPIRIT"
+    },
+    {
+        "AccNumber": [
+            "1152553131155146100",
+            "1152553821155158100"
+        ],
+        "GL_DESCRIPTION": "CITY ABQ AVIATION 3113 YALE"
+    },
+    {
+        "AccNumber": [
+            "1153344650274265100",
+            "1154900210274262100",
+            "1155519421233934100"
+        ],
+        "GL_DESCRIPTION": "CITY ABQ 2200 SUNPORT"
+    },
+    {
+        "AccNumber": [
+            "1153988920273893100"
+        ],
+        "GL_DESCRIPTION": "CITY ABQAVIATION POWER CENTE 2200 SUNPORT"
+    },
+    {
+        "AccNumber": [
+            "1154429600274005100",
+            "1154429620273891100",
+            "1154429650246318100",
+            "1154429710272215100",
+            "1154429760269977100"
+        ],
+        "GL_DESCRIPTION": "CITY ABQ AVIATION OLD TWA 2200 SUNPORT"
+    },
+    {
+        "AccNumber": [
+            "1154457200246212100"
+        ],
+        "GL_DESCRIPTION": "CITY ABQ AVIATION FREIGHT BLDG 2220 KIRTLAND"
+    },
+    {
+        "AccNumber": [
+            "1154919820274269100",
+            "1154919821217415100"
+        ],
+        "GL_DESCRIPTION": "CITY  AVIATION 2200 SUNPORT"
+    },
+    {
+        "AccNumber": [
+            "1155073740246213100"
+        ],
+        "GL_DESCRIPTION": "CITY OF ABQ OLD SUNPORT ASIG 2220 KIRTLAND"
+    },
+    {
+        "AccNumber": [
+            "1155073740273634100"
+        ],
+        "GL_DESCRIPTION": "CITY OF ABQ OLD SUNPORT ASIG 2200 SUNPORT"
+    },
+    {
+        "AccNumber": [
+            "1155582411235629100"
+        ],
+        "GL_DESCRIPTION": "CITY ABQ  AVIATION 2207 SUNPORT"
+    },
+    {
+        "AccNumber": [
+            "1156156650381920100"
+        ],
+        "GL_DESCRIPTION": "CITY ABQ AVIATION  NORTH VAUL 2200 SUNPORT"
+    },
+    {
+        "AccNumber": [
+            "1156357011195407100"
+        ],
+        "GL_DESCRIPTION": "CITY ABQ AVIATION POWER CTR 5 2200 SUNPORT"
+    },
+    {
+        "AccNumber": [
+            "1156954551274248100"
+        ],
+        "GL_DESCRIPTION": "CITY OF ABQ AVIATION DEPT 2200 SUNPORT"
+    },
+    {
+        "AccNumber": [
+            "1158684610274260100"
+        ],
+        "GL_DESCRIPTION": "CITY ABQ LOCATOR 1 TERMINAL 2200 SUNPORT"
+    },
+    {
+        "AccNumber": [
+            "1158743920273883100"
+        ],
+        "GL_DESCRIPTION": "COA AVIATIONOLD SUNPORT GARD 2200 SUNPORT"
+    },
+    {
+        "AccNumber": [
+            "1158833280267809100"
+        ],
+        "GL_DESCRIPTION": "COAAVIATIONLSG SKYCHEFS FACI 2101 GEORGE"
+    },
+    {
+        "AccNumber": [
+            "318323020379119100"
+        ],
+        "GL_DESCRIPTION": "CITY ABQ 2920 YALE"
+    },
+    {
+        "AccNumber": [
+            "1154831150246209100"
+        ],
+        "GL_DESCRIPTION": "CITY ABQ AVIATION 2220 KIRTLAND"
+    },
+    {
+        "AccNumber": [
+            "1156533290271165100"
+        ],
+        "GL_DESCRIPTION": "CITY ABQ SIX T HANGAR 2460 CLARK CARR"
+    },
+    {
+        "AccNumber": [
+            "1156533320270661100"
+        ],
+        "GL_DESCRIPTION": "CITY ABQ SKYRUNNERS HANGAR 2440 CLARK CARR"
+    },
+    {
+        "AccNumber": [
+            "321181020381030100"
+        ],
+        "GL_DESCRIPTION": "CITY ABQ INTERNATL AIRPRT 2200 SUNPORT POWER CENTER 5"
+    },
+    {
+        "AccNumber": [
+            "321312020381109100"
+        ],
+        "GL_DESCRIPTION": "CITY ABQ SUNPORT PARKING ADMIN 2400 SUNPORT"
+    },
+    {
+        "AccNumber": [
+            "321315010381111100"
+        ],
+        "GL_DESCRIPTION": "CITY ABQ SUNPORT PARKING STRM 2599 SUNPORT"
+    },
+    {
+        "AccNumber": [
+            "1159695690246216100"
+        ],
+        "GL_DESCRIPTION": "COA SUNPORT CARGO BUILDING 2220 KIRTLAND"
+    },
+    {
+        "AccNumber": [
+            "1159720060274259100"
+        ],
+        "GL_DESCRIPTION": "COAAVIATION DEPT DEBBIE DOMBR 2200 SUNPORT"
+    },
+    {
+        "AccNumber": [
+            "1159736511379423100"
+        ],
+        "GL_DESCRIPTION": "COA SUNPORT CREDIT CARD PARKI 2200 SUNPORT"
+    },
+    {
+        "AccNumber": [
+            "1160095090274047100"
+        ],
+        "GL_DESCRIPTION": "COA  SUNPORTAUTOMATED FLIGHT 3500 ACCESS ROAD C"
+    },
+    {
+        "AccNumber": [
+            "321642001462743100",
+            "321642001462744100"
+        ],
+        "GL_DESCRIPTION": "CITY ABQ INTL AIRPORT 2935 YALE"
+    },
+    {
+        "AccNumber": [
+            "1170925601622472100"
+        ],
+        "GL_DESCRIPTION": "CITY OF ABQ 2727 SUNPORT"
+    },
+    {
+        "AccNumber": [
+            "1159720061624182100"
+        ],
+        "GL_DESCRIPTION": "COAAVIATION DEPT 2497 GEORGE"
+    },
+    {
+        "AccNumber": [
+            "1171314701631292100"
+        ],
+        "GL_DESCRIPTION": "CITY OF ABQ AVIATION DEPT 2802 GIBSON"
+    },
+    {
+        "AccNumber": [
+            "1171987001644312100"
+        ],
+        "GL_DESCRIPTION": "CITY OF ABQ AVIATION 2200 SUNPORT"
+    },
+    {
+        "AccNumber": [
+            "1156913730381544101"
+        ],
+        "GL_DESCRIPTION": "COA AVIATION 3721 SPIRIT"
+    },
+    {
+        "AccNumber": [
+            "1152553131811172100"
+        ],
+        "GL_DESCRIPTION": "CITY ABQ AVIATION 2303 GIRARD"
+    },
+    {
+        "AccNumber": [
+            "1186666621903452100"
+        ],
+        "GL_DESCRIPTION": "COAALBUQUERQUE INTERNATIONAL 2403 GEORGE"
+    },
+    {
+        "AccNumber": [
+            "1159720060273863100"
+        ],
+        "GL_DESCRIPTION": "COAAVIATION DEPT 3550 ACCESS ROAD C"
+    },
+    {
+        "AccNumber": [
+            "1191998851993153100"
+        ],
+        "GL_DESCRIPTION": "COA  SUNPORT WATER RECLAIM PR 1850 GEORGE"
+    },
+    {
+        "AccNumber": [
+            "1196934202034732100"
+        ],
+        "GL_DESCRIPTION": "COAABCWASUNPORT WATER RECLAI 2220 SUNPORT"
+    }
+]

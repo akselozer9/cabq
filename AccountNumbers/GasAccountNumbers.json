@@ -1,0 +1,2086 @@
+ [
+      {
+        "AccountNumbers": "054311413 0567245",
+        "FacilityName": "Fire Station 11",
+        "BRAINFacilityGroup": "AFR",
+        "DistrictNum": "6"
+      },
+      {
+        "AccountNumbers": "060660813 0630738",
+        "FacilityName": "Fire Station 6",
+        "BRAINFacilityGroup": "AFR",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "055150113 0575632",
+        "FacilityName": "Fire Station 12",
+        "BRAINFacilityGroup": "AFR",
+        "DistrictNum": "9"
+      },
+      {
+        "AccountNumbers": "057993413 0604065",
+        "FacilityName": "Fire Station 15",
+        "BRAINFacilityGroup": "AFR",
+        "DistrictNum": "4"
+      },
+      {
+        "AccountNumbers": "057136813 0595499",
+        "FacilityName": "Fire Station 16",
+        "BRAINFacilityGroup": "AFR",
+        "DistrictNum": "8"
+      },
+      {
+        "AccountNumbers": "060095115 0625081",
+        "FacilityName": "Fire Station 4",
+        "BRAINFacilityGroup": "AFR",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "058491313 0609043",
+        "FacilityName": "Fire Station 9 (New)",
+        "BRAINFacilityGroup": "AFR",
+        "DistrictNum": "7"
+      },
+      {
+        "AccountNumbers": "058491314 1398832",
+        "FacilityName": "Fire Station 9 (Old)",
+        "BRAINFacilityGroup": "AFR",
+        "DistrictNum": "7"
+      },
+      {
+        "AccountNumbers": "059338613 0617516",
+        "FacilityName": "Fire Station 13 and Fire Arson",
+        "BRAINFacilityGroup": "AFR"
+      },
+      {
+        "AccountNumbers": "059338713 0617517",
+        "FacilityName": "Fire Station 13 and Fire Arson",
+        "BRAINFacilityGroup": "AFR"
+      },
+      {
+        "AccountNumbers": "060438913 0628519",
+        "FacilityName": "Fire Station 10",
+        "BRAINFacilityGroup": "AFR",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "059865513 0622785",
+        "FacilityName": "Fire Station 3",
+        "BRAINFacilityGroup": "AFR",
+        "DistrictNum": "6"
+      },
+      {
+        "AccountNumbers": "067135306 1333616",
+        "FacilityName": "Fire Station 3",
+        "BRAINFacilityGroup": "AFR",
+        "DistrictNum": "6"
+      },
+      {
+        "AccountNumbers": "061906514 0643193",
+        "FacilityName": "Fire Station 17",
+        "BRAINFacilityGroup": "AFR",
+        "DistrictNum": "1"
+      },
+      {
+        "AccountNumbers": "064386213 0667990",
+        "FacilityName": "Fire Station 2",
+        "BRAINFacilityGroup": "AFR",
+        "DistrictNum": "6"
+      },
+      {
+        "AccountNumbers": "067135305 1333615",
+        "FacilityName": "Fire Station 2",
+        "BRAINFacilityGroup": "AFR",
+        "DistrictNum": "6"
+      },
+      {
+        "AccountNumbers": "062049014 0644618",
+        "FacilityName": "Fire Station 22",
+        "BRAINFacilityGroup": "AFR"
+      },
+      {
+        "AccountNumbers": "062903115 1355054",
+        "FacilityName": "Fire Station 22",
+        "BRAINFacilityGroup": "AFR"
+      },
+      {
+        "AccountNumbers": "062232914 0646457",
+        "FacilityName": "Fire Station 18",
+        "BRAINFacilityGroup": "AFR",
+        "DistrictNum": "1"
+      },
+      {
+        "AccountNumbers": "062781213 0651940",
+        "FacilityName": "Fire Station 14",
+        "BRAINFacilityGroup": "AFR",
+        "DistrictNum": "3"
+      },
+      {
+        "AccountNumbers": "064058814 0664716",
+        "FacilityName": "Fire Station 1 and Fire Marshall Office",
+        "BRAINFacilityGroup": "AFR"
+      },
+      {
+        "AccountNumbers": "115495796 1164582",
+        "FacilityName": "Fire Station 1 and Fire Marshall Office",
+        "BRAINFacilityGroup": "AFR"
+      },
+      {
+        "AccountNumbers": "062903113 0653159",
+        "FacilityName": "Fire Station 7",
+        "BRAINFacilityGroup": "AFR",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "062903114 1354955",
+        "FacilityName": "Fire Station 21",
+        "BRAINFacilityGroup": "AFR",
+        "DistrictNum": "5"
+      },
+      {
+        "AccountNumbers": "064869503 0672823",
+        "FacilityName": "Fire Academy",
+        "BRAINFacilityGroup": "AFR"
+      },
+      {
+        "AccountNumbers": "064928103 0673409",
+        "FacilityName": "Fire Station 8",
+        "BRAINFacilityGroup": "AFR",
+        "DistrictNum": "9"
+      },
+      {
+        "AccountNumbers": "065425702 0678385",
+        "FacilityName": "Fire Station 19",
+        "BRAINFacilityGroup": "AFR",
+        "DistrictNum": "7"
+      },
+      {
+        "AccountNumbers": "064869504 1159041",
+        "FacilityName": "Emergency Consolidation Center",
+        "BRAINFacilityGroup": "AFR"
+      },
+      {
+        "AccountNumbers": "115625452 1204719",
+        "FacilityName": "Fire Station 20",
+        "BRAINFacilityGroup": "AFR",
+        "DistrictNum": "4"
+      },
+      {
+        "AccountNumbers": "116301261 1337665",
+        "FacilityName": "Fire Rescue Fleet Maintenance",
+        "BRAINFacilityGroup": "AFR"
+      },
+      {
+        "AccountNumbers": "064965504 0673783",
+        "FacilityName": "Animal Welfare Eastside Shelter",
+        "BRAINFacilityGroup": "Animal Welfare",
+        "DistrictNum": "6"
+      },
+      {
+        "AccountNumbers": "115500821 1219903",
+        "FacilityName": "Animal Welfare Westside Shelter",
+        "BRAINFacilityGroup": "Animal Welfare"
+      },
+      {
+        "AccountNumbers": "013492205 0157565",
+        "FacilityName": "Unmatched Account",
+        "BRAINFacilityGroup": "Unmatched Accounts",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "016370503 0274866",
+        "FacilityName": "Unmatched Account",
+        "BRAINFacilityGroup": "Unmatched Accounts",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "016370515 0274866",
+        "FacilityName": "Unmatched Account",
+        "BRAINFacilityGroup": "Unmatched Accounts",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "018883306 1342192",
+        "FacilityName": "Unmatched Account",
+        "BRAINFacilityGroup": "Unmatched Accounts",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "059244019 0616570",
+        "FacilityName": "Unmatched Account",
+        "BRAINFacilityGroup": "Unmatched Accounts",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "115626184 1155157",
+        "FacilityName": "Unmatched Account",
+        "BRAINFacilityGroup": "Unmatched Accounts",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "116314971 0676870",
+        "FacilityName": "Unmatched Account",
+        "BRAINFacilityGroup": "Unmatched Accounts",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "055792912 0582060",
+        "FacilityName": "Unmatched Account",
+        "BRAINFacilityGroup": "Unmatched Accounts",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "016370654 1218811",
+        "FacilityName": "Unmatched Account",
+        "BRAINFacilityGroup": "Unmatched Accounts",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "016370667 0694817",
+        "FacilityName": "Unmatched Account",
+        "BRAINFacilityGroup": "Unmatched Accounts",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "060210115 0626231",
+        "FacilityName": "Unmatched Account",
+        "BRAINFacilityGroup": "Unmatched Accounts",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "067069002 0694817",
+        "FacilityName": "Unmatched Account",
+        "BRAINFacilityGroup": "Unmatched Accounts",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "115625460 1218811",
+        "FacilityName": "Unmatched Account",
+        "BRAINFacilityGroup": "Unmatched Accounts",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "116282330 1240618",
+        "FacilityName": "Unmatched Account",
+        "BRAINFacilityGroup": "Unmatched Accounts",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "016370664 0577425",
+        "FacilityName": "Unmatched Account",
+        "BRAINFacilityGroup": "Unmatched Accounts",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "065121203 0675340",
+        "FacilityName": "Unmatched Account",
+        "BRAINFacilityGroup": "Unmatched Accounts",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "067135309 0577425",
+        "FacilityName": "Unmatched Account",
+        "BRAINFacilityGroup": "Unmatched Accounts",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "016370657 0678522",
+        "FacilityName": "Unmatched Account",
+        "BRAINFacilityGroup": "Unmatched Accounts",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "055792912 0582060",
+        "FacilityName": "Unmatched Account",
+        "BRAINFacilityGroup": "Unmatched Accounts",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "065439503 0678522",
+        "FacilityName": "Unmatched Account",
+        "BRAINFacilityGroup": "Unmatched Accounts",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "067022402 0694351",
+        "FacilityName": "Unmatched Account",
+        "BRAINFacilityGroup": "Unmatched Accounts",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "054377913 0567910",
+        "FacilityName": "Unmatched Account",
+        "BRAINFacilityGroup": "Unmatched Accounts",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "058581513 0609945",
+        "FacilityName": "Unmatched Account",
+        "BRAINFacilityGroup": "Unmatched Accounts",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "053600314 0560134",
+        "FacilityName": "Unmatched Account",
+        "BRAINFacilityGroup": "Unmatched Accounts",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "116339872 0315957",
+        "FacilityName": "Unmatched Account",
+        "BRAINFacilityGroup": "Unmatched Accounts",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "116334828 0255058",
+        "FacilityName": "Unmatched Account",
+        "BRAINFacilityGroup": "Unmatched Accounts",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "116343084 1403622",
+        "FacilityName": "Unmatched Account",
+        "BRAINFacilityGroup": "Unmatched Accounts",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "023813804 1404088",
+        "FacilityName": "Unmatched Account",
+        "BRAINFacilityGroup": "Unmatched Accounts",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "116362385 1402282",
+        "FacilityName": "Unmatched Account",
+        "BRAINFacilityGroup": "Unmatched Accounts",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "016370504 0246345",
+        "FacilityName": "APD New Systems",
+        "BRAINFacilityGroup": "APD"
+      },
+      {
+        "AccountNumbers": "060233915 0626468",
+        "FacilityName": "4th Street Yards",
+        "BRAINFacilityGroup": "DMD"
+      },
+      {
+        "AccountNumbers": "016370516 1200842",
+        "FacilityName": "South Broadway Community Substation",
+        "BRAINFacilityGroup": "APD",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "115625721 1200842",
+        "FacilityName": "South Broadway Community Substation",
+        "BRAINFacilityGroup": "APD",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "016370518 1241077",
+        "FacilityName": "Lee Welsh",
+        "BRAINFacilityGroup": "Family & Community Services"
+      },
+      {
+        "AccountNumbers": "016370519 1200717",
+        "FacilityName": "Old Town Community Substation",
+        "BRAINFacilityGroup": "APD",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "115625438 1200717",
+        "FacilityName": "Old Town Community Substation",
+        "BRAINFacilityGroup": "APD",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "016370613 0622675",
+        "FacilityName": "Valley Area Command",
+        "BRAINFacilityGroup": "APD"
+      },
+      {
+        "AccountNumbers": "059244347 0622675",
+        "FacilityName": "Valley Area Command",
+        "BRAINFacilityGroup": "APD"
+      },
+      {
+        "AccountNumbers": "064881802 0672946",
+        "FacilityName": "Valley Area Command",
+        "BRAINFacilityGroup": "APD"
+      },
+      {
+        "AccountNumbers": "016370690 1327517",
+        "FacilityName": "Police Training",
+        "BRAINFacilityGroup": "APD"
+      },
+      {
+        "AccountNumbers": "059244346 1327517",
+        "FacilityName": "Police Training",
+        "BRAINFacilityGroup": "APD"
+      },
+      {
+        "AccountNumbers": "065283003 0676958",
+        "FacilityName": "Police Training",
+        "BRAINFacilityGroup": "APD"
+      },
+      {
+        "AccountNumbers": "032075005 1165526",
+        "FacilityName": "Foothills Area Command",
+        "BRAINFacilityGroup": "APD",
+        "DistrictNum": "9"
+      },
+      {
+        "AccountNumbers": "058288213 0607013",
+        "FacilityName": "Northeast Area Command",
+        "BRAINFacilityGroup": "APD",
+        "DistrictNum": "4"
+      },
+      {
+        "AccountNumbers": "060013715 0624266",
+        "FacilityName": "APD Main",
+        "BRAINFacilityGroup": "APD"
+      },
+      {
+        "AccountNumbers": "060020114 0624331",
+        "FacilityName": "City County Building",
+        "BRAINFacilityGroup": "APD"
+      },
+      {
+        "AccountNumbers": "060020015 0624329",
+        "FacilityName": "City Hall",
+        "BRAINFacilityGroup": "DMD",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "060052413 0624653",
+        "FacilityName": "Law Enforcement Center",
+        "BRAINFacilityGroup": "APD",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "062597714 0650105",
+        "FacilityName": "Southwest Area Command",
+        "BRAINFacilityGroup": "APD",
+        "DistrictNum": "1"
+      },
+      {
+        "AccountNumbers": "064501903 0669147",
+        "FacilityName": "Southeast Area Command",
+        "BRAINFacilityGroup": "APD",
+        "DistrictNum": "6"
+      },
+      {
+        "AccountNumbers": "066078602 0684913",
+        "FacilityName": "Montessa Detention",
+        "BRAINFacilityGroup": "Air Quality & Environmental Health"
+      },
+      {
+        "AccountNumbers": "066347704 0687603",
+        "FacilityName": "Old Westside Jail",
+        "BRAINFacilityGroup": "APD",
+        "DistrictNum": "1"
+      },
+      {
+        "AccountNumbers": "067135312 1208740",
+        "FacilityName": "Open Space Visitors Center",
+        "BRAINFacilityGroup": "Parks & Recreation",
+        "DistrictNum": "1"
+      },
+      {
+        "AccountNumbers": "065959802 0683725",
+        "FacilityName": "Open Space Visitors Center",
+        "BRAINFacilityGroup": "Parks & Recreation",
+        "DistrictNum": "1"
+      },
+      {
+        "AccountNumbers": "067135313 0665608",
+        "FacilityName": "Open Space Visitors Center",
+        "BRAINFacilityGroup": "Parks & Recreation",
+        "DistrictNum": "1"
+      },
+      {
+        "AccountNumbers": "115626197 1163850",
+        "FacilityName": "Open Space Visitors Center",
+        "BRAINFacilityGroup": "Parks & Recreation",
+        "DistrictNum": "1"
+      },
+      {
+        "AccountNumbers": "115626197 1163850",
+        "FacilityName": "Open Space Visitors Center",
+        "BRAINFacilityGroup": "Parks & Recreation",
+        "DistrictNum": "1"
+      },
+      {
+        "AccountNumbers": "115579448 1204249",
+        "FacilityName": "Metro Forensics Science Center",
+        "BRAINFacilityGroup": "APD",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "115625726 1208961",
+        "FacilityName": "James Dwyer Memorial Substation",
+        "BRAINFacilityGroup": "APD",
+        "DistrictNum": "8"
+      },
+      {
+        "AccountNumbers": "115971808 1348533",
+        "FacilityName": "Northwest Area Command",
+        "BRAINFacilityGroup": "APD",
+        "DistrictNum": "5"
+      },
+      {
+        "AccountNumbers": "016330002 0245959",
+        "FacilityName": "ABQ International Sunport",
+        "BRAINFacilityGroup": "Aviation"
+      },
+      {
+        "AccountNumbers": "016370521 0616560",
+        "FacilityName": "ABQ International Sunport",
+        "BRAINFacilityGroup": "Aviation"
+      },
+      {
+        "AccountNumbers": "016370523 0616867",
+        "FacilityName": "ABQ International Sunport",
+        "BRAINFacilityGroup": "Aviation"
+      },
+      {
+        "AccountNumbers": "016370526 0616792",
+        "FacilityName": "ABQ International Sunport",
+        "BRAINFacilityGroup": "Aviation"
+      },
+      {
+        "AccountNumbers": "016370527 0673901",
+        "FacilityName": "ABQ International Sunport",
+        "BRAINFacilityGroup": "Aviation"
+      },
+      {
+        "AccountNumbers": "016370528 0245959",
+        "FacilityName": "ABQ International Sunport",
+        "BRAINFacilityGroup": "Aviation"
+      },
+      {
+        "AccountNumbers": "016370531 0616557",
+        "FacilityName": "ABQ International Sunport",
+        "BRAINFacilityGroup": "Aviation"
+      },
+      {
+        "AccountNumbers": "016370623 1335608",
+        "FacilityName": "ABQ International Sunport",
+        "BRAINFacilityGroup": "Aviation"
+      },
+      {
+        "AccountNumbers": "016370780 1344027",
+        "FacilityName": "ABQ International Sunport",
+        "BRAINFacilityGroup": "Aviation"
+      },
+      {
+        "AccountNumbers": "016370781 1373109",
+        "FacilityName": "ABQ International Sunport",
+        "BRAINFacilityGroup": "Aviation"
+      },
+      {
+        "AccountNumbers": "016370782 1373110",
+        "FacilityName": "ABQ International Sunport",
+        "BRAINFacilityGroup": "Aviation"
+      },
+      {
+        "AccountNumbers": "019421002 0274458",
+        "FacilityName": "ABQ International Sunport",
+        "BRAINFacilityGroup": "Aviation"
+      },
+      {
+        "AccountNumbers": "019471203 0274847",
+        "FacilityName": "ABQ International Sunport",
+        "BRAINFacilityGroup": "Aviation"
+      },
+      {
+        "AccountNumbers": "031832303 1169666",
+        "FacilityName": "ABQ International Sunport",
+        "BRAINFacilityGroup": "Aviation"
+      },
+      {
+        "AccountNumbers": "031832705 0616557",
+        "FacilityName": "ABQ International Sunport",
+        "BRAINFacilityGroup": "Aviation"
+      },
+      {
+        "AccountNumbers": "059244316 0616573",
+        "FacilityName": "ABQ International Sunport",
+        "BRAINFacilityGroup": "Aviation"
+      },
+      {
+        "AccountNumbers": "059244317 0616810",
+        "FacilityName": "ABQ International Sunport",
+        "BRAINFacilityGroup": "Aviation"
+      },
+      {
+        "AccountNumbers": "059244318 0616560",
+        "FacilityName": "ABQ International Sunport",
+        "BRAINFacilityGroup": "Aviation"
+      },
+      {
+        "AccountNumbers": "059244319 1335608",
+        "FacilityName": "ABQ International Sunport",
+        "BRAINFacilityGroup": "Aviation"
+      },
+      {
+        "AccountNumbers": "059244320 0616867",
+        "FacilityName": "ABQ International Sunport",
+        "BRAINFacilityGroup": "Aviation"
+      },
+      {
+        "AccountNumbers": "059244322 0616871",
+        "FacilityName": "ABQ International Sunport",
+        "BRAINFacilityGroup": "Aviation"
+      },
+      {
+        "AccountNumbers": "059266214 0616792",
+        "FacilityName": "ABQ International Sunport",
+        "BRAINFacilityGroup": "Aviation"
+      },
+      {
+        "AccountNumbers": "064849102 0672619",
+        "FacilityName": "ABQ International Sunport",
+        "BRAINFacilityGroup": "Aviation"
+      },
+      {
+        "AccountNumbers": "064977302 0673901",
+        "FacilityName": "ABQ International Sunport",
+        "BRAINFacilityGroup": "Aviation"
+      },
+      {
+        "AccountNumbers": "116006411 0274047",
+        "FacilityName": "ABQ International Sunport",
+        "BRAINFacilityGroup": "Aviation"
+      },
+      {
+        "AccountNumbers": "116270213 1349281",
+        "FacilityName": "ABQ International Sunport",
+        "BRAINFacilityGroup": "Aviation"
+      },
+      {
+        "AccountNumbers": "116319188 1187887",
+        "FacilityName": "ABQ International Sunport",
+        "BRAINFacilityGroup": "Unmatched Accounts"
+      },
+      {
+        "AccountNumbers": "116319187 1185560",
+        "FacilityName": "ABQ International Sunport",
+        "BRAINFacilityGroup": "Unmatched Accounts"
+      },
+      {
+        "AccountNumbers": "115495337 1181345",
+        "FacilityName": "Rental Car Center",
+        "BRAINFacilityGroup": "Aviation",
+        "DistrictNum": "6"
+      },
+      {
+        "AccountNumbers": "016370779 1264559",
+        "FacilityName": "Double Eagle II Airport",
+        "BRAINFacilityGroup": "Aviation"
+      },
+      {
+        "AccountNumbers": "016370783 1392692",
+        "FacilityName": "Double Eagle II Airport",
+        "BRAINFacilityGroup": "Aviation"
+      },
+      {
+        "AccountNumbers": "059244315 1335607",
+        "FacilityName": "Double Eagle II Airport",
+        "BRAINFacilityGroup": "Aviation"
+      },
+      {
+        "AccountNumbers": "016370733 0682781",
+        "FacilityName": "Whittier Community Center",
+        "BRAINFacilityGroup": "Family & Community Services",
+        "DistrictNum": "6"
+      },
+      {
+        "AccountNumbers": "065865403 0682781",
+        "FacilityName": "Whittier Community Center",
+        "BRAINFacilityGroup": "Family & Community Services",
+        "DistrictNum": "6"
+      },
+      {
+        "AccountNumbers": "016370733 0682781",
+        "FacilityName": "Whittier Community Center",
+        "BRAINFacilityGroup": "Family & Community Services",
+        "DistrictNum": "6"
+      },
+      {
+        "AccountNumbers": "065865403 0682781",
+        "FacilityName": "Whittier Community Center",
+        "BRAINFacilityGroup": "Family & Community Services",
+        "DistrictNum": "6"
+      },
+      {
+        "AccountNumbers": "065142802 0675556",
+        "FacilityName": "Heights Community Center",
+        "BRAINFacilityGroup": "Family & Community Services",
+        "DistrictNum": "6"
+      },
+      {
+        "AccountNumbers": "059244337 1335617",
+        "FacilityName": "Heights Community Center",
+        "BRAINFacilityGroup": "Family & Community Services",
+        "DistrictNum": "6"
+      },
+      {
+        "AccountNumbers": "064293813 0667066",
+        "FacilityName": "Dennis Chavez Community Center",
+        "BRAINFacilityGroup": "Family & Community Services",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "065086802 0674996",
+        "FacilityName": "Thomas Bell Community Center",
+        "BRAINFacilityGroup": "Family & Community Services",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "057065013 0594781",
+        "FacilityName": "Holiday Park Community Center",
+        "BRAINFacilityGroup": "Family & Community Services",
+        "DistrictNum": "8"
+      },
+      {
+        "AccountNumbers": "057065013 0594781",
+        "FacilityName": "Holiday Park Community Center",
+        "BRAINFacilityGroup": "Family & Community Services",
+        "DistrictNum": "8"
+      },
+      {
+        "AccountNumbers": "018992905 1184105",
+        "FacilityName": "Eclipse Aerospace",
+        "BRAINFacilityGroup": "Aviation"
+      },
+      {
+        "AccountNumbers": "018992906 1262859",
+        "FacilityName": "Eclipse Aerospace",
+        "BRAINFacilityGroup": "Aviation"
+      },
+      {
+        "AccountNumbers": "018992907 0270595",
+        "FacilityName": "Eclipse Aerospace",
+        "BRAINFacilityGroup": "Aviation"
+      },
+      {
+        "AccountNumbers": "056140813 0585539",
+        "FacilityName": "Jeanne Bellamah Community Center",
+        "BRAINFacilityGroup": "Family & Community Services",
+        "DistrictNum": "9"
+      },
+      {
+        "AccountNumbers": "016370728 0626447",
+        "FacilityName": "Wells Park Community Center",
+        "BRAINFacilityGroup": "Family & Community Services",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "060231714 0626447",
+        "FacilityName": "Wells Park Community Center",
+        "BRAINFacilityGroup": "Family & Community Services",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "060241213 0626542",
+        "FacilityName": "Wells Park Community Center",
+        "BRAINFacilityGroup": "Family & Community Services",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "064158314 0665711",
+        "FacilityName": "Jack Candelaria Community Center",
+        "BRAINFacilityGroup": "Family & Community Services",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "016370548 1335612",
+        "FacilityName": "Aquarium and Botanical Garden",
+        "BRAINFacilityGroup": "Cultural Services"
+      },
+      {
+        "AccountNumbers": "066406803 0688194",
+        "FacilityName": "Aquarium and Botanical Garden",
+        "BRAINFacilityGroup": "Cultural Services"
+      },
+      {
+        "AccountNumbers": "066406804 1339737",
+        "FacilityName": "Aquarium and Botanical Garden",
+        "BRAINFacilityGroup": "Cultural Services"
+      },
+      {
+        "AccountNumbers": "067310202 0697229",
+        "FacilityName": "Aquarium and Botanical Garden",
+        "BRAINFacilityGroup": "Cultural Services"
+      },
+      {
+        "AccountNumbers": "115625440 1205473",
+        "FacilityName": "Aquarium and Botanical Garden",
+        "BRAINFacilityGroup": "Cultural Services"
+      },
+      {
+        "AccountNumbers": "062866112 0652789",
+        "FacilityName": "Westgate Community Center",
+        "BRAINFacilityGroup": "Family & Community Services",
+        "DistrictNum": "3"
+      },
+      {
+        "AccountNumbers": "064452302 0668651",
+        "FacilityName": "Loma Linda Community Center",
+        "BRAINFacilityGroup": "Family & Community Services",
+        "DistrictNum": "6"
+      },
+      {
+        "AccountNumbers": "013492202 0220328",
+        "FacilityName": "Regional Transportation Management Center",
+        "BRAINFacilityGroup": "DMD"
+      },
+      {
+        "AccountNumbers": "013492203 0577421",
+        "FacilityName": "Regional Transportation Management Center",
+        "BRAINFacilityGroup": "DMD"
+      },
+      {
+        "AccountNumbers": "067116603 0695292",
+        "FacilityName": "Cesar Chavez Community Center",
+        "BRAINFacilityGroup": "Family & Community Services",
+        "DistrictNum": "6"
+      },
+      {
+        "AccountNumbers": "060613814 0630268",
+        "FacilityName": "North Valley Community Center",
+        "BRAINFacilityGroup": "Family & Community Services",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "115625720 1192909",
+        "FacilityName": "Alamosa Community Center",
+        "BRAINFacilityGroup": "Family & Community Services",
+        "DistrictNum": "3"
+      },
+      {
+        "AccountNumbers": "115444730 1160688",
+        "FacilityName": "Alamosa Community Center",
+        "BRAINFacilityGroup": "Family & Community Services",
+        "DistrictNum": "3"
+      },
+      {
+        "AccountNumbers": "115496369 1190945",
+        "FacilityName": "Alamosa Community Center",
+        "BRAINFacilityGroup": "Family & Community Services",
+        "DistrictNum": "3"
+      },
+      {
+        "AccountNumbers": "064073913 0664867",
+        "FacilityName": "Barelas Community Center",
+        "BRAINFacilityGroup": "Family & Community Services",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "064074013 0664868",
+        "FacilityName": "Barelas Community Center",
+        "BRAINFacilityGroup": "Family & Community Services",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "060462813 0628758",
+        "FacilityName": "Los Duranes Community Center",
+        "BRAINFacilityGroup": "Family & Community Services",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "115625449 1246715",
+        "FacilityName": "Taylor Ranch Community Center",
+        "BRAINFacilityGroup": "Family & Community Services",
+        "DistrictNum": "1"
+      },
+      {
+        "AccountNumbers": "064233814 0666466",
+        "FacilityName": "Herman Sanchez Community Center",
+        "BRAINFacilityGroup": "Family & Community Services",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "059244336 1335616",
+        "FacilityName": "West Mesa Community Center",
+        "BRAINFacilityGroup": "Family & Community Services",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "116123835 1370845",
+        "FacilityName": "Balloon Fiesta Park",
+        "BRAINFacilityGroup": "Cultural Services",
+        "DistrictNum": "4"
+      },
+      {
+        "AccountNumbers": "016370533 1201911",
+        "FacilityName": "Balloon Fiesta Park",
+        "BRAINFacilityGroup": "Cultural Services",
+        "DistrictNum": "4"
+      },
+      {
+        "AccountNumbers": "059244339 1181704",
+        "FacilityName": "Balloon Fiesta Park",
+        "BRAINFacilityGroup": "Cultural Services",
+        "DistrictNum": "4"
+      },
+      {
+        "AccountNumbers": "059244340 1201911",
+        "FacilityName": "Balloon Fiesta Park",
+        "BRAINFacilityGroup": "Cultural Services",
+        "DistrictNum": "4"
+      },
+      {
+        "AccountNumbers": "059244383 1199030",
+        "FacilityName": "Balloon Fiesta Park",
+        "BRAINFacilityGroup": "Cultural Services",
+        "DistrictNum": "4"
+      },
+      {
+        "AccountNumbers": "116123835 1370845",
+        "FacilityName": "Balloon Fiesta Park",
+        "BRAINFacilityGroup": "Cultural Services",
+        "DistrictNum": "4"
+      },
+      {
+        "AccountNumbers": "016370571 0260060",
+        "FacilityName": "East Central Health and Social Service Center",
+        "BRAINFacilityGroup": "Family & Community Services"
+      },
+      {
+        "AccountNumbers": "054737913 0571510",
+        "FacilityName": "East Central Health and Social Service Center",
+        "BRAINFacilityGroup": "Family & Community Services"
+      },
+      {
+        "AccountNumbers": "059244384 0260060",
+        "FacilityName": "East Central Health and Social Service Center",
+        "BRAINFacilityGroup": "Family & Community Services"
+      },
+      {
+        "AccountNumbers": "016370546 0697229",
+        "FacilityName": "Zoo",
+        "BRAINFacilityGroup": "Cultural Services",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "016370564 1380719",
+        "FacilityName": "Zoo",
+        "BRAINFacilityGroup": "Cultural Services",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "016370737 0675189",
+        "FacilityName": "Zoo",
+        "BRAINFacilityGroup": "Cultural Services",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "016370739 1260422",
+        "FacilityName": "Zoo",
+        "BRAINFacilityGroup": "Cultural Services",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "016370740 1378976",
+        "FacilityName": "Zoo",
+        "BRAINFacilityGroup": "Cultural Services",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "016370741 0662896",
+        "FacilityName": "Zoo",
+        "BRAINFacilityGroup": "Cultural Services",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "016370751 0664035",
+        "FacilityName": "Zoo",
+        "BRAINFacilityGroup": "Cultural Services",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "016370756 1225006",
+        "FacilityName": "Zoo",
+        "BRAINFacilityGroup": "Cultural Services",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "016370757 0663085",
+        "FacilityName": "Zoo",
+        "BRAINFacilityGroup": "Cultural Services",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "016370764 0668980",
+        "FacilityName": "Zoo",
+        "BRAINFacilityGroup": "Cultural Services",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "016370766 0684247",
+        "FacilityName": "Zoo",
+        "BRAINFacilityGroup": "Cultural Services",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "016370771 0691612",
+        "FacilityName": "Zoo",
+        "BRAINFacilityGroup": "Cultural Services",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "016370773 0672230",
+        "FacilityName": "Zoo",
+        "BRAINFacilityGroup": "Cultural Services",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "016370776 1225384",
+        "FacilityName": "Zoo",
+        "BRAINFacilityGroup": "Cultural Services",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "016370777 1382933",
+        "FacilityName": "Zoo",
+        "BRAINFacilityGroup": "Cultural Services",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "016370778 1392378",
+        "FacilityName": "Zoo",
+        "BRAINFacilityGroup": "Cultural Services",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "059244326 0675189",
+        "FacilityName": "Zoo",
+        "BRAINFacilityGroup": "Cultural Services",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "059244328 1260420",
+        "FacilityName": "Zoo",
+        "BRAINFacilityGroup": "Cultural Services",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "059244329 1260422",
+        "FacilityName": "Zoo",
+        "BRAINFacilityGroup": "Cultural Services",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "059244331 1267777",
+        "FacilityName": "Zoo",
+        "BRAINFacilityGroup": "Cultural Services",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "059244332 1335612",
+        "FacilityName": "Zoo",
+        "BRAINFacilityGroup": "Cultural Services",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "063876813 0662896",
+        "FacilityName": "Zoo",
+        "BRAINFacilityGroup": "Cultural Services",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "063895713 0663085",
+        "FacilityName": "Zoo",
+        "BRAINFacilityGroup": "Cultural Services",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "063990713 0664035",
+        "FacilityName": "Zoo",
+        "BRAINFacilityGroup": "Cultural Services",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "063991013 0664038",
+        "FacilityName": "Zoo",
+        "BRAINFacilityGroup": "Cultural Services",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "063991114 0664039",
+        "FacilityName": "Zoo",
+        "BRAINFacilityGroup": "Cultural Services",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "063991313 0664041",
+        "FacilityName": "Zoo",
+        "BRAINFacilityGroup": "Cultural Services",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "064399713 0668125",
+        "FacilityName": "Zoo",
+        "BRAINFacilityGroup": "Cultural Services",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "064410913 0668237",
+        "FacilityName": "Zoo",
+        "BRAINFacilityGroup": "Cultural Services",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "064414413 0668272",
+        "FacilityName": "Zoo",
+        "BRAINFacilityGroup": "Cultural Services",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "064430303 0668431",
+        "FacilityName": "Zoo",
+        "BRAINFacilityGroup": "Cultural Services",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "064485202 0668980",
+        "FacilityName": "Zoo",
+        "BRAINFacilityGroup": "Cultural Services",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "064537103 0669499",
+        "FacilityName": "Zoo",
+        "BRAINFacilityGroup": "Cultural Services",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "064810202 0672230",
+        "FacilityName": "Zoo",
+        "BRAINFacilityGroup": "Cultural Services",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "065063502 0674763",
+        "FacilityName": "Zoo",
+        "BRAINFacilityGroup": "Cultural Services",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "065129002 0675418",
+        "FacilityName": "Zoo",
+        "BRAINFacilityGroup": "Cultural Services",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "065450402 0678631",
+        "FacilityName": "Zoo",
+        "BRAINFacilityGroup": "Cultural Services",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "065450403 1347231",
+        "FacilityName": "Zoo",
+        "BRAINFacilityGroup": "Cultural Services",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "065952003 0683647",
+        "FacilityName": "Zoo",
+        "BRAINFacilityGroup": "Cultural Services",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "065980002 0683927",
+        "FacilityName": "Zoo",
+        "BRAINFacilityGroup": "Cultural Services",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "066012002 0684247",
+        "FacilityName": "Zoo",
+        "BRAINFacilityGroup": "Cultural Services",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "066748502 0691612",
+        "FacilityName": "Zoo",
+        "BRAINFacilityGroup": "Cultural Services",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "066925202 0693379",
+        "FacilityName": "Zoo",
+        "BRAINFacilityGroup": "Cultural Services",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "067006702 0694194",
+        "FacilityName": "Zoo",
+        "BRAINFacilityGroup": "Cultural Services",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "067135304 1248396",
+        "FacilityName": "Zoo",
+        "BRAINFacilityGroup": "Cultural Services",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "115526027 1225004",
+        "FacilityName": "Zoo",
+        "BRAINFacilityGroup": "Cultural Services",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "115526030 1225005",
+        "FacilityName": "Zoo",
+        "BRAINFacilityGroup": "Cultural Services",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "115526032 1225383",
+        "FacilityName": "Zoo",
+        "BRAINFacilityGroup": "Cultural Services",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "115526033 1225387",
+        "FacilityName": "Zoo",
+        "BRAINFacilityGroup": "Cultural Services",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "115526034 1225008",
+        "FacilityName": "Zoo",
+        "BRAINFacilityGroup": "Cultural Services",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "115526036 1225384",
+        "FacilityName": "Zoo",
+        "BRAINFacilityGroup": "Cultural Services",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "115526284 1225006",
+        "FacilityName": "Zoo",
+        "BRAINFacilityGroup": "Cultural Services",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "115626207 1225606",
+        "FacilityName": "Zoo",
+        "BRAINFacilityGroup": "Cultural Services",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "116187476 1378976",
+        "FacilityName": "Zoo",
+        "BRAINFacilityGroup": "Cultural Services",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "116190834 1373367",
+        "FacilityName": "Zoo",
+        "BRAINFacilityGroup": "Cultural Services",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "016370580 1335614",
+        "FacilityName": "Warehouse 508",
+        "BRAINFacilityGroup": "Family & Community Services",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "016370580 1335614",
+        "FacilityName": "Warehouse 508",
+        "BRAINFacilityGroup": "Family & Community Services",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "060210215 0626232",
+        "FacilityName": "Museum Warehouse",
+        "BRAINFacilityGroup": "Cultural Services",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "016370582 0299714",
+        "FacilityName": "Family and Community Services",
+        "BRAINFacilityGroup": "Downtown Office Buildings"
+      },
+      {
+        "AccountNumbers": "059244334 1335614",
+        "FacilityName": "Family and Community Services",
+        "BRAINFacilityGroup": "Family & Community Services"
+      },
+      {
+        "AccountNumbers": "115495798 0299714",
+        "FacilityName": "Family and Community Services",
+        "BRAINFacilityGroup": "Downtown Office Buildings"
+      },
+      {
+        "AccountNumbers": "115496573 1186456",
+        "FacilityName": "Family and Community Services",
+        "BRAINFacilityGroup": "Family & Community Services"
+      },
+      {
+        "AccountNumbers": "059244334 1335614",
+        "FacilityName": "Family and Community Services",
+        "BRAINFacilityGroup": "Family & Community Services"
+      },
+      {
+        "AccountNumbers": "060023613 0624366",
+        "FacilityName": "Kimo Theatre",
+        "BRAINFacilityGroup": "Cultural Services",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "016370578 0562942",
+        "FacilityName": "Ernie Pyle Library",
+        "BRAINFacilityGroup": "Cultural Services",
+        "DistrictNum": "6"
+      },
+      {
+        "AccountNumbers": "059244324 0562942",
+        "FacilityName": "Ernie Pyle Library",
+        "BRAINFacilityGroup": "Cultural Services",
+        "DistrictNum": "6"
+      },
+      {
+        "AccountNumbers": "060389113 0628021",
+        "FacilityName": "Albuquerque Museum",
+        "BRAINFacilityGroup": "Cultural Services",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "055578414 0579915",
+        "FacilityName": "Mesa Verde Community Center",
+        "BRAINFacilityGroup": "Family & Community Services"
+      },
+      {
+        "AccountNumbers": "016370699 0568154",
+        "FacilityName": "San Pedro Library",
+        "BRAINFacilityGroup": "Cultural Services",
+        "DistrictNum": "6"
+      },
+      {
+        "AccountNumbers": "054402313 0568154",
+        "FacilityName": "San Pedro Library",
+        "BRAINFacilityGroup": "Cultural Services",
+        "DistrictNum": "6"
+      },
+      {
+        "AccountNumbers": "060020316 0624333",
+        "FacilityName": "Main Library",
+        "BRAINFacilityGroup": "Cultural Services",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "016370709 0624659",
+        "FacilityName": "Special Collections Library",
+        "BRAINFacilityGroup": "Cultural Services",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "059244325 0624659",
+        "FacilityName": "Special Collections Library",
+        "BRAINFacilityGroup": "Cultural Services",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "056904613 0593177",
+        "FacilityName": "Juan Tabo Library",
+        "BRAINFacilityGroup": "Cultural Services",
+        "DistrictNum": "8"
+      },
+      {
+        "AccountNumbers": "064692103 0671049",
+        "FacilityName": "South Valley Library",
+        "BRAINFacilityGroup": "Cultural Services"
+      },
+      {
+        "AccountNumbers": "060674713 0630877",
+        "FacilityName": "Los Griegos Library",
+        "BRAINFacilityGroup": "Cultural Services",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "064217218 0666300",
+        "FacilityName": "South Broadway Cultural Center",
+        "BRAINFacilityGroup": "Cultural Services",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "060013414 1257315",
+        "FacilityName": "DFCS Facility Maintenance",
+        "BRAINFacilityGroup": "Family & Community Services"
+      },
+      {
+        "AccountNumbers": "016370675 0677298",
+        "FacilityName": "North Valley Library",
+        "BRAINFacilityGroup": "Cultural Services"
+      },
+      {
+        "AccountNumbers": "065317003 0677298",
+        "FacilityName": "North Valley Library",
+        "BRAINFacilityGroup": "Cultural Services"
+      },
+      {
+        "AccountNumbers": "065395702 0678085",
+        "FacilityName": "East Mountain Library",
+        "BRAINFacilityGroup": "Cultural Services",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "067375902 0697886",
+        "FacilityName": "Cherry Hills Library",
+        "BRAINFacilityGroup": "Cultural Services",
+        "DistrictNum": "4"
+      },
+      {
+        "AccountNumbers": "060248813 0626618",
+        "FacilityName": "Community Center Fleet Management",
+        "BRAINFacilityGroup": "Family & Community Services"
+      },
+      {
+        "AccountNumbers": "064941305 0673541",
+        "FacilityName": "Community Center Fleet Management",
+        "BRAINFacilityGroup": "Family & Community Services"
+      },
+      {
+        "AccountNumbers": "066207503 0686202",
+        "FacilityName": "Balloon Museum",
+        "BRAINFacilityGroup": "Cultural Services",
+        "DistrictNum": "4"
+      },
+      {
+        "AccountNumbers": "067135303 1333614",
+        "FacilityName": "Balloon Museum",
+        "BRAINFacilityGroup": "Cultural Services",
+        "DistrictNum": "4"
+      },
+      {
+        "AccountNumbers": "016370638 0583956",
+        "FacilityName": "Lomas - Tramway Library",
+        "BRAINFacilityGroup": "Cultural Services",
+        "DistrictNum": "9"
+      },
+      {
+        "AccountNumbers": "055982514 0583956",
+        "FacilityName": "Lomas - Tramway Library",
+        "BRAINFacilityGroup": "Cultural Services",
+        "DistrictNum": "9"
+      },
+      {
+        "AccountNumbers": "064447002 0668598",
+        "FacilityName": "Taylor Ranch Library",
+        "BRAINFacilityGroup": "Cultural Services",
+        "DistrictNum": "1"
+      },
+      {
+        "AccountNumbers": "016370714 1335610",
+        "FacilityName": "Tingley Beach",
+        "BRAINFacilityGroup": "Cultural Services",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "059244330 1335610",
+        "FacilityName": "Tingley Beach Train Station",
+        "BRAINFacilityGroup": "Cultural Services",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "060021819 1366923",
+        "FacilityName": "Central Unser Library",
+        "BRAINFacilityGroup": "Cultural Services",
+        "DistrictNum": "1"
+      },
+      {
+        "AccountNumbers": "057899713 0603128",
+        "FacilityName": "Pino Yards",
+        "BRAINFacilityGroup": "DMD",
+        "DistrictNum": "4"
+      },
+      {
+        "AccountNumbers": "057899812 0603129",
+        "FacilityName": "Pino Yards",
+        "BRAINFacilityGroup": "DMD",
+        "DistrictNum": "4"
+      },
+      {
+        "AccountNumbers": "060248714 0626617",
+        "FacilityName": "Fleet - Small Shop",
+        "BRAINFacilityGroup": "DMD",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "065586203 0679989",
+        "FacilityName": "Los Griegos Health and Social Service Center",
+        "BRAINFacilityGroup": "Family & Community Services"
+      },
+      {
+        "AccountNumbers": "116193624 1184717",
+        "FacilityName": "Joan Jones Community Center",
+        "BRAINFacilityGroup": "Family & Community Services"
+      },
+      {
+        "AccountNumbers": "115579451 1196030",
+        "FacilityName": "Manzano Mesa Multi Generational Center",
+        "BRAINFacilityGroup": "Senior Affairs",
+        "DistrictNum": "9"
+      },
+      {
+        "AccountNumbers": "064401212 0668140",
+        "FacilityName": "John Marshall Health and Social Service Center",
+        "BRAINFacilityGroup": "Family & Community Services"
+      },
+      {
+        "AccountNumbers": "059244314 1327919",
+        "FacilityName": "John Marshall Health and Social Service Center",
+        "BRAINFacilityGroup": "Senior Affairs"
+      },
+      {
+        "AccountNumbers": "064296115 0667089",
+        "FacilityName": "John Marshall Health and Social Service Center",
+        "BRAINFacilityGroup": "Senior Affairs"
+      },
+      {
+        "AccountNumbers": "016370579 0653436",
+        "FacilityName": "Esperanza Library",
+        "BRAINFacilityGroup": "Cultural Services"
+      },
+      {
+        "AccountNumbers": "032332501 1159149",
+        "FacilityName": "McKinley Community Center",
+        "BRAINFacilityGroup": "Family & Community Services"
+      },
+      {
+        "AccountNumbers": "115625451 1232601",
+        "FacilityName": "Erna Fergusson Library",
+        "BRAINFacilityGroup": "Cultural Services"
+      },
+      {
+        "AccountNumbers": "016370734 0611259",
+        "FacilityName": "Wyoming Library",
+        "BRAINFacilityGroup": "Cultural Services"
+      },
+      {
+        "AccountNumbers": "058712913 0611259",
+        "FacilityName": "Wyoming Library",
+        "BRAINFacilityGroup": "Cultural Services"
+      },
+      {
+        "AccountNumbers": "116322334 0573446",
+        "FacilityName": "Gibson Health Hub",
+        "BRAINFacilityGroup": "DMD",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "116322333 0568084",
+        "FacilityName": "Gibson Health Hub",
+        "BRAINFacilityGroup": "DMD",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "116322332 0672227",
+        "FacilityName": "Gibson Health Hub",
+        "BRAINFacilityGroup": "DMD",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "116322331 0568082",
+        "FacilityName": "Gibson Health Hub",
+        "BRAINFacilityGroup": "DMD",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "060022215 0624351",
+        "FacilityName": "Plaza Del Sol",
+        "BRAINFacilityGroup": "Downtown Office Buildings",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "060023013 0624360",
+        "FacilityName": "Convention Center",
+        "BRAINFacilityGroup": "Downtown Office Buildings"
+      },
+      {
+        "AccountNumbers": "064682503 0670953",
+        "FacilityName": "Convention Center",
+        "BRAINFacilityGroup": "Downtown Office Buildings"
+      },
+      {
+        "AccountNumbers": "016370574 0665610",
+        "FacilityName": "Montessa Park",
+        "BRAINFacilityGroup": "Air Quality & Environmental Health",
+        "DistrictNum": "6"
+      },
+      {
+        "AccountNumbers": "064148213 0665610",
+        "FacilityName": "Montessa Park",
+        "BRAINFacilityGroup": "Air Quality & Environmental Health",
+        "DistrictNum": "6"
+      },
+      {
+        "AccountNumbers": "064400212 0668130",
+        "FacilityName": "Montessa Park",
+        "BRAINFacilityGroup": "Air Quality & Environmental Health",
+        "DistrictNum": "6"
+      },
+      {
+        "AccountNumbers": "016370573 0158733",
+        "FacilityName": "Environmental Health",
+        "BRAINFacilityGroup": "Air Quality & Environmental Health",
+        "DistrictNum": "6"
+      },
+      {
+        "AccountNumbers": "016370656 0668130",
+        "FacilityName": "Environmental Health",
+        "BRAINFacilityGroup": "Air Quality & Environmental Health",
+        "DistrictNum": "6"
+      },
+      {
+        "AccountNumbers": "059244348 0158733",
+        "FacilityName": "Environmental Health",
+        "BRAINFacilityGroup": "Air Quality & Environmental Health",
+        "DistrictNum": "6"
+      },
+      {
+        "AccountNumbers": "064948603 0673614",
+        "FacilityName": "Environmental Health",
+        "BRAINFacilityGroup": "Air Quality & Environmental Health",
+        "DistrictNum": "6"
+      },
+      {
+        "AccountNumbers": "016370541 0310682",
+        "FacilityName": "Barelas Child Center",
+        "BRAINFacilityGroup": "Family & Community Services",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "023725101 0310682",
+        "FacilityName": "Barelas Child Center",
+        "BRAINFacilityGroup": "Family & Community Services",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "023813803 0311318",
+        "FacilityName": "Carlos Rey Child Development Center",
+        "BRAINFacilityGroup": "Family & Community Services",
+        "DistrictNum": "3"
+      },
+      {
+        "AccountNumbers": "115625444 1183933",
+        "FacilityName": "Child Development Center",
+        "BRAINFacilityGroup": "Family & Community Services",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "029916201 1381023",
+        "FacilityName": "Regional Sports Complex",
+        "BRAINFacilityGroup": "Sports",
+        "DistrictNum": "1"
+      },
+      {
+        "AccountNumbers": "057801614 0602147",
+        "FacilityName": "Greenhouse",
+        "BRAINFacilityGroup": "Cultural Services"
+      },
+      {
+        "AccountNumbers": "059244381 0624361",
+        "FacilityName": "Underground Parking",
+        "BRAINFacilityGroup": "Parking Structures",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "062930815 0653436",
+        "FacilityName": "Former Esperanza Library",
+        "BRAINFacilityGroup": "Cultural Services"
+      },
+      {
+        "AccountNumbers": "062930815 0653436",
+        "FacilityName": "Former Esperanza Library",
+        "BRAINFacilityGroup": "Cultural Services"
+      },
+      {
+        "AccountNumbers": "059244387 1239000",
+        "FacilityName": "Parking Garage Acropolis",
+        "BRAINFacilityGroup": "Parking Structures",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "055329913 0577430",
+        "FacilityName": "Los Altos Park",
+        "BRAINFacilityGroup": "Parks & Recreation",
+        "DistrictNum": "7"
+      },
+      {
+        "AccountNumbers": "059244343 0607429",
+        "FacilityName": "Montgomery Pool",
+        "BRAINFacilityGroup": "Parks & Recreation",
+        "DistrictNum": "7"
+      },
+      {
+        "AccountNumbers": "058398413 0608115",
+        "FacilityName": "Sandia Pool",
+        "BRAINFacilityGroup": "Parks & Recreation",
+        "DistrictNum": "7"
+      },
+      {
+        "AccountNumbers": "060616713 0630297",
+        "FacilityName": "Valley Pool",
+        "BRAINFacilityGroup": "Parks & Recreation",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "062272414 0646852",
+        "FacilityName": "Sierra Vista Complex",
+        "BRAINFacilityGroup": "Parks & Recreation",
+        "DistrictNum": "1"
+      },
+      {
+        "AccountNumbers": "055329513 0577426",
+        "FacilityName": "Los Altos Golf Course",
+        "BRAINFacilityGroup": "Parks & Recreation",
+        "DistrictNum": "6"
+      },
+      {
+        "AccountNumbers": "116018235 1356055",
+        "FacilityName": "Jerry Cline Complex",
+        "BRAINFacilityGroup": "Parks & Recreation",
+        "DistrictNum": "7"
+      },
+      {
+        "AccountNumbers": "058288613 0607017",
+        "FacilityName": "Arroyo del Oso Golf Course",
+        "BRAINFacilityGroup": "Parks & Recreation"
+      },
+      {
+        "AccountNumbers": "054827013 0572401",
+        "FacilityName": "Trumbull Park",
+        "BRAINFacilityGroup": "Parks & Recreation",
+        "DistrictNum": "6"
+      },
+      {
+        "AccountNumbers": "059244385 1245739",
+        "FacilityName": "NM Veterans Memorial Center",
+        "BRAINFacilityGroup": "Parks & Recreation"
+      },
+      {
+        "AccountNumbers": "115626206 1193693",
+        "FacilityName": "NM Veterans Memorial Center",
+        "BRAINFacilityGroup": "Parks & Recreation"
+      },
+      {
+        "AccountNumbers": "062598414 0650111",
+        "FacilityName": "West Mesa Aquatic Center",
+        "BRAINFacilityGroup": "Parks & Recreation",
+        "DistrictNum": "1"
+      },
+      {
+        "AccountNumbers": "016370576 0610776",
+        "FacilityName": "Embudo Towers",
+        "BRAINFacilityGroup": "Unmatched Accounts"
+      },
+      {
+        "AccountNumbers": "016370723 0624328",
+        "FacilityName": "Utility Franchise Office",
+        "BRAINFacilityGroup": "Unmatched Accounts"
+      },
+      {
+        "AccountNumbers": "016370727 0568046",
+        "FacilityName": "Wainwright Manor",
+        "BRAINFacilityGroup": "Unmatched Accounts"
+      },
+      {
+        "AccountNumbers": "059244344 0663086",
+        "FacilityName": "Rio Grande Pool",
+        "BRAINFacilityGroup": "Parks & Recreation",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "067135307 1250115",
+        "FacilityName": "Natural Gas Station",
+        "BRAINFacilityGroup": "DMD"
+      },
+      {
+        "AccountNumbers": "067135310 1333617",
+        "FacilityName": "DMD Maintenance",
+        "BRAINFacilityGroup": "DMD"
+      },
+      {
+        "AccountNumbers": "059244345 0560946",
+        "FacilityName": "Sunport Pool",
+        "BRAINFacilityGroup": "Parks & Recreation",
+        "DistrictNum": "6"
+      },
+      {
+        "AccountNumbers": "054278714 0566918",
+        "FacilityName": "Highland Pool",
+        "BRAINFacilityGroup": "Parks & Recreation",
+        "DistrictNum": "6"
+      },
+      {
+        "AccountNumbers": "059244341 0597311",
+        "FacilityName": "Eisenhower Pool",
+        "BRAINFacilityGroup": "Parks & Recreation",
+        "DistrictNum": "8"
+      },
+      {
+        "AccountNumbers": "060021818 0624348",
+        "FacilityName": "Creative ALB Space",
+        "BRAINFacilityGroup": "Parking Structures"
+      },
+      {
+        "AccountNumbers": "016370662 0609945",
+        "FacilityName": "Indian School Road",
+        "BRAINFacilityGroup": "Family & Community Services"
+      },
+      {
+        "AccountNumbers": "016370684 0626700",
+        "FacilityName": "Parks Satellite",
+        "BRAINFacilityGroup": "Parks & Recreation"
+      },
+      {
+        "AccountNumbers": "060257013 0626700",
+        "FacilityName": "Parks Satellite",
+        "BRAINFacilityGroup": "Parks & Recreation"
+      },
+      {
+        "AccountNumbers": "059244342 0666435",
+        "FacilityName": "South Broadway Pool",
+        "BRAINFacilityGroup": "Parks & Recreation"
+      },
+      {
+        "AccountNumbers": "060749313 0631623",
+        "FacilityName": "North Valley Senior Center",
+        "BRAINFacilityGroup": "Senior Affairs",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "059520413 0619334",
+        "FacilityName": "Highland Senior Center",
+        "BRAINFacilityGroup": "Senior Affairs",
+        "DistrictNum": "6"
+      },
+      {
+        "AccountNumbers": "058330013 0607431",
+        "FacilityName": "Palo Duro Senior Center",
+        "BRAINFacilityGroup": "Senior Affairs",
+        "DistrictNum": "7"
+      },
+      {
+        "AccountNumbers": "059244338 1335618",
+        "FacilityName": "Palo Duro Senior Center",
+        "BRAINFacilityGroup": "Senior Affairs",
+        "DistrictNum": "7"
+      },
+      {
+        "AccountNumbers": "057006113 0594192",
+        "FacilityName": "Bear Canyon Senior Center",
+        "BRAINFacilityGroup": "Senior Affairs",
+        "DistrictNum": "8"
+      },
+      {
+        "AccountNumbers": "064511103 0669239",
+        "FacilityName": "Los Volcanes Senior Center",
+        "BRAINFacilityGroup": "Senior Affairs",
+        "DistrictNum": "1"
+      },
+      {
+        "AccountNumbers": "060749314 1348029",
+        "FacilityName": "North Domingo Baca Multi Generational Center",
+        "BRAINFacilityGroup": "Senior Affairs",
+        "DistrictNum": "4"
+      },
+      {
+        "AccountNumbers": "115984768 1350620",
+        "FacilityName": "Casa Kitchen",
+        "BRAINFacilityGroup": "Senior Affairs",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "012886803 0356585",
+        "FacilityName": "Senior Affairs Home Services Office",
+        "BRAINFacilityGroup": "Senior Affairs",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "115626205 1243618",
+        "FacilityName": "Daytona Administration - Operations",
+        "BRAINFacilityGroup": "Transit",
+        "DistrictNum": "1"
+      },
+      {
+        "AccountNumbers": "115625457 1182232",
+        "FacilityName": "Puerto Del Sol Golf Course",
+        "BRAINFacilityGroup": "Parks & Recreation"
+      },
+      {
+        "AccountNumbers": "023813802 0632624",
+        "FacilityName": "Solid Waste Administration",
+        "BRAINFacilityGroup": "Solid Waste",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "060850816 0632638",
+        "FacilityName": "Solid Waste Administration",
+        "BRAINFacilityGroup": "Solid Waste",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "060850817 0156668",
+        "FacilityName": "Solid Waste Administration",
+        "BRAINFacilityGroup": "Solid Waste",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "059977815 0623908",
+        "FacilityName": "Vehicle Pollution",
+        "BRAINFacilityGroup": "Solid Waste",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "016370660 0677164",
+        "FacilityName": "Eagle Rock Convenience Center",
+        "BRAINFacilityGroup": "Solid Waste",
+        "DistrictNum": "4"
+      },
+      {
+        "AccountNumbers": "064038113 0664509",
+        "FacilityName": "Department of Senior Affairs Transportation and Nutrition",
+        "BRAINFacilityGroup": "Senior Affairs"
+      },
+      {
+        "AccountNumbers": "115511719 1223054",
+        "FacilityName": "Isotopes Ball Park",
+        "BRAINFacilityGroup": "Sports",
+        "DistrictNum": "6"
+      },
+      {
+        "AccountNumbers": "065303602 0677164",
+        "FacilityName": "Eagle Rock Convenience Center West",
+        "BRAINFacilityGroup": "Solid Waste"
+      },
+      {
+        "AccountNumbers": "016370719 0560133",
+        "FacilityName": "Transit NE Corner",
+        "BRAINFacilityGroup": "Transit"
+      },
+      {
+        "AccountNumbers": "053600219 0560133",
+        "FacilityName": "Transit NE Corner",
+        "BRAINFacilityGroup": "Transit"
+      },
+      {
+        "AccountNumbers": "053600014 0560130",
+        "FacilityName": "Transit Back Bus Garage",
+        "BRAINFacilityGroup": "Transit"
+      },
+      {
+        "AccountNumbers": "053600114 0560132",
+        "FacilityName": "Transit",
+        "BRAINFacilityGroup": "Transit",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "060007313 0624203",
+        "FacilityName": "Tranist Street Cleaning",
+        "BRAINFacilityGroup": "Transit"
+      },
+      {
+        "AccountNumbers": "066528202 0689409",
+        "FacilityName": "Transit Fueling Sun Tran",
+        "BRAINFacilityGroup": "Transit"
+      },
+      {
+        "AccountNumbers": "066528302 0689410",
+        "FacilityName": "Transit Refueling",
+        "BRAINFacilityGroup": "Transit"
+      },
+      {
+        "AccountNumbers": "115579447 1203595",
+        "FacilityName": "Alvarado Transportation Center",
+        "BRAINFacilityGroup": "Transit",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "115977523 1233769",
+        "FacilityName": "Railway Yards",
+        "BRAINFacilityGroup": "Unmatched Accounts",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "059244380 0665643",
+        "FacilityName": "INACTIVE"
+      },
+      {
+        "AccountNumbers": "059244321 0616870",
+        "FacilityName": "INACTIVE"
+      },
+      {
+        "AccountNumbers": "059244386 1320397",
+        "FacilityName": "INACTIVE"
+      },
+      {
+        "AccountNumbers": "064614802 0670276",
+        "FacilityName": "INACTIVE"
+      },
+      {
+        "AccountNumbers": "029756302 1241077",
+        "FacilityName": "INACTIVE"
+      },
+      {
+        "AccountNumbers": "060013413 0624264",
+        "FacilityName": "INACTIVE"
+      },
+      {
+        "AccountNumbers": "053623213 0560363",
+        "FacilityName": "INACTIVE"
+      },
+      {
+        "AccountNumbers": "065440402 0678531",
+        "FacilityName": "INACTIVE"
+      },
+      {
+        "AccountNumbers": "067135302 1219801",
+        "FacilityName": "INACTIVE"
+      },
+      {
+        "AccountNumbers": "012886804 0624652",
+        "FacilityName": "INACTIVE"
+      },
+      {
+        "AccountNumbers": "054391514 0568046",
+        "FacilityName": "INACTIVE"
+      },
+      {
+        "AccountNumbers": "024418502 0315741",
+        "FacilityName": "Unmatched Account",
+        "BRAINFacilityGroup": "Unmatched Accounts",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "001003701 1336689",
+        "FacilityName": "Unmatched Account",
+        "BRAINFacilityGroup": "Unmatched Accounts",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "116368076 1406229",
+        "FacilityName": "Unmatched Account",
+        "BRAINFacilityGroup": "Unmatched Accounts",
+        "DistrictNum": "2"
+      },
+      {
+        "AccountNumbers": "009036603 0181013",
+        "FacilityName": "Unmatched Account",
+        "BRAINFacilityGroup": "Unmatched Accounts",
+        "DistrictNum": "2"
+      }
+    ]
+  
